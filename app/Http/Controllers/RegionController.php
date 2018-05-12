@@ -44,6 +44,7 @@ class RegionController extends Controller
 
                     return $parent->children()
                         ->whereRaw("LOWER(name) LIKE '%{$q}%'")
+                        ->orderBy('name', 'asc')
                         ->get();
                 });
 
@@ -52,7 +53,9 @@ class RegionController extends Controller
             } else {
                 $parent = Region::find($parentId);
 
-                $regions = $parent->children;
+                $regions = $parent->children()
+                    ->orderBy('name', 'asc')
+                    ->get();;
 
             }
         } else {
