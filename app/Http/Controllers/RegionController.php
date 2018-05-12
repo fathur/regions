@@ -31,10 +31,33 @@ class RegionController extends Controller
     {
         if ($request->has('parent')) {
             $parent = Region::find($request->get('parent'));
-            $regions = $parent->children;
+
+            if ($request->has('q')) {
+                $q = $request->get('q');
+
+                $regions = $parent->children()
+                    ->where('name', 'like', "%{$q}%")
+                    ->get();
+
+            } else {
+                $regions = $parent->children;
+
+            }
         } else {
-            $regions = Region::whereIsRoot()->get();
+
+            if ($request->has('q')) {
+                $q = $request->get('q');
+
+                $regions =  Region::whereIsRoot()
+                    ->where('name', 'like', "%{$q}%")
+                    ->get();
+
+            } else {
+                $regions = Region::whereIsRoot()->get();
+
+            }
         }
+
 
         $resource = new Collection($regions, new RegionTransformer());
         $data = $this->fractal->createData($resource)->toArray();
