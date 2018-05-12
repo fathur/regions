@@ -33,10 +33,10 @@ class RegionController extends Controller
             $parent = Region::find($request->get('parent'));
 
             if ($request->has('q')) {
-                $q = $request->get('q');
+                $q = strtolower($request->get('q'));
 
                 $regions = $parent->children()
-                    ->where('name', 'like', "%{$q}%")
+                    ->whereRaw("LOWER(name) LIKE '%{$q}%'")
                     ->get();
 
             } else {
@@ -49,7 +49,8 @@ class RegionController extends Controller
                 $q = $request->get('q');
 
                 $regions =  Region::whereIsRoot()
-                    ->where('name', 'like', "%{$q}%")
+                    ->whereRaw("LOWER(name) LIKE '%{$q}%'")
+
                     ->get();
 
             } else {
