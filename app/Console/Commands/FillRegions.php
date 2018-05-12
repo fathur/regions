@@ -116,12 +116,12 @@ class FillRegions extends Command
     public function loadKecamatan($kabupaten, $kecamatan, $postalCode)
     {
         return \Cache::remember('region:' . str_slug($kabupaten->name . $kecamatan), Carbon::now()->addDay(), function () use ($kabupaten, $kecamatan, $postalCode) {
-            $kb = Region::where('name', '=', $kecamatan)
+            $kc = Region::where('name', '=', $kecamatan)
                 ->where('parent_id', $kabupaten->id)
                 ->first();
 
-            if (!$kb) {
-                $kb = $kabupaten->children()->create([
+            if (!$kc) {
+                $kc = $kabupaten->children()->create([
                     'name' => $kecamatan,
                     'postal_code' => $postalCode,
                     'level' => 3
@@ -130,7 +130,7 @@ class FillRegions extends Command
                 $this->info('Created kecamatan ' . $kecamatan);
             }
 
-            return $kb;
+            return $kc;
         });
     }
 
@@ -143,7 +143,7 @@ class FillRegions extends Command
 
             if (!$kb) {
                 $kb = $kecamatan->children()->create([
-                    'name' => $kecamatan,
+                    'name' => $kelurahan,
                     'level' => 4
                 ]);
 

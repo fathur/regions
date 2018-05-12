@@ -9,5 +9,5 @@ class Region extends Model
 {
     use NodeTrait;
 
-    protected $fillable = ['name', 'postal_code'];
+    protected $fillable = ['name', 'postal_code', 'level'];
 }
