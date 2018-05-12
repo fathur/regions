@@ -74,11 +74,13 @@ class FillRegions extends Command
      */
     public function loadProvince($country, $province)
     {
-        return \Cache::remember('region:' . str_slug($country->name . $province), Carbon::now()->addDay(), function () use ($province) {
-            $pv = Region::where('name', '=', $province)->first();
+        return \Cache::remember('region:' . str_slug($country->name . $province), Carbon::now()->addDay(), function () use ($country, $province) {
+            $pv = Region::where('name', '=', $province)
+                ->where('parent_id', $country->id)
+                ->first();
 
             if (!$pv) {
-                $pv = Region::create([
+                $pv = $country->children()->create([
                     'name' => $province,
                     'level' => 1
                 ]);
