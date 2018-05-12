@@ -16,7 +16,7 @@ class RegionTransformer extends TransformerAbstract
     public function transform($region)
     {
         return [
-            'key' => $region->id,
+            'id' => $region->id,
             'name' => $region->name,
             'postal_code' => $region->postal_code ?? ""
         ];
