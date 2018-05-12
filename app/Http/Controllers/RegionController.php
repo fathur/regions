@@ -12,6 +12,7 @@ namespace App\Http\Controllers;
 use App\Http\Controllers\Controller;
 use App\Model\Region;
 use App\Transformers\RegionTransformer;
+use Carbon\Carbon;
 use Illuminate\Http\Request;
 use League\Fractal\Manager;
 use League\Fractal\Resource\Collection;
@@ -30,16 +31,27 @@ class RegionController extends Controller
     public function lists(Request $request)
     {
         if ($request->has('parent')) {
-            $parent = Region::find($request->get('parent'));
+
+            $parentId = $request->get('parent');
+
 
             if ($request->has('q')) {
                 $q = strtolower($request->get('q'));
 
-                $regions = $parent->children()
-                    ->whereRaw("LOWER(name) LIKE '%{$q}%'")
-                    ->get();
+                $regions = \Cache::remember("parent:{$parentId}-q:{$q}", Carbon::now()->addDay(), function() use ($parentId, $q) {
+
+                    $parent = Region::find($parentId);
+
+                    return $parent->children()
+                        ->whereRaw("LOWER(name) LIKE '%{$q}%'")
+                        ->get();
+                });
+
+
 
             } else {
+                $parent = Region::find($parentId);
+
                 $regions = $parent->children;
 
             }
