@@ -18,6 +18,7 @@ class RegionTransformer extends TransformerAbstract
         return [
             'id' => $region->id,
             'name' => $region->name,
+            'full_name' => \Cache::get('region:full@' . $region->id),
             'postal_code' => $region->postal_code ?? ""
         ];
     }
