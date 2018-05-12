@@ -1,0 +1,500 @@
+No;Province;City/Kab;City/Kab Name;Kec/subDistrict;Kelurahan/village;Postal Code
+1;Bali;Kabupaten;Gianyar;Ubud;Kedewatan;80571
+2;Bali;Kabupaten;Gianyar;Ubud;Lodtunduh;80571
+3;Bali;Kabupaten;Gianyar;Ubud;Mas;80571
+4;Bali;Kabupaten;Gianyar;Ubud;Peliatan;80571
+5;Bali;Kabupaten;Gianyar;Ubud;Petulu;80571
+6;Bali;Kabupaten;Gianyar;Ubud;Sayan;80571
+7;Bali;Kabupaten;Gianyar;Ubud;Singakerta (Singekerta);80571
+8;Bali;Kabupaten;Gianyar;Ubud;Ubud;80571
+9;Bali;Kabupaten;Bangli;Tembuku;Bangbang;80671
+10;Bali;Kabupaten;Bangli;Tembuku;Jehem;80671
+11;Bali;Kabupaten;Bangli;Tembuku;Peninjoan;80671
+12;Bali;Kabupaten;Bangli;Tembuku;Tembuku;80671
+13;Bali;Kabupaten;Bangli;Tembuku;Undisan;80671
+14;Bali;Kabupaten;Bangli;Tembuku;Yangapi;80671
+15;Bali;Kabupaten;Buleleng;Tejakula;Bondalem;81173
+16;Bali;Kabupaten;Buleleng;Tejakula;Julah;81173
+17;Bali;Kabupaten;Buleleng;Tejakula;Les;81173
+18;Bali;Kabupaten;Buleleng;Tejakula;Madenan;81173
+19;Bali;Kabupaten;Buleleng;Tejakula;Pacung;81173
+20;Bali;Kabupaten;Buleleng;Tejakula;Penuktukan;81173
+21;Bali;Kabupaten;Buleleng;Tejakula;Sambirenteng;81173
+22;Bali;Kabupaten;Buleleng;Tejakula;Sembiran;81173
+23;Bali;Kabupaten;Buleleng;Tejakula;Tejakula;81173
+24;Bali;Kabupaten;Buleleng;Tejakula;Tembok;81173
+25;Bali;Kabupaten;Gianyar;Tegallalang;Kedisan;80561
+26;Bali;Kabupaten;Gianyar;Tegallalang;Keliki;80561
+27;Bali;Kabupaten;Gianyar;Tegallalang;Kenderan;80561
+28;Bali;Kabupaten;Gianyar;Tegallalang;Pupuan;80561
+29;Bali;Kabupaten;Gianyar;Tegallalang;Sebatu;80561
+30;Bali;Kabupaten;Gianyar;Tegallalang;Taro;80561
+31;Bali;Kabupaten;Gianyar;Tegallalang;Tegallalang;80561
+32;Bali;Kabupaten;Gianyar;Tampak Siring;Manukaya;80552
+33;Bali;Kabupaten;Gianyar;Tampak Siring;Pejeng;80552
+34;Bali;Kabupaten;Gianyar;Tampak Siring;Pejeng Kaja;80552
+35;Bali;Kabupaten;Gianyar;Tampak Siring;Pejeng Kangin;80552
+36;Bali;Kabupaten;Gianyar;Tampak Siring;Pejeng Kawan;80552
+37;Bali;Kabupaten;Gianyar;Tampak Siring;Pejeng Klod (Kelod);80552
+38;Bali;Kabupaten;Gianyar;Tampak Siring;Sanding;80552
+39;Bali;Kabupaten;Gianyar;Tampak Siring;Tampaksiring;80552
+40;Bali;Kabupaten;Tabanan;Tabanan;Bongan (Boongan);82112
+41;Bali;Kabupaten;Tabanan;Tabanan;Buahan;82115
+42;Bali;Kabupaten;Tabanan;Tabanan;Dauh Peken;82111
+43;Bali;Kabupaten;Tabanan;Tabanan;Dejan Peken (Dajan Peken);82114
+44;Bali;Kabupaten;Tabanan;Tabanan;Delod Peken;82113
+45;Bali;Kabupaten;Tabanan;Tabanan;Denbantas;82115
+46;Bali;Kabupaten;Tabanan;Tabanan;Gubug;82115
+47;Bali;Kabupaten;Tabanan;Tabanan;Sesandan;82115
+48;Bali;Kabupaten;Tabanan;Tabanan;Subamia;82115
+49;Bali;Kabupaten;Tabanan;Tabanan;Sudimara;82115
+50;Bali;Kabupaten;Tabanan;Tabanan;Tunjuk;82115
+51;Bali;Kabupaten;Tabanan;Tabanan;Wanasari;82111
+52;Bali;Kabupaten;Bangli;Susut;Abuan;80661
+53;Bali;Kabupaten;Bangli;Susut;Apuan;80661
+54;Bali;Kabupaten;Bangli;Susut;Demulih;80661
+55;Bali;Kabupaten;Bangli;Susut;Pengiangan;80661
+56;Bali;Kabupaten;Bangli;Susut;Penglumbaran;80661
+57;Bali;Kabupaten;Bangli;Susut;Selat;80661
+58;Bali;Kabupaten;Bangli;Susut;Sulahan;80661
+59;Bali;Kabupaten;Bangli;Susut;Susut;80661
+60;Bali;Kabupaten;Bangli;Susut;Tiga;80661
+61;Bali;Kabupaten;Gianyar;Sukawati;Batuan;80582
+62;Bali;Kabupaten;Gianyar;Sukawati;Batuan Kaler;80582
+63;Bali;Kabupaten;Gianyar;Sukawati;Batubulan;80582
+64;Bali;Kabupaten;Gianyar;Sukawati;Batubulan Kangin;80582
+65;Bali;Kabupaten;Gianyar;Sukawati;Celuk;80582
+66;Bali;Kabupaten;Gianyar;Sukawati;Guwang;80582
+67;Bali;Kabupaten;Gianyar;Sukawati;Kemenuh;80582
+68;Bali;Kabupaten;Gianyar;Sukawati;Ketewel;80582
+69;Bali;Kabupaten;Gianyar;Sukawati;Singapadu;80582
+70;Bali;Kabupaten;Gianyar;Sukawati;Singapadu Kaler;80582
+71;Bali;Kabupaten;Gianyar;Sukawati;Singapadu Tengah;80582
+72;Bali;Kabupaten;Gianyar;Sukawati;Sukawati;80582
+73;Bali;Kabupaten;Buleleng;Sukasada;Ambengan;81161
+74;Bali;Kabupaten;Buleleng;Sukasada;Gitgit;81161
+75;Bali;Kabupaten;Buleleng;Sukasada;Kayuputih;81161
+76;Bali;Kabupaten;Buleleng;Sukasada;Padangbulia;81161
+77;Bali;Kabupaten;Buleleng;Sukasada;Pancasari;81161
+78;Bali;Kabupaten;Buleleng;Sukasada;Panji;81161
+79;Bali;Kabupaten;Buleleng;Sukasada;Panji Anom;81161
+80;Bali;Kabupaten;Buleleng;Sukasada;Pegadungan;81161
+81;Bali;Kabupaten;Buleleng;Sukasada;Pegayaman;81161
+82;Bali;Kabupaten;Buleleng;Sukasada;Sambangan;81161
+83;Bali;Kabupaten;Buleleng;Sukasada;Selat;81161
+84;Bali;Kabupaten;Buleleng;Sukasada;Silangjana;81161
+85;Bali;Kabupaten;Buleleng;Sukasada;Sukasada;81161
+86;Bali;Kabupaten;Buleleng;Sukasada;Tegal Linggah (Tegalinggah);81161
+87;Bali;Kabupaten;Buleleng;Sukasada;Wanagiri;81161
+88;Bali;Kabupaten;Karangasem;Sidemen;Kertha Buana;80864
+89;Bali;Kabupaten;Karangasem;Sidemen;Lokasari;80864
+90;Bali;Kabupaten;Karangasem;Sidemen;Sangkan Gunung;80864
+91;Bali;Kabupaten;Karangasem;Sidemen;Sidemen;80864
+92;Bali;Kabupaten;Karangasem;Sidemen;Sindu Wati;80864
+93;Bali;Kabupaten;Karangasem;Sidemen;Talibeng;80864
+94;Bali;Kabupaten;Karangasem;Sidemen;Tangkup;80864
+95;Bali;Kabupaten;Karangasem;Sidemen;Telaga Tawang;80864
+96;Bali;Kabupaten;Karangasem;Sidemen;Tri Eka Buana;80864
+97;Bali;Kabupaten;Karangasem;Sidemen;Wisma Kerta;80864
+98;Bali;Kabupaten;Buleleng;Seririt;Banjar Asem;81153
+99;Bali;Kabupaten;Buleleng;Seririt;Bestala;81153
+100;Bali;Kabupaten;Buleleng;Seririt;Bubunan;81153
+101;Bali;Kabupaten;Buleleng;Seririt;Gunungsari;81153
+102;Bali;Kabupaten;Buleleng;Seririt;Joanyar;81153
+103;Bali;Kabupaten;Buleleng;Seririt;Kalianget;81153
+104;Bali;Kabupaten;Buleleng;Seririt;Kalisada;81153
+105;Bali;Kabupaten;Buleleng;Seririt;Lokapaksa;81153
+106;Bali;Kabupaten;Buleleng;Seririt;Mayong;81153
+107;Bali;Kabupaten;Buleleng;Seririt;Munduk Bestala;81153
+108;Bali;Kabupaten;Buleleng;Seririt;Pangkungparuk;81153
+109;Bali;Kabupaten;Buleleng;Seririt;Patemoh (Patemon);81153
+110;Bali;Kabupaten;Buleleng;Seririt;Pengastulan;81153
+111;Bali;Kabupaten;Buleleng;Seririt;Rangdu;81153
+112;Bali;Kabupaten;Buleleng;Seririt;Ringdikit;81153
+113;Bali;Kabupaten;Buleleng;Seririt;Seririt;81153
+114;Bali;Kabupaten;Buleleng;Seririt;Sulanyah;81153
+115;Bali;Kabupaten;Buleleng;Seririt;Tangguwisia;81153
+116;Bali;Kabupaten;Buleleng;Seririt;Ularan;81153
+117;Bali;Kabupaten;Buleleng;Seririt;Umeanyar;81153
+118;Bali;Kabupaten;Buleleng;Seririt;Unggahan;81153
+119;Bali;Kabupaten;Tabanan;Selemadeg;Antap;82162
+120;Bali;Kabupaten;Tabanan;Selemadeg;Bajera;82162
+121;Bali;Kabupaten;Tabanan;Selemadeg;Bajera Utara;82162
+122;Bali;Kabupaten;Tabanan;Selemadeg;Berembeng;82162
+123;Bali;Kabupaten;Tabanan;Selemadeg;Manikyang;82162
+124;Bali;Kabupaten;Tabanan;Selemadeg;Pupuan Sawah;82162
+125;Bali;Kabupaten;Tabanan;Selemadeg;Selemadeg;82162
+126;Bali;Kabupaten;Tabanan;Selemadeg;Serampingan;82162
+127;Bali;Kabupaten;Tabanan;Selemadeg;Wanagiri;82162
+128;Bali;Kabupaten;Tabanan;Selemadeg;Wanagiri Kauh;82162
+129;Bali;Kabupaten;Karangasem;Selat;Amerta Bhuana;80862
+130;Bali;Kabupaten;Karangasem;Selat;Duda;80862
+131;Bali;Kabupaten;Karangasem;Selat;Duda Timur;80862
+132;Bali;Kabupaten;Karangasem;Selat;Duda Utara;80862
+133;Bali;Kabupaten;Karangasem;Selat;Muncan;80862
+134;Bali;Kabupaten;Karangasem;Selat;Pering Sari;80862
+135;Bali;Kabupaten;Karangasem;Selat;Sebudi;80862
+136;Bali;Kabupaten;Karangasem;Selat;Selat;80862
+137;Bali;Kabupaten;Buleleng;Sawan;Bebetin;81171
+138;Bali;Kabupaten;Buleleng;Sawan;Bungkulan;81171
+139;Bali;Kabupaten;Buleleng;Sawan;Galungan;81171
+140;Bali;Kabupaten;Buleleng;Sawan;Giri Emas;81171
+141;Bali;Kabupaten;Buleleng;Sawan;Jagaraga;81171
+142;Bali;Kabupaten;Buleleng;Sawan;Kerobokan;81171
+143;Bali;Kabupaten;Buleleng;Sawan;Lemukih;81171
+144;Bali;Kabupaten;Buleleng;Sawan;Menyali;81171
+145;Bali;Kabupaten;Buleleng;Sawan;Sangsit;81171
+146;Bali;Kabupaten;Buleleng;Sawan;Sawan;81171
+147;Bali;Kabupaten;Buleleng;Sawan;Sekumpul;81171
+148;Bali;Kabupaten;Buleleng;Sawan;Sinabun;81171
+149;Bali;Kabupaten;Buleleng;Sawan;Sudaji;81171
+150;Bali;Kabupaten;Buleleng;Sawan;Suwug;81171
+151;Bali;Kabupaten;Tabanan;Salemadeg Timur;Bantas;82162
+152;Bali;Kabupaten;Tabanan;Salemadeg Timur;Beraban;82162
+153;Bali;Kabupaten;Tabanan;Salemadeg Timur;Dalang;82162
+154;Bali;Kabupaten;Tabanan;Salemadeg Timur;Gadung Sari;82162
+155;Bali;Kabupaten;Tabanan;Salemadeg Timur;Gadungan;82162
+156;Bali;Kabupaten;Tabanan;Salemadeg Timur;Gunung Salak;82162
+157;Bali;Kabupaten;Tabanan;Salemadeg Timur;Mambang;82162
+158;Bali;Kabupaten;Tabanan;Salemadeg Timur;Megati;82162
+159;Bali;Kabupaten;Tabanan;Salemadeg Timur;Tangguntiti;82162
+160;Bali;Kabupaten;Tabanan;Salemadeg Timur;Tegal Mengkeb;82162
+161;Bali;Kabupaten;Tabanan;Salemadeg Barat;Angkah;82162
+162;Bali;Kabupaten;Tabanan;Salemadeg Barat;Antosari;82162
+163;Bali;Kabupaten;Tabanan;Salemadeg Barat;Bengkel Sari;82162
+164;Bali;Kabupaten;Tabanan;Salemadeg Barat;Lalang Linggah;82162
+165;Bali;Kabupaten;Tabanan;Salemadeg Barat;Lumbung;82162
+166;Bali;Kabupaten;Tabanan;Salemadeg Barat;Lumbung Kauh;82162
+167;Bali;Kabupaten;Tabanan;Salemadeg Barat;Mundeh;82162
+168;Bali;Kabupaten;Tabanan;Salemadeg Barat;Mundeh Kangin;82162
+169;Bali;Kabupaten;Tabanan;Salemadeg Barat;Mundeh Kauh;82162
+170;Bali;Kabupaten;Tabanan;Salemadeg Barat;Selabih;82162
+171;Bali;Kabupaten;Tabanan;Salemadeg Barat;Tiying Gading;82162
+172;Bali;Kabupaten;Karangasem;Rendang;Besakih;80863
+173;Bali;Kabupaten;Karangasem;Rendang;Menanga;80863
+174;Bali;Kabupaten;Karangasem;Rendang;Nongan;80863
+175;Bali;Kabupaten;Karangasem;Rendang;Pempatan;80863
+176;Bali;Kabupaten;Karangasem;Rendang;Pesaban;80863
+177;Bali;Kabupaten;Karangasem;Rendang;Rendang;80863
+178;Bali;Kabupaten;Tabanan;Pupuan;Bantiran;82163
+179;Bali;Kabupaten;Tabanan;Pupuan;Batungsel;82163
+180;Bali;Kabupaten;Tabanan;Pupuan;Belatungan;82163
+181;Bali;Kabupaten;Tabanan;Pupuan;Belimbing;82163
+182;Bali;Kabupaten;Tabanan;Pupuan;Jelijih Punggang;82163
+183;Bali;Kabupaten;Tabanan;Pupuan;Karya Sari;82163
+184;Bali;Kabupaten;Tabanan;Pupuan;Kebon Padangan;82163
+185;Bali;Kabupaten;Tabanan;Pupuan;Munduk Temu;82163
+186;Bali;Kabupaten;Tabanan;Pupuan;Padangan;82163
+187;Bali;Kabupaten;Tabanan;Pupuan;Pajahan;82163
+188;Bali;Kabupaten;Tabanan;Pupuan;Pujungan;82163
+189;Bali;Kabupaten;Tabanan;Pupuan;Pupuan;82163
+190;Bali;Kabupaten;Tabanan;Pupuan;Sai;82163
+191;Bali;Kabupaten;Tabanan;Pupuan;Sanda;82163
+192;Bali;Kabupaten;Badung;Petang;Belok;80353
+193;Bali;Kabupaten;Badung;Petang;Carangsari;80353
+194;Bali;Kabupaten;Badung;Petang;Getasan;80353
+195;Bali;Kabupaten;Badung;Petang;Pangsan;80353
+196;Bali;Kabupaten;Badung;Petang;Pelaga;80353
+197;Bali;Kabupaten;Badung;Petang;Petang;80353
+198;Bali;Kabupaten;Badung;Petang;Sulangai;80353
+199;Bali;Kabupaten;Tabanan;Penebel;Babahan;82152
+200;Bali;Kabupaten;Tabanan;Penebel;Biaung;82152
+201;Bali;Kabupaten;Tabanan;Penebel;Buruan;82152
+202;Bali;Kabupaten;Tabanan;Penebel;Jatiluwih;82152
+203;Bali;Kabupaten;Tabanan;Penebel;Jegu;82152
+204;Bali;Kabupaten;Tabanan;Penebel;Mengeste;82152
+205;Bali;Kabupaten;Tabanan;Penebel;Penatahan;82152
+206;Bali;Kabupaten;Tabanan;Penebel;Penebel;82152
+207;Bali;Kabupaten;Tabanan;Penebel;Pesagi;82152
+208;Bali;Kabupaten;Tabanan;Penebel;Pitra;82152
+209;Bali;Kabupaten;Tabanan;Penebel;Rejasa;82152
+210;Bali;Kabupaten;Tabanan;Penebel;Riang Gede;82152
+211;Bali;Kabupaten;Tabanan;Penebel;Sangketan;82152
+212;Bali;Kabupaten;Tabanan;Penebel;Senganan;82152
+213;Bali;Kabupaten;Tabanan;Penebel;Tajen;82152
+214;Bali;Kabupaten;Tabanan;Penebel;Tegalinggah;82152
+215;Bali;Kabupaten;Tabanan;Penebel;Tengkudak;82152
+216;Bali;Kabupaten;Tabanan;Penebel;Wongaya Gede;82152
+217;Bali;Kabupaten;Jembrana;Pekutatan;Asahduren;82262
+218;Bali;Kabupaten;Jembrana;Pekutatan;Gumbrih;82262
+219;Bali;Kabupaten;Jembrana;Pekutatan;Manggissari;82262
+220;Bali;Kabupaten;Jembrana;Pekutatan;Medewi;82262
+221;Bali;Kabupaten;Jembrana;Pekutatan;Pangyangan;82262
+222;Bali;Kabupaten;Jembrana;Pekutatan;Pekutatan;82262
+223;Bali;Kabupaten;Jembrana;Pekutatan;Pengeragoan (Pengragoan);82262
+224;Bali;Kabupaten;Jembrana;Pekutatan;Pulukan;82262
+225;Bali;Kabupaten;Gianyar;Payangan;Bresela (Beresela);80572
+226;Bali;Kabupaten;Gianyar;Payangan;Buahan;80572
+227;Bali;Kabupaten;Gianyar;Payangan;Buahan Kaja;80572
+228;Bali;Kabupaten;Gianyar;Payangan;Bukian;80572
+229;Bali;Kabupaten;Gianyar;Payangan;Kelusa;80572
+230;Bali;Kabupaten;Gianyar;Payangan;Kerta;80572
+231;Bali;Kabupaten;Gianyar;Payangan;Melinggih;80572
+232;Bali;Kabupaten;Gianyar;Payangan;Melinggih Kelod;80572
+233;Bali;Kabupaten;Gianyar;Payangan;Puhu;80572
+234;Bali;Kabupaten;Klungkung;Nusapenida;Batukandik;80771
+235;Bali;Kabupaten;Klungkung;Nusapenida;Batumadeg;80771
+236;Bali;Kabupaten;Klungkung;Nusapenida;Batununggul;80771
+237;Bali;Kabupaten;Klungkung;Nusapenida;Bunga Mekar;80771
+238;Bali;Kabupaten;Klungkung;Nusapenida;Jungutbatu;80771
+239;Bali;Kabupaten;Klungkung;Nusapenida;Kampung Toyapakeh;80771
+240;Bali;Kabupaten;Klungkung;Nusapenida;Klumpu;80771
+241;Bali;Kabupaten;Klungkung;Nusapenida;Kutampi;80771
+242;Bali;Kabupaten;Klungkung;Nusapenida;Kutampi Kaler;80771
+243;Bali;Kabupaten;Klungkung;Nusapenida;Lembongan;80771
+244;Bali;Kabupaten;Klungkung;Nusapenida;Ped;80771
+245;Bali;Kabupaten;Klungkung;Nusapenida;Pejukutan;80771
+246;Bali;Kabupaten;Klungkung;Nusapenida;Sakti;80771
+247;Bali;Kabupaten;Klungkung;Nusapenida;Sekartaji;80771
+248;Bali;Kabupaten;Klungkung;Nusapenida;Suana;80771
+249;Bali;Kabupaten;Klungkung;Nusapenida;Tanglad;80771
+250;Bali;Kabupaten;Jembrana;Negara;Baler Bale Agung;82212
+251;Bali;Kabupaten;Jembrana;Negara;Baluk;82218
+252;Bali;Kabupaten;Jembrana;Negara;Banjar Tengah;82213
+253;Bali;Kabupaten;Jembrana;Negara;Banyubiru;82218
+254;Bali;Kabupaten;Jembrana;Negara;Berangbang;82218
+255;Bali;Kabupaten;Jembrana;Negara;Cupel;82218
+256;Bali;Kabupaten;Jembrana;Negara;Kaliakah;82218
+257;Bali;Kabupaten;Jembrana;Negara;Lelateng;82214
+258;Bali;Kabupaten;Jembrana;Negara;Loloan Barat;82215
+259;Bali;Kabupaten;Jembrana;Negara;Pengambengan;82218
+260;Bali;Kabupaten;Jembrana;Negara;Tegal Badeng Barat;82218
+261;Bali;Kabupaten;Jembrana;Negara;Tegal Badeng Timur;82218
+262;Bali;Kabupaten;Badung;Mengwi;Abianbase;80351
+263;Bali;Kabupaten;Badung;Mengwi;Baha;80351
+264;Bali;Kabupaten;Badung;Mengwi;Buduk;80351
+265;Bali;Kabupaten;Badung;Mengwi;Cemagi;80351
+266;Bali;Kabupaten;Badung;Mengwi;Gulingan;80351
+267;Bali;Kabupaten;Badung;Mengwi;Kapal;80351
+268;Bali;Kabupaten;Badung;Mengwi;Kekeran;80351
+269;Bali;Kabupaten;Badung;Mengwi;Kuwum;80351
+270;Bali;Kabupaten;Badung;Mengwi;Lukluk;80351
+271;Bali;Kabupaten;Badung;Mengwi;Mengwi;80351
+272;Bali;Kabupaten;Badung;Mengwi;Mengwitani;80351
+273;Bali;Kabupaten;Badung;Mengwi;Munggu;80351
+274;Bali;Kabupaten;Badung;Mengwi;Penarungan;80351
+275;Bali;Kabupaten;Badung;Mengwi;Pererenan;80351
+276;Bali;Kabupaten;Badung;Mengwi;Sading;80351
+277;Bali;Kabupaten;Badung;Mengwi;Sembung;80351
+278;Bali;Kabupaten;Badung;Mengwi;Sempidi;80351
+279;Bali;Kabupaten;Badung;Mengwi;Sobangan;80351
+280;Bali;Kabupaten;Badung;Mengwi;Tumbak Bayuh;80351
+281;Bali;Kabupaten;Badung;Mengwi;Werdi Bhuwana;80351
+282;Bali;Kabupaten;Jembrana;Mendoyo;Delod Berawah;82261
+283;Bali;Kabupaten;Jembrana;Mendoyo;Mendoyo Dangin Tukad;82261
+284;Bali;Kabupaten;Jembrana;Mendoyo;Mendoyo Dauh Tukad;82261
+285;Bali;Kabupaten;Jembrana;Mendoyo;Penyaringan;82261
+286;Bali;Kabupaten;Jembrana;Mendoyo;Pergung;82261
+287;Bali;Kabupaten;Jembrana;Mendoyo;Pohsanten;82261
+288;Bali;Kabupaten;Jembrana;Mendoyo;Tegal Cangkring;82261
+289;Bali;Kabupaten;Jembrana;Mendoyo;Yeh Embang;82261
+290;Bali;Kabupaten;Jembrana;Mendoyo;Yeh Embang Kangin;82261
+291;Bali;Kabupaten;Jembrana;Mendoyo;Yeh Embang Kauh;82261
+292;Bali;Kabupaten;Jembrana;Mendoyo;Yeh Sumbul;82261
+293;Bali;Kabupaten;Jembrana;Melaya;Blimbingsari (Belimbingsari);82252
+294;Bali;Kabupaten;Jembrana;Melaya;Candikusuma;82252
+295;Bali;Kabupaten;Jembrana;Melaya;Ekasari;82252
+296;Bali;Kabupaten;Jembrana;Melaya;Gilimanuk;82252
+297;Bali;Kabupaten;Jembrana;Melaya;Manistutu;82252
+298;Bali;Kabupaten;Jembrana;Melaya;Melaya;82252
+299;Bali;Kabupaten;Jembrana;Melaya;Nusa Sari;82252
+300;Bali;Kabupaten;Jembrana;Melaya;Tukadaya;82252
+301;Bali;Kabupaten;Jembrana;Melaya;Tuwed;82252
+302;Bali;Kabupaten;Jembrana;Melaya;Warnasari;82252
+303;Bali;Kabupaten;Tabanan;Marga;Baru;82181
+304;Bali;Kabupaten;Tabanan;Marga;Batannyuh;82181
+305;Bali;Kabupaten;Tabanan;Marga;Beringkit;82181
+306;Bali;Kabupaten;Tabanan;Marga;Cau Belayu;82181
+307;Bali;Kabupaten;Tabanan;Marga;Geluntung;82181
+308;Bali;Kabupaten;Tabanan;Marga;Kukuh;82181
+309;Bali;Kabupaten;Tabanan;Marga;Kuwum;82181
+310;Bali;Kabupaten;Tabanan;Marga;Marga;82181
+311;Bali;Kabupaten;Tabanan;Marga;Marga Dajan Puri;82181
+312;Bali;Kabupaten;Tabanan;Marga;Marga Dauh Puri;82181
+313;Bali;Kabupaten;Tabanan;Marga;Payangan;82181
+314;Bali;Kabupaten;Tabanan;Marga;Peken;82181
+315;Bali;Kabupaten;Tabanan;Marga;Petiga;82181
+316;Bali;Kabupaten;Tabanan;Marga;Selanbawak;82181
+317;Bali;Kabupaten;Tabanan;Marga;Tegaljadi;82181
+318;Bali;Kabupaten;Tabanan;Marga;Tua;82181
+319;Bali;Kabupaten;Karangasem;Manggis;Antiga;80871
+320;Bali;Kabupaten;Karangasem;Manggis;Antiga Kelod;80871
+321;Bali;Kabupaten;Karangasem;Manggis;Gegelang;80871
+322;Bali;Kabupaten;Karangasem;Manggis;Manggis;80871
+323;Bali;Kabupaten;Karangasem;Manggis;Ngis;80871
+324;Bali;Kabupaten;Karangasem;Manggis;Nyuh Tebel;80871
+325;Bali;Kabupaten;Karangasem;Manggis;Padangbai;80871
+326;Bali;Kabupaten;Karangasem;Manggis;Pesedahan;80871
+327;Bali;Kabupaten;Karangasem;Manggis;Selumbung;80871
+328;Bali;Kabupaten;Karangasem;Manggis;Sengkidu;80871
+329;Bali;Kabupaten;Karangasem;Manggis;Tenganan;80871
+330;Bali;Kabupaten;Karangasem;Manggis;Ulakan;80871
+331;Bali;Kabupaten;Badung;Kuta Utara;Canggu;80361
+332;Bali;Kabupaten;Badung;Kuta Utara;Dalung;80361
+333;Bali;Kabupaten;Badung;Kuta Utara;Kerobokan;80361
+334;Bali;Kabupaten;Badung;Kuta Utara;Kerobokan Kaja;80361
+335;Bali;Kabupaten;Badung;Kuta Utara;Kerobokan Kelod;80361
+336;Bali;Kabupaten;Badung;Kuta Utara;Tibubeneng;80361
+337;Bali;Kabupaten;Badung;Kuta Selatan;Benoa;80361
+338;Bali;Kabupaten;Badung;Kuta Selatan;Jimbaran;80361
+339;Bali;Kabupaten;Badung;Kuta Selatan;Kutuh;80361
+340;Bali;Kabupaten;Badung;Kuta Selatan;Pecatu;80361
+341;Bali;Kabupaten;Badung;Kuta Selatan;Tanjung Benoa;80361
+342;Bali;Kabupaten;Badung;Kuta Selatan;Ungasan;80361
+343;Bali;Kabupaten;Badung;Kuta;Kedonganan;80361
+344;Bali;Kabupaten;Badung;Kuta;Kuta;80361
+345;Bali;Kabupaten;Badung;Kuta;Legian;80361
+346;Bali;Kabupaten;Badung;Kuta;Seminyak;80361
+347;Bali;Kabupaten;Badung;Kuta;Tuban;80361
+348;Bali;Kabupaten;Buleleng;Kubutambahan;Bengkala;81172
+349;Bali;Kabupaten;Buleleng;Kubutambahan;Bila;81172
+350;Bali;Kabupaten;Buleleng;Kubutambahan;Bontihing;81172
+351;Bali;Kabupaten;Buleleng;Kubutambahan;Bukti;81172
+352;Bali;Kabupaten;Buleleng;Kubutambahan;Bulian;81172
+353;Bali;Kabupaten;Buleleng;Kubutambahan;Depeha;81172
+354;Bali;Kabupaten;Buleleng;Kubutambahan;Kubutambahan;81172
+355;Bali;Kabupaten;Buleleng;Kubutambahan;Mengening;81172
+356;Bali;Kabupaten;Buleleng;Kubutambahan;Pakisan;81172
+357;Bali;Kabupaten;Buleleng;Kubutambahan;Tajun;81172
+358;Bali;Kabupaten;Buleleng;Kubutambahan;Tambakan;81172
+359;Bali;Kabupaten;Buleleng;Kubutambahan;Tamblang;81172
+360;Bali;Kabupaten;Buleleng;Kubutambahan;Tunjung;81172
+361;Bali;Kabupaten;Karangasem;Kubu;Ban;80853
+362;Bali;Kabupaten;Karangasem;Kubu;Batu Ringgit;80853
+363;Bali;Kabupaten;Karangasem;Kubu;Dukuh;80853
+364;Bali;Kabupaten;Karangasem;Kubu;Kubu;80853
+365;Bali;Kabupaten;Karangasem;Kubu;Sukadana;80853
+366;Bali;Kabupaten;Karangasem;Kubu;Tianyar Barat;80853
+367;Bali;Kabupaten;Karangasem;Kubu;Tianyar Tengah;80853
+368;Bali;Kabupaten;Karangasem;Kubu;Tianyar Timur;80853
+369;Bali;Kabupaten;Karangasem;Kubu;Tulamben;80853
+370;Bali;Kabupaten;Klungkung;Klungkung;Akah;80716
+371;Bali;Kabupaten;Klungkung;Klungkung;Gelgel;80716
+372;Bali;Kabupaten;Klungkung;Klungkung;Jumpai;80716
+373;Bali;Kabupaten;Klungkung;Klungkung;Kamasan;80716
+374;Bali;Kabupaten;Klungkung;Klungkung;Kampung Gelgel;80716
+375;Bali;Kabupaten;Klungkung;Klungkung;Manduang;80716
+376;Bali;Kabupaten;Klungkung;Klungkung;Satra;80716
+377;Bali;Kabupaten;Klungkung;Klungkung;Selat;80716
+378;Bali;Kabupaten;Klungkung;Klungkung;Selisihan;80716
+379;Bali;Kabupaten;Klungkung;Klungkung;Semarapura Kaja;80712
+380;Bali;Kabupaten;Klungkung;Klungkung;Semarapura Kangin;80716
+381;Bali;Kabupaten;Klungkung;Klungkung;Semarapura Kauh;80713
+382;Bali;Kabupaten;Klungkung;Klungkung;Semarapura Klod Kangin;80716
+383;Bali;Kabupaten;Klungkung;Klungkung;Semarapura Klod/Kelod;80716
+384;Bali;Kabupaten;Klungkung;Klungkung;Semarapura Tengah;80711
+385;Bali;Kabupaten;Klungkung;Klungkung;Tangkas;80716
+386;Bali;Kabupaten;Klungkung;Klungkung;Tegak;80716
+387;Bali;Kabupaten;Klungkung;Klungkung;Tojan;80716
+388;Bali;Kabupaten;Bangli;Kintamani;Abang Songan;80652
+389;Bali;Kabupaten;Bangli;Kintamani;Abuan;80652
+390;Bali;Kabupaten;Bangli;Kintamani;Awan;80652
+391;Bali;Kabupaten;Bangli;Kintamani;Bantang;80652
+392;Bali;Kabupaten;Bangli;Kintamani;Banua;80652
+393;Bali;Kabupaten;Bangli;Kintamani;Batu Dinding;80652
+394;Bali;Kabupaten;Bangli;Kintamani;Batukaang;80652
+395;Bali;Kabupaten;Bangli;Kintamani;Batur Selatan;80652
+396;Bali;Kabupaten;Bangli;Kintamani;Batur Tengah;80652
+397;Bali;Kabupaten;Bangli;Kintamani;Batur Utara;80652
+398;Bali;Kabupaten;Bangli;Kintamani;Bayungcerik;80652
+399;Bali;Kabupaten;Bangli;Kintamani;Bayunggede;80652
+400;Bali;Kabupaten;Bangli;Kintamani;Belancan;80652
+401;Bali;Kabupaten;Bangli;Kintamani;Belandingan;80652
+402;Bali;Kabupaten;Bangli;Kintamani;Belanga;80652
+403;Bali;Kabupaten;Bangli;Kintamani;Belantih;80652
+404;Bali;Kabupaten;Bangli;Kintamani;Binyan;80652
+405;Bali;Kabupaten;Bangli;Kintamani;Bonyoh;80652
+406;Bali;Kabupaten;Bangli;Kintamani;Buahan;80652
+407;Bali;Kabupaten;Bangli;Kintamani;Bunutin;80652
+408;Bali;Kabupaten;Bangli;Kintamani;Catur;80652
+409;Bali;Kabupaten;Bangli;Kintamani;Daup;80652
+410;Bali;Kabupaten;Bangli;Kintamani;Dausa;80652
+411;Bali;Kabupaten;Bangli;Kintamani;Gunungbau;80652
+412;Bali;Kabupaten;Bangli;Kintamani;Katung;80652
+413;Bali;Kabupaten;Bangli;Kintamani;Kedisan;80652
+414;Bali;Kabupaten;Bangli;Kintamani;Kintamani;80652
+415;Bali;Kabupaten;Bangli;Kintamani;Kutuh;80652
+416;Bali;Kabupaten;Bangli;Kintamani;Langgahan;80652
+417;Bali;Kabupaten;Bangli;Kintamani;Lembean;80652
+418;Bali;Kabupaten;Bangli;Kintamani;Mangguh;80652
+419;Bali;Kabupaten;Bangli;Kintamani;Manikliyu;80652
+420;Bali;Kabupaten;Bangli;Kintamani;Mengani;80652
+421;Bali;Kabupaten;Bangli;Kintamani;Pengejaran;80652
+422;Bali;Kabupaten;Bangli;Kintamani;Pinggan;80652
+423;Bali;Kabupaten;Bangli;Kintamani;Satra;80652
+424;Bali;Kabupaten;Bangli;Kintamani;Sekaan;80652
+425;Bali;Kabupaten;Bangli;Kintamani;Sekardadi;80652
+426;Bali;Kabupaten;Bangli;Kintamani;Selulung;80652
+427;Bali;Kabupaten;Bangli;Kintamani;Serahi;80652
+428;Bali;Kabupaten;Bangli;Kintamani;Siyakin;80652
+429;Bali;Kabupaten;Bangli;Kintamani;Songan A;80652
+430;Bali;Kabupaten;Bangli;Kintamani;Songan B;80652
+431;Bali;Kabupaten;Bangli;Kintamani;Subaya;80652
+432;Bali;Kabupaten;Bangli;Kintamani;Sukawana;80652
+433;Bali;Kabupaten;Bangli;Kintamani;Suter;80652
+434;Bali;Kabupaten;Bangli;Kintamani;Terunyan;80652
+435;Bali;Kabupaten;Bangli;Kintamani;Ulian;80652
+436;Bali;Kabupaten;Tabanan;Kerambitan;Batuaji;82161
+437;Bali;Kabupaten;Tabanan;Kerambitan;Baturiti;82161
+438;Bali;Kabupaten;Tabanan;Kerambitan;Belumbang;82161
+439;Bali;Kabupaten;Tabanan;Kerambitan;Kelating;82161
+440;Bali;Kabupaten;Tabanan;Kerambitan;Kerambitan;82161
+441;Bali;Kabupaten;Tabanan;Kerambitan;Kesiut;82161
+442;Bali;Kabupaten;Tabanan;Kerambitan;Kukuh;82161
+443;Bali;Kabupaten;Tabanan;Kerambitan;Meliling;82161
+444;Bali;Kabupaten;Tabanan;Kerambitan;Pangkung Karung;82161
+445;Bali;Kabupaten;Tabanan;Kerambitan;Penarukan;82161
+446;Bali;Kabupaten;Tabanan;Kerambitan;Samsam;82161
+447;Bali;Kabupaten;Tabanan;Kerambitan;Sembung Gede;82161
+448;Bali;Kabupaten;Tabanan;Kerambitan;Tibu Biu (Tibubiyu);82161
+449;Bali;Kabupaten;Tabanan;Kerambitan;Timpag;82161
+450;Bali;Kabupaten;Tabanan;Kerambitan;Tista;82161
+451;Bali;Kabupaten;Tabanan;Kediri;Abian Tuwung;82121
+452;Bali;Kabupaten;Tabanan;Kediri;Banjar Anyar;82123
+453;Bali;Kabupaten;Tabanan;Kediri;Belalang;82121
+454;Bali;Kabupaten;Tabanan;Kediri;Bengkel;82121
+455;Bali;Kabupaten;Tabanan;Kediri;Beraban;82121
+456;Bali;Kabupaten;Tabanan;Kediri;Buwit;82121
+457;Bali;Kabupaten;Tabanan;Kediri;Cepaka;82121
+458;Bali;Kabupaten;Tabanan;Kediri;Kaba-Kaba;82121
+459;Bali;Kabupaten;Tabanan;Kediri;Kediri;82121
+460;Bali;Kabupaten;Tabanan;Kediri;Nyambu;82121
+461;Bali;Kabupaten;Tabanan;Kediri;Nyitdah;82121
+462;Bali;Kabupaten;Tabanan;Kediri;Pandak Bandung;82121
+463;Bali;Kabupaten;Tabanan;Kediri;Pandak Gede;82121
+464;Bali;Kabupaten;Tabanan;Kediri;Pangkung Tibah;82121
+465;Bali;Kabupaten;Tabanan;Kediri;Pejaten;82121
+466;Bali;Kabupaten;Karangasem;Karang Asem;Bugbug;80811
+467;Bali;Kabupaten;Karangasem;Karang Asem;Bukit;80811
+468;Bali;Kabupaten;Karangasem;Karang Asem;Karangasem;80811
+469;Bali;Kabupaten;Karangasem;Karang Asem;Padang Kerta;80811
+470;Bali;Kabupaten;Karangasem;Karang Asem;Pertima;80811
+471;Bali;Kabupaten;Karangasem;Karang Asem;Seraya Barat;80811
+472;Bali;Kabupaten;Karangasem;Karang Asem;Seraya Tengah;80811
+473;Bali;Kabupaten;Karangasem;Karang Asem;Seraya Timur;80811
+474;Bali;Kabupaten;Karangasem;Karang Asem;Subagan;80813
+475;Bali;Kabupaten;Karangasem;Karang Asem;Tegallinggah;80811
+476;Bali;Kabupaten;Karangasem;Karang Asem;Tumbu;80811
+477;Bali;Kabupaten;Jembrana;Jembrana;Air Kuning;82218
+478;Bali;Kabupaten;Jembrana;Jembrana;Batuagung;82218
+479;Bali;Kabupaten;Jembrana;Jembrana;Budeng;82218
+480;Bali;Kabupaten;Jembrana;Jembrana;Dangin Tukadaya;82218
+481;Bali;Kabupaten;Jembrana;Jembrana;Dauhwaru;82218
+482;Bali;Kabupaten;Jembrana;Jembrana;Loloan Timur;82216
+483;Bali;Kabupaten;Jembrana;Jembrana;Pendem;82211
+484;Bali;Kabupaten;Jembrana;Jembrana;Perancak;82218
+485;Bali;Kabupaten;Jembrana;Jembrana;Sangkaragung;82218
+486;Bali;Kabupaten;Jembrana;Jembrana;Yeh Kuning;82218
+487;Bali;Kabupaten;Gianyar;Gianyar;Abianbase;80515
+488;Bali;Kabupaten;Gianyar;Gianyar;Bakbakan;80515
+489;Bali;Kabupaten;Gianyar;Gianyar;Beng;80513
+490;Bali;Kabupaten;Gianyar;Gianyar;Bitera;80515
+491;Bali;Kabupaten;Gianyar;Gianyar;Gianyar;80511
+492;Bali;Kabupaten;Gianyar;Gianyar;Lebih;80515
+493;Bali;Kabupaten;Gianyar;Gianyar;Petak;80515
+494;Bali;Kabupaten;Gianyar;Gianyar;Petak Kaja;80515
+495;Bali;Kabupaten;Gianyar;Gianyar;Samplangan;80512
+496;Bali;Kabupaten;Gianyar;Gianyar;Serongga;80515
+497;Bali;Kabupaten;Gianyar;Gianyar;Siangan;80515
+498;Bali;Kabupaten;Gianyar;Gianyar;Sidan;80515
+499;Bali;Kabupaten;Gianyar;Gianyar;Sumita;80515

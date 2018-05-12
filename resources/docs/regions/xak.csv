@@ -1,0 +1,501 @@
+No;Province;City/Kab;City/Kab Name;Kec/subDistrict;Kelurahan/village;Postal Code
+5000;Gorontalo;Kabupaten;Gorontalo;Mootilango;Satria;96127
+5001;Gorontalo;Kabupaten;Gorontalo;Mootilango;Sido Mukti;96127
+5002;Gorontalo;Kabupaten;Gorontalo;Mootilango;Suka Maju;96127
+5003;Gorontalo;Kabupaten;Gorontalo;Mootilango;Talumopatu;96127
+5004;Gorontalo;Kabupaten;Gorontalo Utara;Monano;Dunu;96525
+5005;Gorontalo;Kabupaten;Gorontalo Utara;Monano;Garapia;96525
+5006;Gorontalo;Kabupaten;Gorontalo Utara;Monano;Mokonowu;96525
+5007;Gorontalo;Kabupaten;Gorontalo Utara;Monano;Monano;96525
+5008;Gorontalo;Kabupaten;Gorontalo Utara;Monano;Monas;96525
+5009;Gorontalo;Kabupaten;Gorontalo Utara;Monano;Pilohulata;96525
+5010;Gorontalo;Kabupaten;Gorontalo Utara;Monano;Sogu;96525
+5011;Gorontalo;Kabupaten;Gorontalo Utara;Monano;Tolitehuyu;96525
+5012;Gorontalo;Kabupaten;Gorontalo Utara;Monano;Tudi;96525
+5013;Gorontalo;Kabupaten;Gorontalo Utara;Monano;Zuriyati;96525
+5014;Gorontalo;Kabupaten;Pohuwato;Marisa;Batubilotahu Indah;96266
+5015;Gorontalo;Kabupaten;Pohuwato;Marisa;Bulangita;96266
+5016;Gorontalo;Kabupaten;Pohuwato;Marisa;Marisa Selatan;96466
+5017;Gorontalo;Kabupaten;Pohuwato;Marisa;Marisa Utara;96466
+5018;Gorontalo;Kabupaten;Pohuwato;Marisa;Palopo;96266
+5019;Gorontalo;Kabupaten;Pohuwato;Marisa;Pohuwato;96266
+5020;Gorontalo;Kabupaten;Pohuwato;Marisa;Pohuwato Timur;96266
+5021;Gorontalo;Kabupaten;Pohuwato;Marisa;Teratai;96266
+5022;Gorontalo;Kabupaten;Boalemo;Mananggu;Bendungan;96265
+5023;Gorontalo;Kabupaten;Boalemo;Mananggu;Buti;96265
+5024;Gorontalo;Kabupaten;Boalemo;Mananggu;Kaaruyan;96265
+5025;Gorontalo;Kabupaten;Boalemo;Mananggu;Keramat;96265
+5026;Gorontalo;Kabupaten;Boalemo;Mananggu;Mananggu;96265
+5027;Gorontalo;Kabupaten;Boalemo;Mananggu;Pontolo;96265
+5028;Gorontalo;Kabupaten;Boalemo;Mananggu;Salilama;96265
+5029;Gorontalo;Kabupaten;Boalemo;Mananggu;Tabulo;96265
+5030;Gorontalo;Kabupaten;Boalemo;Mananggu;Tabulo Selatan;96265
+5031;Gorontalo;Kabupaten;Gorontalo;Limboto Barat;Daenaa;96215
+5032;Gorontalo;Kabupaten;Gorontalo;Limboto Barat;Hayahaya;96216
+5033;Gorontalo;Kabupaten;Gorontalo;Limboto Barat;Huidu;96215
+5034;Gorontalo;Kabupaten;Gorontalo;Limboto Barat;Huidu Utara;96216
+5035;Gorontalo;Kabupaten;Gorontalo;Limboto Barat;Hutabohu;96216
+5036;Gorontalo;Kabupaten;Gorontalo;Limboto Barat;Ombulo;96215
+5037;Gorontalo;Kabupaten;Gorontalo;Limboto Barat;Padengo;96216
+5038;Gorontalo;Kabupaten;Gorontalo;Limboto Barat;Pone;96215
+5039;Gorontalo;Kabupaten;Gorontalo;Limboto Barat;Tunggulo;96217
+5040;Gorontalo;Kabupaten;Gorontalo;Limboto Barat;Yosonegoro (Yoosonegoro);96216
+5041;Gorontalo;Kabupaten;Gorontalo;Limboto;Biyonga;96212
+5042;Gorontalo;Kabupaten;Gorontalo;Limboto;Bolihuangga;96218
+5043;Gorontalo;Kabupaten;Gorontalo;Limboto;Bongohulawa;96214
+5044;Gorontalo;Kabupaten;Gorontalo;Limboto;Bulota;96213
+5045;Gorontalo;Kabupaten;Gorontalo;Limboto;Dutulanaa;96213
+5046;Gorontalo;Kabupaten;Gorontalo;Limboto;Hepuhulawa;96212
+5047;Gorontalo;Kabupaten;Gorontalo;Limboto;Hunggaluwa;96219
+5048;Gorontalo;Kabupaten;Gorontalo;Limboto;Hutuo;96213
+5049;Gorontalo;Kabupaten;Gorontalo;Limboto;Kayubulan;96211
+5050;Gorontalo;Kabupaten;Gorontalo;Limboto;Kayumerah;96214
+5051;Gorontalo;Kabupaten;Gorontalo;Limboto;Malahu;96211
+5052;Gorontalo;Kabupaten;Gorontalo;Limboto;Polohungo;96212
+5053;Gorontalo;Kabupaten;Gorontalo;Limboto;Tenilo;96218
+5054;Gorontalo;Kabupaten;Gorontalo;Limboto;Tilihua;96214
+5055;Gorontalo;Kabupaten;Pohuwato;Lemito;Babalonge;96468
+5056;Gorontalo;Kabupaten;Pohuwato;Lemito;Kenari;96468
+5057;Gorontalo;Kabupaten;Pohuwato;Lemito;Lemito;96468
+5058;Gorontalo;Kabupaten;Pohuwato;Lemito;Lemito Utara;96468
+5059;Gorontalo;Kabupaten;Pohuwato;Lemito;Lomuli;96468
+5060;Gorontalo;Kabupaten;Pohuwato;Lemito;Suka Damai;96468
+5061;Gorontalo;Kabupaten;Pohuwato;Lemito;Wonggarasi Barat;96468
+5062;Gorontalo;Kabupaten;Pohuwato;Lemito;Wonggarasi Tengah;96468
+5063;Gorontalo;Kabupaten;Gorontalo Utara;Kwandang;Alata Karya;96252
+5064;Gorontalo;Kabupaten;Gorontalo Utara;Kwandang;Botungobungo;96252
+5065;Gorontalo;Kabupaten;Gorontalo Utara;Kwandang;Botuwombata;96252
+5066;Gorontalo;Kabupaten;Gorontalo Utara;Kwandang;Bualemo;96252
+5067;Gorontalo;Kabupaten;Gorontalo Utara;Kwandang;Bulalo;96252
+5068;Gorontalo;Kabupaten;Gorontalo Utara;Kwandang;Cisadane;96252
+5069;Gorontalo;Kabupaten;Gorontalo Utara;Kwandang;Katialada;96252
+5070;Gorontalo;Kabupaten;Gorontalo Utara;Kwandang;Leboto;96252
+5071;Gorontalo;Kabupaten;Gorontalo Utara;Kwandang;Masuru;96252
+5072;Gorontalo;Kabupaten;Gorontalo Utara;Kwandang;Molingkapoto (Molinggapoto);96252
+5073;Gorontalo;Kabupaten;Gorontalo Utara;Kwandang;Molingkapoto Selatan;96252
+5074;Gorontalo;Kabupaten;Gorontalo Utara;Kwandang;Moluo;96252
+5075;Gorontalo;Kabupaten;Gorontalo Utara;Kwandang;Mootinelo;96252
+5076;Gorontalo;Kabupaten;Gorontalo Utara;Kwandang;Ombulodata;96252
+5077;Gorontalo;Kabupaten;Gorontalo Utara;Kwandang;Pontolo;96252
+5078;Gorontalo;Kabupaten;Gorontalo Utara;Kwandang;Pontolo Atas;96252
+5079;Gorontalo;Kabupaten;Gorontalo Utara;Kwandang;Posso;96252
+5080;Gorontalo;Kabupaten;Gorontalo Utara;Kwandang;Titidu;96252
+5081;Gorontalo;Kota;Gorontalo;Kota Utara;Dembe II;96121
+5082;Gorontalo;Kota;Gorontalo;Kota Utara;Dembe Jaya;96121
+5083;Gorontalo;Kota;Gorontalo;Kota Utara;Dulomo Selatan;96123
+5084;Gorontalo;Kota;Gorontalo;Kota Utara;Dulomo Utara;96123
+5085;Gorontalo;Kota;Gorontalo;Kota Utara;Wongkaditi Barat;96122
+5086;Gorontalo;Kota;Gorontalo;Kota Utara;Wongkaditi Timur;96122
+5087;Gorontalo;Kota;Gorontalo;Kota Timur;Heledulaa Selatan;96114
+5088;Gorontalo;Kota;Gorontalo;Kota Timur;Heledulaa Utara;96119
+5089;Gorontalo;Kota;Gorontalo;Kota Timur;Ipilo;96112
+5090;Gorontalo;Kota;Gorontalo;Kota Timur;Moodu;96113
+5091;Gorontalo;Kota;Gorontalo;Kota Timur;Padebuolo;96113
+5092;Gorontalo;Kota;Gorontalo;Kota Timur;Tamalate;96113
+5093;Gorontalo;Kota;Gorontalo;Kota Tengah;Dulalowo;96128
+5094;Gorontalo;Kota;Gorontalo;Kota Tengah;Dulalowo Timur;96128
+5095;Gorontalo;Kota;Gorontalo;Kota Tengah;Liluwo;96129
+5096;Gorontalo;Kota;Gorontalo;Kota Tengah;Paguyaman;96129
+5097;Gorontalo;Kota;Gorontalo;Kota Tengah;Pulubala;96127
+5098;Gorontalo;Kota;Gorontalo;Kota Tengah;Wumialo;96128
+5099;Gorontalo;Kota;Gorontalo;Kota Selatan;Biawao;96111
+5100;Gorontalo;Kota;Gorontalo;Kota Selatan;Biawu;96111
+5101;Gorontalo;Kota;Gorontalo;Kota Selatan;Limba B;96115
+5102;Gorontalo;Kota;Gorontalo;Kota Selatan;Limba U Dua (Limba U II);96115
+5103;Gorontalo;Kota;Gorontalo;Kota Selatan;Limba U Satu (Limba U I);96115
+5104;Gorontalo;Kota;Gorontalo;Kota Barat;Buladu;96136
+5105;Gorontalo;Kota;Gorontalo;Kota Barat;Buliide;96133
+5106;Gorontalo;Kota;Gorontalo;Kota Barat;Dembe I;96131
+5107;Gorontalo;Kota;Gorontalo;Kota Barat;Lekobalo;96131
+5108;Gorontalo;Kota;Gorontalo;Kota Barat;Molosifat W (Molosipat W);96134
+5109;Gorontalo;Kota;Gorontalo;Kota Barat;Pilolodaa;96132
+5110;Gorontalo;Kota;Gorontalo;Kota Barat;Tenilo;96133
+5111;Gorontalo;Kabupaten;Bone Bolango;Kabila Bone;Biluango;96583
+5112;Gorontalo;Kabupaten;Bone Bolango;Kabila Bone;Bintalahe;96585
+5113;Gorontalo;Kabupaten;Bone Bolango;Kabila Bone;Botubarani;96583
+5114;Gorontalo;Kabupaten;Bone Bolango;Kabila Bone;Botutonuo (Botutonua);96585
+5115;Gorontalo;Kabupaten;Bone Bolango;Kabila Bone;Huangobotu;96583
+5116;Gorontalo;Kabupaten;Bone Bolango;Kabila Bone;Modelomo;96585
+5117;Gorontalo;Kabupaten;Bone Bolango;Kabila Bone;Molotabu (Molutabu);96585
+5118;Gorontalo;Kabupaten;Bone Bolango;Kabila Bone;Olele;96585
+5119;Gorontalo;Kabupaten;Bone Bolango;Kabila Bone;Oluhuta;96585
+5120;Gorontalo;Kabupaten;Bone Bolango;Kabila;Dutohe;96583
+5121;Gorontalo;Kabupaten;Bone Bolango;Kabila;Dutohe Barat;96583
+5122;Gorontalo;Kabupaten;Bone Bolango;Kabila;Oluhuta;96583
+5123;Gorontalo;Kabupaten;Bone Bolango;Kabila;Oluhuta Utara;96583
+5124;Gorontalo;Kabupaten;Bone Bolango;Kabila;Padengo;96583
+5125;Gorontalo;Kabupaten;Bone Bolango;Kabila;Pauwo;96583
+5126;Gorontalo;Kabupaten;Bone Bolango;Kabila;Poowo;96583
+5127;Gorontalo;Kabupaten;Bone Bolango;Kabila;Poowo Barat;96583
+5128;Gorontalo;Kabupaten;Bone Bolango;Kabila;Talango;96583
+5129;Gorontalo;Kabupaten;Bone Bolango;Kabila;Tanggilingo;96583
+5130;Gorontalo;Kabupaten;Bone Bolango;Kabila;Toto Selatan;96583
+5131;Gorontalo;Kabupaten;Bone Bolango;Kabila;Tumbihe;96583
+5132;Gorontalo;Kota;Gorontalo;Hulonthalangi;Donggala;96116
+5133;Gorontalo;Kota;Gorontalo;Hulonthalangi;Pohe;96117
+5134;Gorontalo;Kota;Gorontalo;Hulonthalangi;Siendeng;96111
+5135;Gorontalo;Kota;Gorontalo;Hulonthalangi;Tanjung Kramat;96111
+5136;Gorontalo;Kota;Gorontalo;Hulonthalangi;Tenda;96117
+5137;Gorontalo;Kabupaten;Gorontalo Utara;Gentuma Raya;Bohusami;96253
+5138;Gorontalo;Kabupaten;Gorontalo Utara;Gentuma Raya;Dumolodo;96253
+5139;Gorontalo;Kabupaten;Gorontalo Utara;Gentuma Raya;Durian;96253
+5140;Gorontalo;Kabupaten;Gorontalo Utara;Gentuma Raya;Gentuma;96253
+5141;Gorontalo;Kabupaten;Gorontalo Utara;Gentuma Raya;Ipilo;96253
+5142;Gorontalo;Kabupaten;Gorontalo Utara;Gentuma Raya;Ketapang;96253
+5143;Gorontalo;Kabupaten;Gorontalo Utara;Gentuma Raya;Langke;96253
+5144;Gorontalo;Kabupaten;Gorontalo Utara;Gentuma Raya;Molonggota;96253
+5145;Gorontalo;Kabupaten;Gorontalo Utara;Gentuma Raya;Motomingo;96253
+5146;Gorontalo;Kabupaten;Gorontalo Utara;Gentuma Raya;Nanati Jaya;96253
+5147;Gorontalo;Kabupaten;Gorontalo Utara;Gentuma Raya;Pasalae;96253
+5148;Gorontalo;Kota;Gorontalo;Dungingi;Huangobotu;96138
+5149;Gorontalo;Kota;Gorontalo;Dungingi;Libuo;96135
+5150;Gorontalo;Kota;Gorontalo;Dungingi;Tomulabutao;96139
+5151;Gorontalo;Kota;Gorontalo;Dungingi;Tomulabutao Selatan;96139
+5152;Gorontalo;Kota;Gorontalo;Dungingi;Tuladenggi;96137
+5153;Gorontalo;Kabupaten;Gorontalo;Dungaliyo;Ambara;96271
+5154;Gorontalo;Kabupaten;Gorontalo;Dungaliyo;Ayuhula;96271
+5155;Gorontalo;Kabupaten;Gorontalo;Dungaliyo;Bongomeme;96271
+5156;Gorontalo;Kabupaten;Gorontalo;Dungaliyo;Botubu lowe;96271
+5157;Gorontalo;Kabupaten;Gorontalo;Dungaliyo;Dungaliyo;96271
+5158;Gorontalo;Kabupaten;Gorontalo;Dungaliyo;Duwanga;96271
+5159;Gorontalo;Kabupaten;Gorontalo;Dungaliyo;Kaliyoso;96271
+5160;Gorontalo;Kabupaten;Gorontalo;Dungaliyo;Momala;96271
+5161;Gorontalo;Kabupaten;Gorontalo;Dungaliyo;Pangadaa;96271
+5162;Gorontalo;Kabupaten;Gorontalo;Dungaliyo;Pilolalenga;96271
+5163;Gorontalo;Kota;Gorontalo;Dumbo Raya;Botu;96118
+5164;Gorontalo;Kota;Gorontalo;Dumbo Raya;Bugis;96112
+5165;Gorontalo;Kota;Gorontalo;Dumbo Raya;Leato Selatan;96119
+5166;Gorontalo;Kota;Gorontalo;Dumbo Raya;Leato Utara;96119
+5167;Gorontalo;Kota;Gorontalo;Dumbo Raya;Talumolo;96118
+5168;Gorontalo;Kabupaten;Boalemo;Dulupi;Dulupi;96263
+5169;Gorontalo;Kabupaten;Boalemo;Dulupi;Kotaraja;96263
+5170;Gorontalo;Kabupaten;Boalemo;Dulupi;Pangi;96263
+5171;Gorontalo;Kabupaten;Boalemo;Dulupi;Polohungo;96263
+5172;Gorontalo;Kabupaten;Boalemo;Dulupi;Tabongo;96263
+5173;Gorontalo;Kabupaten;Boalemo;Dulupi;Tanah Putih;96263
+5174;Gorontalo;Kabupaten;Boalemo;Dulupi;Tangga Barito;96263
+5175;Gorontalo;Kabupaten;Boalemo;Dulupi;Tangga Jaya;96263
+5176;Gorontalo;Kabupaten;Pohuwato;Duhiadaa;Bulili;96266
+5177;Gorontalo;Kabupaten;Pohuwato;Duhiadaa;Buntulia Barat;96266
+5178;Gorontalo;Kabupaten;Pohuwato;Duhiadaa;Buntulia Jaya;96266
+5179;Gorontalo;Kabupaten;Pohuwato;Duhiadaa;Buntulia Selatan;96266
+5180;Gorontalo;Kabupaten;Pohuwato;Duhiadaa;Duhiadaa;96266
+5181;Gorontalo;Kabupaten;Pohuwato;Duhiadaa;Mekar Jaya;96266
+5182;Gorontalo;Kabupaten;Pohuwato;Duhiadaa;Mootilango;96266
+5183;Gorontalo;Kabupaten;Pohuwato;Duhiadaa;Padeng;96266
+5184;Gorontalo;Kabupaten;Pohuwato;Dengilo;Huta Moputi;96265
+5185;Gorontalo;Kabupaten;Pohuwato;Dengilo;Karangetang;96265
+5186;Gorontalo;Kabupaten;Pohuwato;Dengilo;Karya Baru;96265
+5187;Gorontalo;Kabupaten;Pohuwato;Dengilo;Padengo;96265
+5188;Gorontalo;Kabupaten;Pohuwato;Dengilo;Popaya;96265
+5189;Gorontalo;Kabupaten;Pohuwato;Buntulia;Buntulia Tengah;96266
+5190;Gorontalo;Kabupaten;Pohuwato;Buntulia;Buntulia Utara;96266
+5191;Gorontalo;Kabupaten;Pohuwato;Buntulia;Hulawa;96266
+5192;Gorontalo;Kabupaten;Pohuwato;Buntulia;Karya Indah;96266
+5193;Gorontalo;Kabupaten;Pohuwato;Buntulia;Sipatana;96266
+5194;Gorontalo;Kabupaten;Pohuwato;Buntulia;Taluduyunu;96266
+5195;Gorontalo;Kabupaten;Pohuwato;Buntulia;Taluduyunu Utara;96266
+5196;Gorontalo;Kabupaten;Bone Bolango;Bulawa;Bukit Hijau;96585
+5197;Gorontalo;Kabupaten;Bone Bolango;Bulawa;Bunga Hijau;96585
+5198;Gorontalo;Kabupaten;Bone Bolango;Bulawa;Kaidundu;96585
+5199;Gorontalo;Kabupaten;Bone Bolango;Bulawa;Kaidundu Barat;96585
+5200;Gorontalo;Kabupaten;Bone Bolango;Bulawa;Mamungaa;96585
+5201;Gorontalo;Kabupaten;Bone Bolango;Bulawa;Mamungaa Timur;96585
+5202;Gorontalo;Kabupaten;Bone Bolango;Bulawa;Mopuya;96585
+5203;Gorontalo;Kabupaten;Bone Bolango;Bulawa;Nyiur Hijau;96585
+5204;Gorontalo;Kabupaten;Bone Bolango;Bulawa;Patoa;96585
+5205;Gorontalo;Kabupaten;Bone Bolango;Bulango Utara;Bandungan;96582
+5206;Gorontalo;Kabupaten;Bone Bolango;Bulango Utara;Boidu;96582
+5207;Gorontalo;Kabupaten;Bone Bolango;Bulango Utara;Bunuo;96582
+5208;Gorontalo;Kabupaten;Bone Bolango;Bulango Utara;Kopi;96582
+5209;Gorontalo;Kabupaten;Bone Bolango;Bulango Utara;Lomaya;96582
+5210;Gorontalo;Kabupaten;Bone Bolango;Bulango Utara;Longalo;96582
+5211;Gorontalo;Kabupaten;Bone Bolango;Bulango Utara;Suka Damai;96582
+5212;Gorontalo;Kabupaten;Bone Bolango;Bulango Utara;Tuloa;96582
+5213;Gorontalo;Kabupaten;Bone Bolango;Bulango Utara;Tupa;96582
+5214;Gorontalo;Kabupaten;Bone Bolango;Bulango Ulu;Ilomata;96582
+5215;Gorontalo;Kabupaten;Bone Bolango;Bulango Ulu;Mongiilo;96582
+5216;Gorontalo;Kabupaten;Bone Bolango;Bulango Ulu;Mongiilo Utara;96582
+5217;Gorontalo;Kabupaten;Bone Bolango;Bulango Ulu;Owata;96582
+5218;Gorontalo;Kabupaten;Bone Bolango;Bulango Ulu;Pilolaheya;96582
+5219;Gorontalo;Kabupaten;Bone Bolango;Bulango Ulu;Suka Makmur;96582
+5220;Gorontalo;Kabupaten;Bone Bolango;Bulango Timur;Bulotalangi;96582
+5221;Gorontalo;Kabupaten;Bone Bolango;Bulango Timur;Bulotalangi Barat;96582
+5222;Gorontalo;Kabupaten;Bone Bolango;Bulango Timur;Bulotalangi Timur;96582
+5223;Gorontalo;Kabupaten;Bone Bolango;Bulango Timur;Popodu;96582
+5224;Gorontalo;Kabupaten;Bone Bolango;Bulango Timur;Toluwaya (Tuloa);96582
+5225;Gorontalo;Kabupaten;Bone Bolango;Bulango Selatan;Ayula Selatan;96582
+5226;Gorontalo;Kabupaten;Bone Bolango;Bulango Selatan;Ayula Tilango;96582
+5227;Gorontalo;Kabupaten;Bone Bolango;Bulango Selatan;Ayula Timur;96582
+5228;Gorontalo;Kabupaten;Bone Bolango;Bulango Selatan;Ayula Utara;96582
+5229;Gorontalo;Kabupaten;Bone Bolango;Bulango Selatan;Huntu Selatan;96582
+5230;Gorontalo;Kabupaten;Bone Bolango;Bulango Selatan;Huntu Utara;96582
+5231;Gorontalo;Kabupaten;Bone Bolango;Bulango Selatan;Lamahu;96582
+5232;Gorontalo;Kabupaten;Bone Bolango;Bulango Selatan;Mekar Jaya;96582
+5233;Gorontalo;Kabupaten;Bone Bolango;Bulango Selatan;Sejahtera;96582
+5234;Gorontalo;Kabupaten;Bone Bolango;Bulango Selatan;Tinelo Ayula;96582
+5235;Gorontalo;Kabupaten;Boalemo;Botumoita;Bolihutuo;96264
+5236;Gorontalo;Kabupaten;Boalemo;Botumoita;Botumoito;96264
+5237;Gorontalo;Kabupaten;Boalemo;Botumoita;Dulangea (Dulangeya);96264
+5238;Gorontalo;Kabupaten;Boalemo;Botumoita;Hutamonu;96264
+5239;Gorontalo;Kabupaten;Boalemo;Botumoita;Patoameme;96264
+5240;Gorontalo;Kabupaten;Boalemo;Botumoita;Potanga;96264
+5241;Gorontalo;Kabupaten;Boalemo;Botumoita;Rumbia;96264
+5242;Gorontalo;Kabupaten;Boalemo;Botumoita;Tapadaa;96264
+5243;Gorontalo;Kabupaten;Boalemo;Botumoita;Tutulo;96264
+5244;Gorontalo;Kabupaten;Bone Bolango;Botu Pingge;Buata;96583
+5245;Gorontalo;Kabupaten;Bone Bolango;Botu Pingge;Luwohu;96583
+5246;Gorontalo;Kabupaten;Bone Bolango;Botu Pingge;Panggulo;96583
+5247;Gorontalo;Kabupaten;Bone Bolango;Botu Pingge;Panggulo Barat;96583
+5248;Gorontalo;Kabupaten;Bone Bolango;Botu Pingge;Sukma;96583
+5249;Gorontalo;Kabupaten;Bone Bolango;Botu Pingge;Tanah Putih;96583
+5250;Gorontalo;Kabupaten;Bone Bolango;Botu Pingge;Timbuolo;96583
+5251;Gorontalo;Kabupaten;Bone Bolango;Botu Pingge;Timbuolo Tengah;96583
+5252;Gorontalo;Kabupaten;Bone Bolango;Botu Pingge;Timbuolo Timur;96583
+5253;Gorontalo;Kabupaten;Gorontalo;Bongomeme;Batu Loreng;96271
+5254;Gorontalo;Kabupaten;Gorontalo;Bongomeme;Batulayar;96271
+5255;Gorontalo;Kabupaten;Gorontalo;Bongomeme;Bongohulawa;96214
+5256;Gorontalo;Kabupaten;Gorontalo;Bongomeme;Dulamayo;96271
+5257;Gorontalo;Kabupaten;Gorontalo;Bongomeme;Huntu Lo Hulawa;96271
+5258;Gorontalo;Kabupaten;Gorontalo;Bongomeme;Kayumerah;96271
+5259;Gorontalo;Kabupaten;Gorontalo;Bongomeme;Liyodu;96271
+5260;Gorontalo;Kabupaten;Gorontalo;Bongomeme;Liyoto;96271
+5261;Gorontalo;Kabupaten;Gorontalo;Bongomeme;Molanihu;96271
+5262;Gorontalo;Kabupaten;Gorontalo;Bongomeme;Molas;96271
+5263;Gorontalo;Kabupaten;Gorontalo;Bongomeme;Molopatodu;96271
+5264;Gorontalo;Kabupaten;Gorontalo;Bongomeme;Otopade;96271
+5265;Gorontalo;Kabupaten;Gorontalo;Bongomeme;Owalanga;96271
+5266;Gorontalo;Kabupaten;Gorontalo;Bongomeme;Tohupo;96271
+5267;Gorontalo;Kabupaten;Gorontalo;Bongomeme;Upomela;96271
+5268;Gorontalo;Kabupaten;Bone Bolango;Bonepantai;Batu Hijau;96585
+5269;Gorontalo;Kabupaten;Bone Bolango;Bonepantai;Bilungala;96585
+5270;Gorontalo;Kabupaten;Bone Bolango;Bonepantai;Bilungala Utara;96585
+5271;Gorontalo;Kabupaten;Bone Bolango;Bonepantai;Kemiri;96585
+5272;Gorontalo;Kabupaten;Bone Bolango;Bonepantai;Lembah Hijau;96585
+5273;Gorontalo;Kabupaten;Bone Bolango;Bonepantai;Ombulo Hijau;96585
+5274;Gorontalo;Kabupaten;Bone Bolango;Bonepantai;Pelita Hijau;96585
+5275;Gorontalo;Kabupaten;Bone Bolango;Bonepantai;Tamboo;96585
+5276;Gorontalo;Kabupaten;Bone Bolango;Bonepantai;Tihu;96585
+5277;Gorontalo;Kabupaten;Bone Bolango;Bonepantai;Tolotio;96585
+5278;Gorontalo;Kabupaten;Bone Bolango;Bonepantai;Tongo;96585
+5279;Gorontalo;Kabupaten;Bone Bolango;Bonepantai;Tunas Jaya;96585
+5280;Gorontalo;Kabupaten;Bone Bolango;Bonepantai;Uabanga;96585
+5281;Gorontalo;Kabupaten;Bone Bolango;Bone Raya;Alo;96585
+5282;Gorontalo;Kabupaten;Bone Bolango;Bone Raya;Bunga;96585
+5283;Gorontalo;Kabupaten;Bone Bolango;Bone Raya;Inomata;96585
+5284;Gorontalo;Kabupaten;Bone Bolango;Bone Raya;Laut Biru;96585
+5285;Gorontalo;Kabupaten;Bone Bolango;Bone Raya;Moopiya (Mopuya);96585
+5286;Gorontalo;Kabupaten;Bone Bolango;Bone Raya;Mootawa;96585
+5287;Gorontalo;Kabupaten;Bone Bolango;Bone Raya;Mootayu;96585
+5288;Gorontalo;Kabupaten;Bone Bolango;Bone Raya;Mootinelo;96585
+5289;Gorontalo;Kabupaten;Bone Bolango;Bone Raya;Pelita Jaya;96585
+5290;Gorontalo;Kabupaten;Bone Bolango;Bone Raya;Tombulilato;96585
+5291;Gorontalo;Kabupaten;Bone Bolango;Bone;Bilolantuna;96585
+5292;Gorontalo;Kabupaten;Bone Bolango;Bone;Cendana Putih;96585
+5293;Gorontalo;Kabupaten;Bone Bolango;Bone;Ilohuuwa;96585
+5294;Gorontalo;Kabupaten;Bone Bolango;Bone;Inogaluma;96585
+5295;Gorontalo;Kabupaten;Bone Bolango;Bone;Masiaga;96585
+5296;Gorontalo;Kabupaten;Bone Bolango;Bone;Molamahu;96585
+5297;Gorontalo;Kabupaten;Bone Bolango;Bone;Monano;96585
+5298;Gorontalo;Kabupaten;Bone Bolango;Bone;Moodulio;96585
+5299;Gorontalo;Kabupaten;Bone Bolango;Bone;Muara Bone;96585
+5300;Gorontalo;Kabupaten;Bone Bolango;Bone;Permata;96585
+5301;Gorontalo;Kabupaten;Bone Bolango;Bone;Sogitia;96585
+5302;Gorontalo;Kabupaten;Bone Bolango;Bone;Taludaa;96585
+5303;Gorontalo;Kabupaten;Bone Bolango;Bone;Tumbuh Mekar;96585
+5304;Gorontalo;Kabupaten;Bone Bolango;Bone;Waluhu;96585
+5305;Gorontalo;Kabupaten;Gorontalo;Boliohuto (Boliyohuto);Bandung Rejo;96264
+5306;Gorontalo;Kabupaten;Gorontalo;Boliohuto (Boliyohuto);Bongongayu;96264
+5307;Gorontalo;Kabupaten;Gorontalo;Boliohuto (Boliyohuto);Diloniyohu;96264
+5308;Gorontalo;Kabupaten;Gorontalo;Boliohuto (Boliyohuto);Dulohupa;96264
+5309;Gorontalo;Kabupaten;Gorontalo;Boliohuto (Boliyohuto);Iloheluma;96264
+5310;Gorontalo;Kabupaten;Gorontalo;Boliohuto (Boliyohuto);Monggolito;96264
+5311;Gorontalo;Kabupaten;Gorontalo;Boliohuto (Boliyohuto);Motoduto;96264
+5312;Gorontalo;Kabupaten;Gorontalo;Boliohuto (Boliyohuto);Parungi;96264
+5313;Gorontalo;Kabupaten;Gorontalo;Boliohuto (Boliyohuto);Potanga;96264
+5314;Gorontalo;Kabupaten;Gorontalo;Boliohuto (Boliyohuto);Sidodadi;96264
+5315;Gorontalo;Kabupaten;Gorontalo;Boliohuto (Boliyohuto);Sidomulyo;96264
+5316;Gorontalo;Kabupaten;Gorontalo;Boliohuto (Boliyohuto);Sidomulyo Selatan;96264
+5317;Gorontalo;Kabupaten;Gorontalo;Boliohuto (Boliyohuto);Tolite;96264
+5318;Gorontalo;Kabupaten;Gorontalo;Biluhu;Biluhu Barat;96272
+5319;Gorontalo;Kabupaten;Gorontalo;Biluhu;Biluhu Tengah;96272
+5320;Gorontalo;Kabupaten;Gorontalo;Biluhu;Botubolu'o (Botuboluo);96272
+5321;Gorontalo;Kabupaten;Gorontalo;Biluhu;Huwongo;96272
+5322;Gorontalo;Kabupaten;Gorontalo;Biluhu;Lobuto;96272
+5323;Gorontalo;Kabupaten;Gorontalo;Biluhu;Lobuto Timur;96272
+5324;Gorontalo;Kabupaten;Gorontalo;Biluhu;Luluo;96272
+5325;Gorontalo;Kabupaten;Gorontalo;Biluhu;Olimeyala;96272
+5326;Gorontalo;Kabupaten;Gorontalo;Bilato;Bilato;96264
+5327;Gorontalo;Kabupaten;Gorontalo;Bilato;Bumela;96264
+5328;Gorontalo;Kabupaten;Gorontalo;Bilato;Ilomata;96264
+5329;Gorontalo;Kabupaten;Gorontalo;Bilato;Juriya;96264
+5330;Gorontalo;Kabupaten;Gorontalo;Bilato;Lamahu;96264
+5331;Gorontalo;Kabupaten;Gorontalo;Bilato;Musyawarah;96264
+5332;Gorontalo;Kabupaten;Gorontalo;Bilato;Pelehu;96264
+5333;Gorontalo;Kabupaten;Gorontalo;Bilato;Suka Damai;96264
+5334;Gorontalo;Kabupaten;Gorontalo;Bilato;Taulaa;96264
+5335;Gorontalo;Kabupaten;Gorontalo;Bilato;Totopo;96264
+5336;Gorontalo;Kabupaten;Gorontalo Utara;Biau;Biawu (Biau);96524
+5337;Gorontalo;Kabupaten;Gorontalo Utara;Biau;Bohulo;96524
+5338;Gorontalo;Kabupaten;Gorontalo Utara;Biau;Bualo;96524
+5339;Gorontalo;Kabupaten;Gorontalo Utara;Biau;Didingga;96524
+5340;Gorontalo;Kabupaten;Gorontalo Utara;Biau;Luhuto;96524
+5341;Gorontalo;Kabupaten;Gorontalo Utara;Biau;Omuto;96524
+5342;Gorontalo;Kabupaten;Gorontalo Utara;Biau;Potanga (Potango);96524
+5343;Gorontalo;Kabupaten;Gorontalo Utara;Biau;Sembihingan;96524
+5344;Gorontalo;Kabupaten;Gorontalo Utara;Biau;Topi;96524
+5345;Gorontalo;Kabupaten;Gorontalo Utara;Biau;Windu;96524
+5346;Gorontalo;Kabupaten;Gorontalo;Batudaa Pantai;Biluhu Timur;96272
+5347;Gorontalo;Kabupaten;Gorontalo;Batudaa Pantai;Bongo;96272
+5348;Gorontalo;Kabupaten;Gorontalo;Batudaa Pantai;Buhudaa;96272
+5349;Gorontalo;Kabupaten;Gorontalo;Batudaa Pantai;Kayubulan;96272
+5350;Gorontalo;Kabupaten;Gorontalo;Batudaa Pantai;Lamu;96272
+5351;Gorontalo;Kabupaten;Gorontalo;Batudaa Pantai;Langgula;96272
+5352;Gorontalo;Kabupaten;Gorontalo;Batudaa Pantai;Lopo;96272
+5353;Gorontalo;Kabupaten;Gorontalo;Batudaa Pantai;Olimoo;96272
+5354;Gorontalo;Kabupaten;Gorontalo;Batudaa Pantai;Tontayuo;96272
+5355;Gorontalo;Kabupaten;Gorontalo;Batudaa;Barakati;96271
+5356;Gorontalo;Kabupaten;Gorontalo;Batudaa;Bua;96271
+5357;Gorontalo;Kabupaten;Gorontalo;Batudaa;Dunggala;96271
+5358;Gorontalo;Kabupaten;Gorontalo;Batudaa;Huntu;96271
+5359;Gorontalo;Kabupaten;Gorontalo;Batudaa;Ilohungayo;96271
+5360;Gorontalo;Kabupaten;Gorontalo;Batudaa;Iluta;96271
+5361;Gorontalo;Kabupaten;Gorontalo;Batudaa;Payunga;96271
+5362;Gorontalo;Kabupaten;Gorontalo;Batudaa;Pilobuhuta;96271
+5363;Gorontalo;Kabupaten;Gorontalo Utara;Atinggola;Bintana;96253
+5364;Gorontalo;Kabupaten;Gorontalo Utara;Atinggola;Buata;96253
+5365;Gorontalo;Kabupaten;Gorontalo Utara;Atinggola;Iloheluma;96253
+5366;Gorontalo;Kabupaten;Gorontalo Utara;Atinggola;Imana;96253
+5367;Gorontalo;Kabupaten;Gorontalo Utara;Atinggola;Inomata (Ilomata);96253
+5368;Gorontalo;Kabupaten;Gorontalo Utara;Atinggola;Kotajin (Kota Jin);96253
+5369;Gorontalo;Kabupaten;Gorontalo Utara;Atinggola;Kotajin Utara;96253
+5370;Gorontalo;Kabupaten;Gorontalo Utara;Atinggola;Monggupo;96253
+5371;Gorontalo;Kabupaten;Gorontalo Utara;Atinggola;Oluhuta;96253
+5372;Gorontalo;Kabupaten;Gorontalo Utara;Atinggola;Pinontoyonga;96253
+5373;Gorontalo;Kabupaten;Gorontalo Utara;Atinggola;Posono;96253
+5374;Gorontalo;Kabupaten;Gorontalo Utara;Atinggola;Sigaso;96253
+5375;Gorontalo;Kabupaten;Gorontalo Utara;Atinggola;Tombulilato;96253
+5376;Gorontalo;Kabupaten;Gorontalo Utara;Atinggola;Wapalo;96253
+5377;Gorontalo;Kabupaten;Gorontalo;Asparaga;Bihe;96214
+5378;Gorontalo;Kabupaten;Gorontalo;Asparaga;Bontulo;96214
+5379;Gorontalo;Kabupaten;Gorontalo;Asparaga;Bululi;96214
+5380;Gorontalo;Kabupaten;Gorontalo;Asparaga;Karya Baru;96214
+5381;Gorontalo;Kabupaten;Gorontalo;Asparaga;Karya Indah;96214
+5382;Gorontalo;Kabupaten;Gorontalo;Asparaga;Mohiyolo;96214
+5383;Gorontalo;Kabupaten;Gorontalo;Asparaga;Olimohulo;96214
+5384;Gorontalo;Kabupaten;Gorontalo;Asparaga;Pangahu;96214
+5385;Gorontalo;Kabupaten;Gorontalo;Asparaga;Prima;96214
+5386;Gorontalo;Kabupaten;Gorontalo;Asparaga;Tiohu;96214
+5387;Gorontalo;Kabupaten;Gorontalo Utara;Anggrek;Datahu;96525
+5388;Gorontalo;Kabupaten;Gorontalo Utara;Anggrek;Dudepo;96525
+5389;Gorontalo;Kabupaten;Gorontalo Utara;Anggrek;Helumo;96525
+5390;Gorontalo;Kabupaten;Gorontalo Utara;Anggrek;Hiyalooile;96525
+5391;Gorontalo;Kabupaten;Gorontalo Utara;Anggrek;Ibarat;96525
+5392;Gorontalo;Kabupaten;Gorontalo Utara;Anggrek;Ilangata;96525
+5393;Gorontalo;Kabupaten;Gorontalo Utara;Anggrek;Ilodulunga;96525
+5394;Gorontalo;Kabupaten;Gorontalo Utara;Anggrek;Iloheluma;96525
+5395;Gorontalo;Kabupaten;Gorontalo Utara;Anggrek;Langge;96525
+5396;Gorontalo;Kabupaten;Gorontalo Utara;Anggrek;Mootilango;96525
+5397;Gorontalo;Kabupaten;Gorontalo Utara;Anggrek;Popalo;96525
+5398;Gorontalo;Kabupaten;Gorontalo Utara;Anggrek;Putiana;96525
+5399;Gorontalo;Kabupaten;Gorontalo Utara;Anggrek;Tolango;96525
+5400;Gorontalo;Kabupaten;Gorontalo Utara;Anggrek;Tolongio;96525
+5401;Gorontalo;Kabupaten;Gorontalo Utara;Anggrek;Tutuwoto;96525
+5402;Jambi;Kabupaten;Tebo;VII Koto Ilir;Balai Rajo;37259
+5403;Jambi;Kabupaten;Tebo;VII Koto Ilir;Cermin Alam;37259
+5404;Jambi;Kabupaten;Tebo;VII Koto Ilir;Paseban;37259
+5405;Jambi;Kabupaten;Tebo;VII Koto Ilir;Pasir Mayang;37259
+5406;Jambi;Kabupaten;Tebo;VII Koto Ilir;Sungai Karang;37259
+5407;Jambi;Kabupaten;Tebo;VII Koto Ilir;Teluk Kepayang Pulau Indah;37259
+5408;Jambi;Kabupaten;Tebo;VII Koto;Aur Cino;37259
+5409;Jambi;Kabupaten;Tebo;VII Koto;Dusun Baru;37259
+5410;Jambi;Kabupaten;Tebo;VII Koto;Kuamang;37259
+5411;Jambi;Kabupaten;Tebo;VII Koto;Muara Niro;37259
+5412;Jambi;Kabupaten;Tebo;VII Koto;Muara Tabun;37259
+5413;Jambi;Kabupaten;Tebo;VII Koto;Pucuk Jambi;37259
+5414;Jambi;Kabupaten;Tebo;VII Koto;Sungai Abang;37259
+5415;Jambi;Kabupaten;Tebo;VII Koto;Tabun;37259
+5416;Jambi;Kabupaten;Tebo;VII Koto;Teluk Kayu Putih;37259
+5417;Jambi;Kabupaten;Tebo;VII Koto;Teluk Lancang;37259
+5418;Jambi;Kabupaten;Tanjung Jabung Barat;Tungkal Ulu;Badang;36552
+5419;Jambi;Kabupaten;Tanjung Jabung Barat;Tungkal Ulu;Badang Sepakat;36552
+5420;Jambi;Kabupaten;Tanjung Jabung Barat;Tungkal Ulu;Brasau;36552
+5421;Jambi;Kabupaten;Tanjung Jabung Barat;Tungkal Ulu;Gemuruh;36552
+5422;Jambi;Kabupaten;Tanjung Jabung Barat;Tungkal Ulu;Kuala Dasal;36552
+5423;Jambi;Kabupaten;Tanjung Jabung Barat;Tungkal Ulu;Pelabuhan Dagang;36552
+5424;Jambi;Kabupaten;Tanjung Jabung Barat;Tungkal Ulu;Pematang Pauh;36552
+5425;Jambi;Kabupaten;Tanjung Jabung Barat;Tungkal Ulu;Pematang Tembesu;36552
+5426;Jambi;Kabupaten;Tanjung Jabung Barat;Tungkal Ulu;Taman Raja;36552
+5427;Jambi;Kabupaten;Tanjung Jabung Barat;Tungkal Ulu;Tanjung Tayas;36552
+5428;Jambi;Kabupaten;Tanjung Jabung Barat;Tungkal Ilir;Kampung Nelayan;36555
+5429;Jambi;Kabupaten;Tanjung Jabung Barat;Tungkal Ilir;Patunas;36555
+5430;Jambi;Kabupaten;Tanjung Jabung Barat;Tungkal Ilir;Sriwijaya;36555
+5431;Jambi;Kabupaten;Tanjung Jabung Barat;Tungkal Ilir;Sungainibung;36555
+5432;Jambi;Kabupaten;Tanjung Jabung Barat;Tungkal Ilir;Teluk Sialang;36555
+5433;Jambi;Kabupaten;Tanjung Jabung Barat;Tungkal Ilir;Tungkal Empat Kota;36555
+5434;Jambi;Kabupaten;Tanjung Jabung Barat;Tungkal Ilir;Tungkal Harapan;36555
+5435;Jambi;Kabupaten;Tanjung Jabung Barat;Tungkal Ilir;Tungkal I;36555
+5436;Jambi;Kabupaten;Tanjung Jabung Barat;Tungkal Ilir;Tungkal II;36555
+5437;Jambi;Kabupaten;Tanjung Jabung Barat;Tungkal Ilir;Tungkal III;36555
+5438;Jambi;Kabupaten;Merangin;Tiang Pumpung;Baru Tiang Pumpung;37371
+5439;Jambi;Kabupaten;Merangin;Tiang Pumpung;Beringin Sanggul;37371
+5440;Jambi;Kabupaten;Merangin;Tiang Pumpung;Rantau Limau Kapas;37353
+5441;Jambi;Kabupaten;Merangin;Tiang Pumpung;Sei Kancing (Sekancing);37371
+5442;Jambi;Kabupaten;Merangin;Tiang Pumpung;Sekancing Ilir;37371
+5443;Jambi;Kabupaten;Merangin;Tiang Pumpung;Tiang Pumpung;37371
+5444;Jambi;Kabupaten;Tebo;Tengah Ilir;Lubuk Mandarasah;37572
+5445;Jambi;Kabupaten;Tebo;Tengah Ilir;Mengupeh;37572
+5446;Jambi;Kabupaten;Tebo;Tengah Ilir;Muara Kilis;37572
+5447;Jambi;Kabupaten;Tebo;Tengah Ilir;Penapalan;37572
+5448;Jambi;Kabupaten;Tebo;Tengah Ilir;Rantau Api;37572
+5449;Jambi;Kota;Jambi;Telanaipura;Buluran Kenali;36123
+5450;Jambi;Kota;Jambi;Telanaipura;Legok;36121
+5451;Jambi;Kota;Jambi;Telanaipura;Murni;36121
+5452;Jambi;Kota;Jambi;Telanaipura;Pematang Sulur;36129
+5453;Jambi;Kota;Jambi;Telanaipura;Penyengat Rendah;36124
+5454;Jambi;Kota;Jambi;Telanaipura;Selamat;36129
+5455;Jambi;Kota;Jambi;Telanaipura;Simpang Empat Sipin;36124
+5456;Jambi;Kota;Jambi;Telanaipura;Solok Sipin;36121
+5457;Jambi;Kota;Jambi;Telanaipura;Sungai Putri;36122
+5458;Jambi;Kota;Jambi;Telanaipura;Telanaipura;36122
+5459;Jambi;Kota;Jambi;Telanaipura;Teluk Kenali;36123
+5460;Jambi;Kabupaten;Tebo;Tebo Ulu;Bungo Tanjung;37554
+5461;Jambi;Kabupaten;Tebo;Tebo Ulu;Jambu;37554
+5462;Jambi;Kabupaten;Tebo;Tebo Ulu;Lubuk Benteng;37554
+5463;Jambi;Kabupaten;Tebo;Tebo Ulu;Malako Intan;37554
+5464;Jambi;Kabupaten;Tebo;Tebo Ulu;Medan Seri Rambahan;37554
+5465;Jambi;Kabupaten;Tebo;Tebo Ulu;Pagar Puding;37554
+5466;Jambi;Kabupaten;Tebo;Tebo Ulu;Pulau Jelmu;37554
+5467;Jambi;Kabupaten;Tebo;Tebo Ulu;Pulau Panjang;37554
+5468;Jambi;Kabupaten;Tebo;Tebo Ulu;Pulau Temiang;37554
+5469;Jambi;Kabupaten;Tebo;Tebo Ulu;Rantau Langkap;37554
+5470;Jambi;Kabupaten;Tebo;Tebo Ulu;Sungai Rambai;37554
+5471;Jambi;Kabupaten;Tebo;Tebo Ulu;Tanjung Aur;37554
+5472;Jambi;Kabupaten;Tebo;Tebo Ulu;Teluk Kasai Rambahan;37554
+5473;Jambi;Kabupaten;Tebo;Tebo Ulu;Teluk Kembang Jambu;37554
+5474;Jambi;Kabupaten;Tebo;Tebo Ulu;Teluk Kuali;37554
+5475;Jambi;Kabupaten;Tebo;Tebo Ulu;Teluk Pandan Rambahan;37554
+5476;Jambi;Kabupaten;Tebo;Tebo Ulu;Ulak Banjir Rambahan;37554
+5477;Jambi;Kabupaten;Tebo;Tebo Tengah;Aburan Batang Tebo;37571
+5478;Jambi;Kabupaten;Tebo;Tebo Tengah;Bedaro Rampak;37571
+5479;Jambi;Kabupaten;Tebo;Tebo Tengah;Kandang;37571
+5480;Jambi;Kabupaten;Tebo;Tebo Tengah;Mangun Jayo;37571
+5481;Jambi;Kabupaten;Tebo;Tebo Tengah;Muara Tebo;37571
+5482;Jambi;Kabupaten;Tebo;Tebo Tengah;Pelayang;37571
+5483;Jambi;Kabupaten;Tebo;Tebo Tengah;Semabu;37571
+5484;Jambi;Kabupaten;Tebo;Tebo Tengah;Sungai Alai;37571
+5485;Jambi;Kabupaten;Tebo;Tebo Tengah;Sungai Keruh;37571
+5486;Jambi;Kabupaten;Tebo;Tebo Tengah;Tebing Tinggi;37571
+5487;Jambi;Kabupaten;Tebo;Tebo Tengah;Teluk Pandak;37571
+5488;Jambi;Kabupaten;Tebo;Tebo Tengah;Tengah Ulu;37571
+5489;Jambi;Kabupaten;Tebo;Tebo Ilir;Betung Bedarah Barat;37572
+5490;Jambi;Kabupaten;Tebo;Tebo Ilir;Betung Bedarah Timur;37572
+5491;Jambi;Kabupaten;Tebo;Tebo Ilir;Desa Tuo Ilir;37572
+5492;Jambi;Kabupaten;Tebo;Tebo Ilir;Kunangan;37572
+5493;Jambi;Kabupaten;Tebo;Tebo Ilir;Muara Ketalo;37572
+5494;Jambi;Kabupaten;Tebo;Tebo Ilir;Sei/Sungai Bengkal;37572
+5495;Jambi;Kabupaten;Tebo;Tebo Ilir;Sei/Sungai Bengkal Barat;37572
+5496;Jambi;Kabupaten;Tebo;Tebo Ilir;Sungai Aro;37572
+5497;Jambi;Kabupaten;Tebo;Tebo Ilir;Teluk Rendah Ilir;37572
+5498;Jambi;Kabupaten;Tebo;Tebo Ilir;Teluk Rendah Pasar;37572
+5499;Jambi;Kabupaten;Tebo;Tebo Ilir;Teluk Rendah Ulu;37572

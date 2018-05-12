@@ -1,0 +1,501 @@
+No;Province;City/Kab;City/Kab Name;Kec/subDistrict;Kelurahan/village;Postal Code
+13500;Jawa Tengah;Kabupaten;Blora;Tunjungan;Tawangrejo;58252
+13501;Jawa Tengah;Kabupaten;Blora;Tunjungan;Tunjungan;58252
+13502;Jawa Tengah;Kabupaten;Blora;Tunjungan;Tutup;58252
+13503;Jawa Tengah;Kabupaten;Klaten;Tulung;Beji;57482
+13504;Jawa Tengah;Kabupaten;Klaten;Tulung;Bono;57482
+13505;Jawa Tengah;Kabupaten;Klaten;Tulung;Cokro;57482
+13506;Jawa Tengah;Kabupaten;Klaten;Tulung;Dalangan;57482
+13507;Jawa Tengah;Kabupaten;Klaten;Tulung;Daleman;57482
+13508;Jawa Tengah;Kabupaten;Klaten;Tulung;Gedongjetis;57482
+13509;Jawa Tengah;Kabupaten;Klaten;Tulung;Kemiri;57482
+13510;Jawa Tengah;Kabupaten;Klaten;Tulung;Kiringan;57482
+13511;Jawa Tengah;Kabupaten;Klaten;Tulung;Majegan;57482
+13512;Jawa Tengah;Kabupaten;Klaten;Tulung;Malangan;57482
+13513;Jawa Tengah;Kabupaten;Klaten;Tulung;Mundu;57482
+13514;Jawa Tengah;Kabupaten;Klaten;Tulung;Pomah;57482
+13515;Jawa Tengah;Kabupaten;Klaten;Tulung;Pucang Miliran;57482
+13516;Jawa Tengah;Kabupaten;Klaten;Tulung;Sedayu;57482
+13517;Jawa Tengah;Kabupaten;Klaten;Tulung;Sorogaten;57482
+13518;Jawa Tengah;Kabupaten;Klaten;Tulung;Sudimoro;57482
+13519;Jawa Tengah;Kabupaten;Klaten;Tulung;Tulung;57482
+13520;Jawa Tengah;Kabupaten;Klaten;Tulung;Wunut;57482
+13521;Jawa Tengah;Kabupaten;Batang;Tulis;Beji;51261
+13522;Jawa Tengah;Kabupaten;Batang;Tulis;Kaliboyo;51261
+13523;Jawa Tengah;Kabupaten;Batang;Tulis;Kedungsegog;51261
+13524;Jawa Tengah;Kabupaten;Batang;Tulis;Kenconorejo;51261
+13525;Jawa Tengah;Kabupaten;Batang;Tulis;Ponowareng;51261
+13526;Jawa Tengah;Kabupaten;Batang;Tulis;Posong;51261
+13527;Jawa Tengah;Kabupaten;Batang;Tulis;Sembojo;51261
+13528;Jawa Tengah;Kabupaten;Batang;Tulis;Simbangdesa;51261
+13529;Jawa Tengah;Kabupaten;Batang;Tulis;Simbangjati;51261
+13530;Jawa Tengah;Kabupaten;Batang;Tulis;Tulis;51261
+13531;Jawa Tengah;Kabupaten;Batang;Tulis;Wringingintung;51261
+13532;Jawa Tengah;Kota;Semarang;Tugu;Jerakah;50151
+13533;Jawa Tengah;Kota;Semarang;Tugu;Karanganyar;50152
+13534;Jawa Tengah;Kota;Semarang;Tugu;Mangkang Kulon;50155
+13535;Jawa Tengah;Kota;Semarang;Tugu;Mangkang Wetan;50156
+13536;Jawa Tengah;Kota;Semarang;Tugu;Mangunharjo;50154
+13537;Jawa Tengah;Kota;Semarang;Tugu;Randu Garut;50181
+13538;Jawa Tengah;Kota;Semarang;Tugu;Tugurejo;50185
+13539;Jawa Tengah;Kabupaten;Klaten;Trucuk;Bero;57467
+13540;Jawa Tengah;Kabupaten;Klaten;Trucuk;Gaden;57467
+13541;Jawa Tengah;Kabupaten;Klaten;Trucuk;Jatipuro;57467
+13542;Jawa Tengah;Kabupaten;Klaten;Trucuk;Kalikebo;57467
+13543;Jawa Tengah;Kabupaten;Klaten;Trucuk;Karangpakel;57467
+13544;Jawa Tengah;Kabupaten;Klaten;Trucuk;Kradenan;57467
+13545;Jawa Tengah;Kabupaten;Klaten;Trucuk;Mandong;57467
+13546;Jawa Tengah;Kabupaten;Klaten;Trucuk;Mireng;57467
+13547;Jawa Tengah;Kabupaten;Klaten;Trucuk;Palar;57467
+13548;Jawa Tengah;Kabupaten;Klaten;Trucuk;Planggu;57467
+13549;Jawa Tengah;Kabupaten;Klaten;Trucuk;Puluhan;57467
+13550;Jawa Tengah;Kabupaten;Klaten;Trucuk;Pundungsari;57467
+13551;Jawa Tengah;Kabupaten;Klaten;Trucuk;Sabrang Lor;57467
+13552;Jawa Tengah;Kabupaten;Klaten;Trucuk;Sajen;57467
+13553;Jawa Tengah;Kabupaten;Klaten;Trucuk;Sumber;57467
+13554;Jawa Tengah;Kabupaten;Klaten;Trucuk;Trucuk;57467
+13555;Jawa Tengah;Kabupaten;Klaten;Trucuk;Wanglu;57467
+13556;Jawa Tengah;Kabupaten;Klaten;Trucuk;Wonosari (Wonososa);57473
+13557;Jawa Tengah;Kabupaten;Temanggung;Tretep;Bendungan;56259
+13558;Jawa Tengah;Kabupaten;Temanggung;Tretep;Bojong;56259
+13559;Jawa Tengah;Kabupaten;Temanggung;Tretep;Bonjor;56259
+13560;Jawa Tengah;Kabupaten;Temanggung;Tretep;Campurejo;56259
+13561;Jawa Tengah;Kabupaten;Temanggung;Tretep;Donorojo;56259
+13562;Jawa Tengah;Kabupaten;Temanggung;Tretep;Nglarangan;56259
+13563;Jawa Tengah;Kabupaten;Temanggung;Tretep;Sigedong;56259
+13564;Jawa Tengah;Kabupaten;Temanggung;Tretep;Simpar;56259
+13565;Jawa Tengah;Kabupaten;Temanggung;Tretep;Tempelsari;56259
+13566;Jawa Tengah;Kabupaten;Temanggung;Tretep;Tlogo;56259
+13567;Jawa Tengah;Kabupaten;Temanggung;Tretep;Tretep;56259
+13568;Jawa Tengah;Kabupaten;Pati;Trangkil;Asempapan;59153
+13569;Jawa Tengah;Kabupaten;Pati;Trangkil;Guyangan;59153
+13570;Jawa Tengah;Kabupaten;Pati;Trangkil;Kadilangu;59153
+13571;Jawa Tengah;Kabupaten;Pati;Trangkil;Kajar;59153
+13572;Jawa Tengah;Kabupaten;Pati;Trangkil;Karanglegi;59153
+13573;Jawa Tengah;Kabupaten;Pati;Trangkil;Karangwage;59153
+13574;Jawa Tengah;Kabupaten;Pati;Trangkil;Kertomulyo;59153
+13575;Jawa Tengah;Kabupaten;Pati;Trangkil;Ketanen;59153
+13576;Jawa Tengah;Kabupaten;Pati;Trangkil;Krandan;59153
+13577;Jawa Tengah;Kabupaten;Pati;Trangkil;Mojoagung;59153
+13578;Jawa Tengah;Kabupaten;Pati;Trangkil;Pasucen;59153
+13579;Jawa Tengah;Kabupaten;Pati;Trangkil;Rejoagung;59153
+13580;Jawa Tengah;Kabupaten;Pati;Trangkil;Sambilawang;59153
+13581;Jawa Tengah;Kabupaten;Pati;Trangkil;Tegalharjo;59153
+13582;Jawa Tengah;Kabupaten;Pati;Trangkil;Tlutup;59153
+13583;Jawa Tengah;Kabupaten;Pati;Trangkil;Trangkil;59153
+13584;Jawa Tengah;Kabupaten;Grobogan;Toroh;Bandungharjo;58171
+13585;Jawa Tengah;Kabupaten;Grobogan;Toroh;Boloh;58171
+13586;Jawa Tengah;Kabupaten;Grobogan;Toroh;Depok;58171
+13587;Jawa Tengah;Kabupaten;Grobogan;Toroh;Dimoro;58171
+13588;Jawa Tengah;Kabupaten;Grobogan;Toroh;Genengadal;58171
+13589;Jawa Tengah;Kabupaten;Grobogan;Toroh;Genengsari;58171
+13590;Jawa Tengah;Kabupaten;Grobogan;Toroh;Katong;58171
+13591;Jawa Tengah;Kabupaten;Grobogan;Toroh;Kenteng;58171
+13592;Jawa Tengah;Kabupaten;Grobogan;Toroh;Krangganharjo;58171
+13593;Jawa Tengah;Kabupaten;Grobogan;Toroh;Ngrandah;58171
+13594;Jawa Tengah;Kabupaten;Grobogan;Toroh;Pilangpayung;58171
+13595;Jawa Tengah;Kabupaten;Grobogan;Toroh;Plosoharjo;58171
+13596;Jawa Tengah;Kabupaten;Grobogan;Toroh;Sindurejo;58171
+13597;Jawa Tengah;Kabupaten;Grobogan;Toroh;Sugihan;58171
+13598;Jawa Tengah;Kabupaten;Grobogan;Toroh;Tambirejo;58171
+13599;Jawa Tengah;Kabupaten;Grobogan;Toroh;Tunggak;58171
+13600;Jawa Tengah;Kabupaten;Brebes;Tonjong;Galuh Timur;52271
+13601;Jawa Tengah;Kabupaten;Brebes;Tonjong;Kalijurang;52271
+13602;Jawa Tengah;Kabupaten;Brebes;Tonjong;Karangjongkeng;52271
+13603;Jawa Tengah;Kabupaten;Brebes;Tonjong;Kutamendala;52271
+13604;Jawa Tengah;Kabupaten;Brebes;Tonjong;Kutayu;52271
+13605;Jawa Tengah;Kabupaten;Brebes;Tonjong;Linggapura;52271
+13606;Jawa Tengah;Kabupaten;Brebes;Tonjong;Negarayu;52271
+13607;Jawa Tengah;Kabupaten;Brebes;Tonjong;Pepedan;52271
+13608;Jawa Tengah;Kabupaten;Brebes;Tonjong;Purbayasa;52271
+13609;Jawa Tengah;Kabupaten;Brebes;Tonjong;Purwodadi;52271
+13610;Jawa Tengah;Kabupaten;Brebes;Tonjong;Rajawetan;52271
+13611;Jawa Tengah;Kabupaten;Brebes;Tonjong;Tanggeran;52271
+13612;Jawa Tengah;Kabupaten;Brebes;Tonjong;Tonjong;52271
+13613;Jawa Tengah;Kabupaten;Brebes;Tonjong;Watujaya;52271
+13614;Jawa Tengah;Kabupaten;Blora;Todanan;Bedingin;58256
+13615;Jawa Tengah;Kabupaten;Blora;Todanan;Bicak;58256
+13616;Jawa Tengah;Kabupaten;Blora;Todanan;Candi;58256
+13617;Jawa Tengah;Kabupaten;Blora;Todanan;Cokrowati;58256
+13618;Jawa Tengah;Kabupaten;Blora;Todanan;Dalangan;58256
+13619;Jawa Tengah;Kabupaten;Blora;Todanan;Dringo;58256
+13620;Jawa Tengah;Kabupaten;Blora;Todanan;Gondoriyo;58256
+13621;Jawa Tengah;Kabupaten;Blora;Todanan;Gunungan;58256
+13622;Jawa Tengah;Kabupaten;Blora;Todanan;Kacangan;58256
+13623;Jawa Tengah;Kabupaten;Blora;Todanan;Kajengan;58256
+13624;Jawa Tengah;Kabupaten;Blora;Todanan;Karanganyar;58256
+13625;Jawa Tengah;Kabupaten;Blora;Todanan;Kedungbacin;58256
+13626;Jawa Tengah;Kabupaten;Blora;Todanan;Kedungwungu;58256
+13627;Jawa Tengah;Kabupaten;Blora;Todanan;Kembang;58256
+13628;Jawa Tengah;Kabupaten;Blora;Todanan;Ketileng;58256
+13629;Jawa Tengah;Kabupaten;Blora;Todanan;Ledok;58256
+13630;Jawa Tengah;Kabupaten;Blora;Todanan;Ngumbul;58256
+13631;Jawa Tengah;Kabupaten;Blora;Todanan;Pelemsengir;58256
+13632;Jawa Tengah;Kabupaten;Blora;Todanan;Prigi;58256
+13633;Jawa Tengah;Kabupaten;Blora;Todanan;Sambeng;58256
+13634;Jawa Tengah;Kabupaten;Blora;Todanan;Sendang;58256
+13635;Jawa Tengah;Kabupaten;Blora;Todanan;Sonokulon;58256
+13636;Jawa Tengah;Kabupaten;Blora;Todanan;Tinapan;58256
+13637;Jawa Tengah;Kabupaten;Blora;Todanan;Todanan;58256
+13638;Jawa Tengah;Kabupaten;Blora;Todanan;Wukirsari;58256
+13639;Jawa Tengah;Kabupaten;Pati;Tlogowungu;Cabak;59161
+13640;Jawa Tengah;Kabupaten;Pati;Tlogowungu;Gunungsari;59161
+13641;Jawa Tengah;Kabupaten;Pati;Tlogowungu;Guwo;59161
+13642;Jawa Tengah;Kabupaten;Pati;Tlogowungu;Klumpit;59161
+13643;Jawa Tengah;Kabupaten;Pati;Tlogowungu;Lahar;59161
+13644;Jawa Tengah;Kabupaten;Pati;Tlogowungu;Purwosari;59161
+13645;Jawa Tengah;Kabupaten;Pati;Tlogowungu;Regaloh;59161
+13646;Jawa Tengah;Kabupaten;Pati;Tlogowungu;Sambirejo;59161
+13647;Jawa Tengah;Kabupaten;Pati;Tlogowungu;Sumbermulyo;59161
+13648;Jawa Tengah;Kabupaten;Pati;Tlogowungu;Suwatu;59161
+13649;Jawa Tengah;Kabupaten;Pati;Tlogowungu;Tajungsari;59161
+13650;Jawa Tengah;Kabupaten;Pati;Tlogowungu;Tamansari;59161
+13651;Jawa Tengah;Kabupaten;Pati;Tlogowungu;Tlogorejo;59161
+13652;Jawa Tengah;Kabupaten;Pati;Tlogowungu;Tlogosari;59161
+13653;Jawa Tengah;Kabupaten;Pati;Tlogowungu;Wonorejo;59161
+13654;Jawa Tengah;Kabupaten;Temanggung;Tlogomulyo;Balerejo;56263
+13655;Jawa Tengah;Kabupaten;Temanggung;Tlogomulyo;Candisari;56263
+13656;Jawa Tengah;Kabupaten;Temanggung;Tlogomulyo;Gedegan;56263
+13657;Jawa Tengah;Kabupaten;Temanggung;Tlogomulyo;Kerokan;56263
+13658;Jawa Tengah;Kabupaten;Temanggung;Tlogomulyo;Langgeng;56263
+13659;Jawa Tengah;Kabupaten;Temanggung;Tlogomulyo;Legoksari;56263
+13660;Jawa Tengah;Kabupaten;Temanggung;Tlogomulyo;Losari;56263
+13661;Jawa Tengah;Kabupaten;Temanggung;Tlogomulyo;Pagersari;56263
+13662;Jawa Tengah;Kabupaten;Temanggung;Tlogomulyo;Sriwungu;56263
+13663;Jawa Tengah;Kabupaten;Temanggung;Tlogomulyo;Tanjungsari;56263
+13664;Jawa Tengah;Kabupaten;Temanggung;Tlogomulyo;Tlilir;56263
+13665;Jawa Tengah;Kabupaten;Temanggung;Tlogomulyo;Tlogomulyo;56263
+13666;Jawa Tengah;Kabupaten;Wonogiri;Tirtomoyo;Banyakprodo;57672
+13667;Jawa Tengah;Kabupaten;Wonogiri;Tirtomoyo;Dlepih;57672
+13668;Jawa Tengah;Kabupaten;Wonogiri;Tirtomoyo;Genengharjo;57672
+13669;Jawa Tengah;Kabupaten;Wonogiri;Tirtomoyo;Girirejo;57672
+13670;Jawa Tengah;Kabupaten;Wonogiri;Tirtomoyo;Hargantoro;57672
+13671;Jawa Tengah;Kabupaten;Wonogiri;Tirtomoyo;Hargorejo;57672
+13672;Jawa Tengah;Kabupaten;Wonogiri;Tirtomoyo;Hargosari;57672
+13673;Jawa Tengah;Kabupaten;Wonogiri;Tirtomoyo;Ngarjosari;57672
+13674;Jawa Tengah;Kabupaten;Wonogiri;Tirtomoyo;Sendangmulyo;57672
+13675;Jawa Tengah;Kabupaten;Wonogiri;Tirtomoyo;Sidorejo;57672
+13676;Jawa Tengah;Kabupaten;Wonogiri;Tirtomoyo;Sukoharjo;57672
+13677;Jawa Tengah;Kabupaten;Wonogiri;Tirtomoyo;Tanjungsari;57672
+13678;Jawa Tengah;Kabupaten;Wonogiri;Tirtomoyo;Tirtomoyo;57672
+13679;Jawa Tengah;Kabupaten;Wonogiri;Tirtomoyo;Wiroko;57672
+13680;Jawa Tengah;Kabupaten;Pekalongan;Tirto;Curug;51151
+13681;Jawa Tengah;Kabupaten;Pekalongan;Tirto;Dadirejo;51151
+13682;Jawa Tengah;Kabupaten;Pekalongan;Tirto;Jeruksari;51151
+13683;Jawa Tengah;Kabupaten;Pekalongan;Tirto;Karanganyar;51182
+13684;Jawa Tengah;Kabupaten;Pekalongan;Tirto;Karangjompo;51151
+13685;Jawa Tengah;Kabupaten;Pekalongan;Tirto;Mulyorejo;51151
+13686;Jawa Tengah;Kabupaten;Pekalongan;Tirto;Ngalian;51151
+13687;Jawa Tengah;Kabupaten;Pekalongan;Tirto;Pacar;51151
+13688;Jawa Tengah;Kabupaten;Pekalongan;Tirto;Pandan Arum;51151
+13689;Jawa Tengah;Kabupaten;Pekalongan;Tirto;Pucung;51151
+13690;Jawa Tengah;Kabupaten;Pekalongan;Tirto;Samborejo;51151
+13691;Jawa Tengah;Kabupaten;Pekalongan;Tirto;Sidorejo;51151
+13692;Jawa Tengah;Kabupaten;Pekalongan;Tirto;Silirejo;51151
+13693;Jawa Tengah;Kabupaten;Pekalongan;Tirto;Tanjung;51151
+13694;Jawa Tengah;Kabupaten;Pekalongan;Tirto;Tegaldowo;51151
+13695;Jawa Tengah;Kabupaten;Pekalongan;Tirto;Wuled;51151
+13696;Jawa Tengah;Kota;Salatiga;Tingkir;Gendongan;50743
+13697;Jawa Tengah;Kota;Salatiga;Tingkir;Kalibening;50744
+13698;Jawa Tengah;Kota;Salatiga;Tingkir;Kutowinangun Kidul;50742
+13699;Jawa Tengah;Kota;Salatiga;Tingkir;Kutowinangun Lor;50742
+13700;Jawa Tengah;Kota;Salatiga;Tingkir;Sidorejo Kidul;50741
+13701;Jawa Tengah;Kota;Salatiga;Tingkir;Tingkir Lor;50746
+13702;Jawa Tengah;Kota;Salatiga;Tingkir;Tingkir Tengah;50745
+13703;Jawa Tengah;Kabupaten;Batang;Tersono;Banteng;51272
+13704;Jawa Tengah;Kabupaten;Batang;Tersono;Boja;51272
+13705;Jawa Tengah;Kabupaten;Batang;Tersono;Gondo;51272
+13706;Jawa Tengah;Kabupaten;Batang;Tersono;Harjowinangun Barat;51272
+13707;Jawa Tengah;Kabupaten;Batang;Tersono;Harjowinangun Timur;51272
+13708;Jawa Tengah;Kabupaten;Batang;Tersono;Kebumen;51272
+13709;Jawa Tengah;Kabupaten;Batang;Tersono;Kranggan;51272
+13710;Jawa Tengah;Kabupaten;Batang;Tersono;Lobang;51272
+13711;Jawa Tengah;Kabupaten;Batang;Tersono;Madugowongjati;51272
+13712;Jawa Tengah;Kabupaten;Batang;Tersono;Margosono;51272
+13713;Jawa Tengah;Kabupaten;Batang;Tersono;Plosowangi;51272
+13714;Jawa Tengah;Kabupaten;Batang;Tersono;Pujut;51272
+13715;Jawa Tengah;Kabupaten;Batang;Tersono;Rejosari Barat;51272
+13716;Jawa Tengah;Kabupaten;Batang;Tersono;Rejosari Timur;51272
+13717;Jawa Tengah;Kabupaten;Batang;Tersono;Satriyan;51272
+13718;Jawa Tengah;Kabupaten;Batang;Tersono;Sendang;51272
+13719;Jawa Tengah;Kabupaten;Batang;Tersono;Sidalang;51272
+13720;Jawa Tengah;Kabupaten;Batang;Tersono;Sumurbanger;51272
+13721;Jawa Tengah;Kabupaten;Batang;Tersono;Tanjungsari;51272
+13722;Jawa Tengah;Kabupaten;Batang;Tersono;Tedunan;51272
+13723;Jawa Tengah;Kabupaten;Batang;Tersono;Tegalombo;51272
+13724;Jawa Tengah;Kabupaten;Batang;Tersono;Tersono;51272
+13725;Jawa Tengah;Kabupaten;Batang;Tersono;Wanar;51272
+13726;Jawa Tengah;Kabupaten;Boyolali;Teras;Bangsalan;57372
+13727;Jawa Tengah;Kabupaten;Boyolali;Teras;Doplang;57372
+13728;Jawa Tengah;Kabupaten;Boyolali;Teras;Gumukrejo;57372
+13729;Jawa Tengah;Kabupaten;Boyolali;Teras;Kadireso;57372
+13730;Jawa Tengah;Kabupaten;Boyolali;Teras;Kopen;57372
+13731;Jawa Tengah;Kabupaten;Boyolali;Teras;Krasak;57372
+13732;Jawa Tengah;Kabupaten;Boyolali;Teras;Mojolegi;57372
+13733;Jawa Tengah;Kabupaten;Boyolali;Teras;Nepen;57372
+13734;Jawa Tengah;Kabupaten;Boyolali;Teras;Randusari;57372
+13735;Jawa Tengah;Kabupaten;Boyolali;Teras;Salakan;57372
+13736;Jawa Tengah;Kabupaten;Boyolali;Teras;Sudimoro;57372
+13737;Jawa Tengah;Kabupaten;Boyolali;Teras;Tawangsari;57372
+13738;Jawa Tengah;Kabupaten;Boyolali;Teras;Teras;57372
+13739;Jawa Tengah;Kabupaten;Semarang;Tengaran;Barukan;50775
+13740;Jawa Tengah;Kabupaten;Semarang;Tengaran;Bener;50775
+13741;Jawa Tengah;Kabupaten;Semarang;Tengaran;Butuh;50775
+13742;Jawa Tengah;Kabupaten;Semarang;Tengaran;Cukil;50775
+13743;Jawa Tengah;Kabupaten;Semarang;Tengaran;Duren;50775
+13744;Jawa Tengah;Kabupaten;Semarang;Tengaran;Karangduren;50775
+13745;Jawa Tengah;Kabupaten;Semarang;Tengaran;Klero;50775
+13746;Jawa Tengah;Kabupaten;Semarang;Tengaran;Nyamat;50775
+13747;Jawa Tengah;Kabupaten;Semarang;Tengaran;Patemon;50775
+13748;Jawa Tengah;Kabupaten;Semarang;Tengaran;Regunung;50775
+13749;Jawa Tengah;Kabupaten;Semarang;Tengaran;Sruwen;50775
+13750;Jawa Tengah;Kabupaten;Semarang;Tengaran;Sugihan;50775
+13751;Jawa Tengah;Kabupaten;Semarang;Tengaran;Tegalrejo;50225
+13752;Jawa Tengah;Kabupaten;Semarang;Tengaran;Tegalwaton;50775
+13753;Jawa Tengah;Kabupaten;Semarang;Tengaran;Tengaran;50775
+13754;Jawa Tengah;Kabupaten;Magelang;Tempuran;Bawang;56161
+13755;Jawa Tengah;Kabupaten;Magelang;Tempuran;Girirejo;56161
+13756;Jawa Tengah;Kabupaten;Magelang;Tempuran;Growong;56161
+13757;Jawa Tengah;Kabupaten;Magelang;Tempuran;Jogomulyo;56161
+13758;Jawa Tengah;Kabupaten;Magelang;Tempuran;Kalisari;56161
+13759;Jawa Tengah;Kabupaten;Magelang;Tempuran;Kemutuk;56161
+13760;Jawa Tengah;Kabupaten;Magelang;Tempuran;Prajeksari;56161
+13761;Jawa Tengah;Kabupaten;Magelang;Tempuran;Pringombo;56161
+13762;Jawa Tengah;Kabupaten;Magelang;Tempuran;Ringinanom;56161
+13763;Jawa Tengah;Kabupaten;Magelang;Tempuran;Sidoagung;56161
+13764;Jawa Tengah;Kabupaten;Magelang;Tempuran;Sumberarum;56161
+13765;Jawa Tengah;Kabupaten;Magelang;Tempuran;Tanggulrejo;56161
+13766;Jawa Tengah;Kabupaten;Magelang;Tempuran;Temanggal;56161
+13767;Jawa Tengah;Kabupaten;Magelang;Tempuran;Tempurejo;56161
+13768;Jawa Tengah;Kabupaten;Magelang;Tempuran;Tugurejo;56161
+13769;Jawa Tengah;Kabupaten;Temanggung;Tembarak;Banaran;56261
+13770;Jawa Tengah;Kabupaten;Temanggung;Tembarak;Botoputih;56261
+13771;Jawa Tengah;Kabupaten;Temanggung;Tembarak;Drono;56261
+13772;Jawa Tengah;Kabupaten;Temanggung;Tembarak;Gandu;56261
+13773;Jawa Tengah;Kabupaten;Temanggung;Tembarak;Greges;56261
+13774;Jawa Tengah;Kabupaten;Temanggung;Tembarak;Jragan;56261
+13775;Jawa Tengah;Kabupaten;Temanggung;Tembarak;Kemloko;56261
+13776;Jawa Tengah;Kabupaten;Temanggung;Tembarak;Krajan;56261
+13777;Jawa Tengah;Kabupaten;Temanggung;Tembarak;Menggoro;56261
+13778;Jawa Tengah;Kabupaten;Temanggung;Tembarak;Purwodadi;56261
+13779;Jawa Tengah;Kabupaten;Temanggung;Tembarak;Tawangsari;56261
+13780;Jawa Tengah;Kabupaten;Temanggung;Tembarak;Tembarak;56261
+13781;Jawa Tengah;Kabupaten;Temanggung;Tembarak;Wonokerso;56261
+13782;Jawa Tengah;Kota;Semarang;Tembalang;Bulusan;50277
+13783;Jawa Tengah;Kota;Semarang;Tembalang;Jangli;50274
+13784;Jawa Tengah;Kota;Semarang;Tembalang;Kedungmundu;50273
+13785;Jawa Tengah;Kota;Semarang;Tembalang;Kramas;50278
+13786;Jawa Tengah;Kota;Semarang;Tembalang;Mangunharjo;50272
+13787;Jawa Tengah;Kota;Semarang;Tembalang;Meteseh;50271
+13788;Jawa Tengah;Kota;Semarang;Tembalang;Rowosari;50279
+13789;Jawa Tengah;Kota;Semarang;Tembalang;Sambiroto;50276
+13790;Jawa Tengah;Kota;Semarang;Tembalang;Sendangguwo;50273
+13791;Jawa Tengah;Kota;Semarang;Tembalang;Sendangmulyo;50272
+13792;Jawa Tengah;Kota;Semarang;Tembalang;Tandang;50274
+13793;Jawa Tengah;Kota;Semarang;Tembalang;Tembalang;50275
+13794;Jawa Tengah;Kabupaten;Temanggung;Temanggung;Banyuurip;56211
+13795;Jawa Tengah;Kabupaten;Temanggung;Temanggung;Butuh;56214
+13796;Jawa Tengah;Kabupaten;Temanggung;Temanggung;Gilingsari;56229
+13797;Jawa Tengah;Kabupaten;Temanggung;Temanggung;Giyanti;56226
+13798;Jawa Tengah;Kabupaten;Temanggung;Temanggung;Guntur;56229
+13799;Jawa Tengah;Kabupaten;Temanggung;Temanggung;Jampirejo;56215
+13800;Jawa Tengah;Kabupaten;Temanggung;Temanggung;Jampiroso;56216
+13801;Jawa Tengah;Kabupaten;Temanggung;Temanggung;Joho;56229
+13802;Jawa Tengah;Kabupaten;Temanggung;Temanggung;Jurang;56222
+13803;Jawa Tengah;Kabupaten;Temanggung;Temanggung;Kebonsari;56223
+13804;Jawa Tengah;Kabupaten;Temanggung;Temanggung;Kertosari;56217
+13805;Jawa Tengah;Kabupaten;Temanggung;Temanggung;Kowangan;56218
+13806;Jawa Tengah;Kabupaten;Temanggung;Temanggung;Lungge;56229
+13807;Jawa Tengah;Kabupaten;Temanggung;Temanggung;Madureso;56229
+13808;Jawa Tengah;Kabupaten;Temanggung;Temanggung;Manding;56224
+13809;Jawa Tengah;Kabupaten;Temanggung;Temanggung;Mudal;56228
+13810;Jawa Tengah;Kabupaten;Temanggung;Temanggung;Mungseng;56225
+13811;Jawa Tengah;Kabupaten;Temanggung;Temanggung;Nampirejo;56229
+13812;Jawa Tengah;Kabupaten;Temanggung;Temanggung;Purworejo;56227
+13813;Jawa Tengah;Kabupaten;Temanggung;Temanggung;Sidorejo;56221
+13814;Jawa Tengah;Kabupaten;Temanggung;Temanggung;Temanggung I;56212
+13815;Jawa Tengah;Kabupaten;Temanggung;Temanggung;Temanggung II;56213
+13816;Jawa Tengah;Kabupaten;Temanggung;Temanggung;Tlogorejo;56229
+13817;Jawa Tengah;Kabupaten;Temanggung;Temanggung;Walitelon Selatan;56229
+13818;Jawa Tengah;Kabupaten;Temanggung;Temanggung;Walitelon Utara;56229
+13819;Jawa Tengah;Kabupaten;Grobogan;Tegowanu;Cangkring;58165
+13820;Jawa Tengah;Kabupaten;Grobogan;Tegowanu;Curug;58165
+13821;Jawa Tengah;Kabupaten;Grobogan;Tegowanu;Gaji;58165
+13822;Jawa Tengah;Kabupaten;Grobogan;Tegowanu;Gebangan;58165
+13823;Jawa Tengah;Kabupaten;Grobogan;Tegowanu;Karangpasar;58165
+13824;Jawa Tengah;Kabupaten;Grobogan;Tegowanu;Kebonagung;58165
+13825;Jawa Tengah;Kabupaten;Grobogan;Tegowanu;Kedungwungu;58165
+13826;Jawa Tengah;Kabupaten;Grobogan;Tegowanu;Kejawan;58165
+13827;Jawa Tengah;Kabupaten;Grobogan;Tegowanu;Mangunsari;58165
+13828;Jawa Tengah;Kabupaten;Grobogan;Tegowanu;Medani;58165
+13829;Jawa Tengah;Kabupaten;Grobogan;Tegowanu;Pepe;58165
+13830;Jawa Tengah;Kabupaten;Grobogan;Tegowanu;Sukorejo;58165
+13831;Jawa Tengah;Kabupaten;Grobogan;Tegowanu;Tajemsari;58165
+13832;Jawa Tengah;Kabupaten;Grobogan;Tegowanu;Tanggirejo;58165
+13833;Jawa Tengah;Kabupaten;Grobogan;Tegowanu;Tegowanu Kulon;58165
+13834;Jawa Tengah;Kabupaten;Grobogan;Tegowanu;Tegowanu Wetan;58165
+13835;Jawa Tengah;Kabupaten;Grobogan;Tegowanu;Tlogorejo;58165
+13836;Jawa Tengah;Kabupaten;Grobogan;Tegowanu;Tunjungharjo;58165
+13837;Jawa Tengah;Kabupaten;Magelang;Tegalrejo;Banyusari;56192
+13838;Jawa Tengah;Kabupaten;Magelang;Tegalrejo;Banyuurip;56192
+13839;Jawa Tengah;Kabupaten;Magelang;Tegalrejo;Dawung;56192
+13840;Jawa Tengah;Kabupaten;Magelang;Tegalrejo;Dlimas;56192
+13841;Jawa Tengah;Kabupaten;Magelang;Tegalrejo;Donorojo;56192
+13842;Jawa Tengah;Kabupaten;Magelang;Tegalrejo;Girirejo;56192
+13843;Jawa Tengah;Kabupaten;Magelang;Tegalrejo;Glagahombo;56192
+13844;Jawa Tengah;Kabupaten;Magelang;Tegalrejo;Japan;56192
+13845;Jawa Tengah;Kabupaten;Magelang;Tegalrejo;Kebonagung;56192
+13846;Jawa Tengah;Kabupaten;Magelang;Tegalrejo;Klopo;56192
+13847;Jawa Tengah;Kabupaten;Magelang;Tegalrejo;Mangunrejo;56192
+13848;Jawa Tengah;Kabupaten;Magelang;Tegalrejo;Ngadirejo;56192
+13849;Jawa Tengah;Kabupaten;Magelang;Tegalrejo;Ngasem;56192
+13850;Jawa Tengah;Kabupaten;Magelang;Tegalrejo;Purwodadi;56192
+13851;Jawa Tengah;Kabupaten;Magelang;Tegalrejo;Purwosari;56192
+13852;Jawa Tengah;Kabupaten;Magelang;Tegalrejo;Sidorejo;56192
+13853;Jawa Tengah;Kabupaten;Magelang;Tegalrejo;Soroyudan;56192
+13854;Jawa Tengah;Kabupaten;Magelang;Tegalrejo;Sukorejo;56192
+13855;Jawa Tengah;Kabupaten;Magelang;Tegalrejo;Tampingan;56192
+13856;Jawa Tengah;Kabupaten;Magelang;Tegalrejo;Tegalrejo;56192
+13857;Jawa Tengah;Kabupaten;Magelang;Tegalrejo;Wonokerto;56192
+13858;Jawa Tengah;Kota;Tegal;Tegal Timur;Kejambon;52124
+13859;Jawa Tengah;Kota;Tegal;Tegal Timur;Mangkukusuman;52123
+13860;Jawa Tengah;Kota;Tegal;Tegal Timur;Mintaragen;52121
+13861;Jawa Tengah;Kota;Tegal;Tegal Timur;Panggung;52122
+13862;Jawa Tengah;Kota;Tegal;Tegal Timur;Slerok;52125
+13863;Jawa Tengah;Kota;Tegal;Tegal Selatan;Bandung;52137
+13864;Jawa Tengah;Kota;Tegal;Tegal Selatan;Debong Kidul;52138
+13865;Jawa Tengah;Kota;Tegal;Tegal Selatan;Debong Kulon;52133
+13866;Jawa Tengah;Kota;Tegal;Tegal Selatan;Debong Tengah;52132
+13867;Jawa Tengah;Kota;Tegal;Tegal Selatan;Kalinyamat Wetan;52136
+13868;Jawa Tengah;Kota;Tegal;Tegal Selatan;Keturen;52134
+13869;Jawa Tengah;Kota;Tegal;Tegal Selatan;Randugunting;52131
+13870;Jawa Tengah;Kota;Tegal;Tegal Selatan;Tunon;52135
+13871;Jawa Tengah;Kota;Tegal;Tegal Barat;Debong Lor;52115
+13872;Jawa Tengah;Kota;Tegal;Tegal Barat;Kemandungan;52114
+13873;Jawa Tengah;Kota;Tegal;Tegal Barat;Kraton;52112
+13874;Jawa Tengah;Kota;Tegal;Tegal Barat;Muarareja;52117
+13875;Jawa Tengah;Kota;Tegal;Tegal Barat;Pekauman;52125
+13876;Jawa Tengah;Kota;Tegal;Tegal Barat;Pesurungan Kidul;52117
+13877;Jawa Tengah;Kota;Tegal;Tegal Barat;Tegalsari;52111
+13878;Jawa Tengah;Kabupaten;Pati;Tayu;Bendokaton Kidul;59155
+13879;Jawa Tengah;Kabupaten;Pati;Tayu;Bulungan;59155
+13880;Jawa Tengah;Kabupaten;Pati;Tayu;Dororejo;59155
+13881;Jawa Tengah;Kabupaten;Pati;Tayu;Jepat Kidul;59155
+13882;Jawa Tengah;Kabupaten;Pati;Tayu;Jepat Lor;59155
+13883;Jawa Tengah;Kabupaten;Pati;Tayu;Kalikalong;59155
+13884;Jawa Tengah;Kabupaten;Pati;Tayu;Keboromo;59155
+13885;Jawa Tengah;Kabupaten;Pati;Tayu;Kedungbang;59155
+13886;Jawa Tengah;Kabupaten;Pati;Tayu;Kedungsari;59155
+13887;Jawa Tengah;Kabupaten;Pati;Tayu;Luwang;59155
+13888;Jawa Tengah;Kabupaten;Pati;Tayu;Margomulyo;59155
+13889;Jawa Tengah;Kabupaten;Pati;Tayu;Pakis;59155
+13890;Jawa Tengah;Kabupaten;Pati;Tayu;Pondowan;59155
+13891;Jawa Tengah;Kabupaten;Pati;Tayu;Pundenrejo;59155
+13892;Jawa Tengah;Kabupaten;Pati;Tayu;Purwokerto;59155
+13893;Jawa Tengah;Kabupaten;Pati;Tayu;Sambiroto;59155
+13894;Jawa Tengah;Kabupaten;Pati;Tayu;Sendangrejo;59155
+13895;Jawa Tengah;Kabupaten;Pati;Tayu;Tayukulon;59155
+13896;Jawa Tengah;Kabupaten;Pati;Tayu;Tayuwetan;59155
+13897;Jawa Tengah;Kabupaten;Pati;Tayu;Tendas;59155
+13898;Jawa Tengah;Kabupaten;Pati;Tayu;Tunggulsari;59155
+13899;Jawa Tengah;Kabupaten;Sukoharjo;Tawangsari;Dalangan;57561
+13900;Jawa Tengah;Kabupaten;Sukoharjo;Tawangsari;Grajegan;57561
+13901;Jawa Tengah;Kabupaten;Sukoharjo;Tawangsari;Kedungjambal;57561
+13902;Jawa Tengah;Kabupaten;Sukoharjo;Tawangsari;Keteguhan;57561
+13903;Jawa Tengah;Kabupaten;Sukoharjo;Tawangsari;Lorog;57561
+13904;Jawa Tengah;Kabupaten;Sukoharjo;Tawangsari;Majasto;57561
+13905;Jawa Tengah;Kabupaten;Sukoharjo;Tawangsari;Pojok;57561
+13906;Jawa Tengah;Kabupaten;Sukoharjo;Tawangsari;Ponowaren;57561
+13907;Jawa Tengah;Kabupaten;Sukoharjo;Tawangsari;Pundungrejo;57561
+13908;Jawa Tengah;Kabupaten;Sukoharjo;Tawangsari;Tambakboyo;57561
+13909;Jawa Tengah;Kabupaten;Sukoharjo;Tawangsari;Tangkisan;57561
+13910;Jawa Tengah;Kabupaten;Sukoharjo;Tawangsari;Watubonang;57561
+13911;Jawa Tengah;Kabupaten;Karanganyar;Tawangmangu;Bandardawung;57792
+13912;Jawa Tengah;Kabupaten;Karanganyar;Tawangmangu;Blumbang;57792
+13913;Jawa Tengah;Kabupaten;Karanganyar;Tawangmangu;Gondosuli;57792
+13914;Jawa Tengah;Kabupaten;Karanganyar;Tawangmangu;Kalisoro;57792
+13915;Jawa Tengah;Kabupaten;Karanganyar;Tawangmangu;Karanglo;57792
+13916;Jawa Tengah;Kabupaten;Karanganyar;Tawangmangu;Nglebak;57792
+13917;Jawa Tengah;Kabupaten;Karanganyar;Tawangmangu;Plumbon;57792
+13918;Jawa Tengah;Kabupaten;Karanganyar;Tawangmangu;Sepanjang;57792
+13919;Jawa Tengah;Kabupaten;Karanganyar;Tawangmangu;Tawangmangu;57792
+13920;Jawa Tengah;Kabupaten;Karanganyar;Tawangmangu;Tengklik;57792
+13921;Jawa Tengah;Kabupaten;Grobogan;Tawangharjo;Godan;58191
+13922;Jawa Tengah;Kabupaten;Grobogan;Tawangharjo;Jono;58191
+13923;Jawa Tengah;Kabupaten;Grobogan;Tawangharjo;Kemaduhbatur;58191
+13924;Jawa Tengah;Kabupaten;Grobogan;Tawangharjo;Mayahan;58191
+13925;Jawa Tengah;Kabupaten;Grobogan;Tawangharjo;Plosorejo;58191
+13926;Jawa Tengah;Kabupaten;Grobogan;Tawangharjo;Pojok;58191
+13927;Jawa Tengah;Kabupaten;Grobogan;Tawangharjo;Pulongrambe;58191
+13928;Jawa Tengah;Kabupaten;Grobogan;Tawangharjo;Selo;58191
+13929;Jawa Tengah;Kabupaten;Grobogan;Tawangharjo;Tarub;58191
+13930;Jawa Tengah;Kabupaten;Grobogan;Tawangharjo;Tawangharjo;58191
+13931;Jawa Tengah;Kabupaten;Karanganyar;Tasikmadu;Buran;57722
+13932;Jawa Tengah;Kabupaten;Karanganyar;Tasikmadu;Gaum;57722
+13933;Jawa Tengah;Kabupaten;Karanganyar;Tasikmadu;Kalijirak;57722
+13934;Jawa Tengah;Kabupaten;Karanganyar;Tasikmadu;Kaling;57722
+13935;Jawa Tengah;Kabupaten;Karanganyar;Tasikmadu;Karangmojo;57722
+13936;Jawa Tengah;Kabupaten;Karanganyar;Tasikmadu;Ngijo;57721
+13937;Jawa Tengah;Kabupaten;Karanganyar;Tasikmadu;Pandeyan;57722
+13938;Jawa Tengah;Kabupaten;Karanganyar;Tasikmadu;Papahan;57722
+13939;Jawa Tengah;Kabupaten;Karanganyar;Tasikmadu;Suruh;57722
+13940;Jawa Tengah;Kabupaten;Karanganyar;Tasikmadu;Wonolopo;57722
+13941;Jawa Tengah;Kabupaten;Tegal;Tarub;Brekat;52184
+13942;Jawa Tengah;Kabupaten;Tegal;Tarub;Bulakwaru;52184
+13943;Jawa Tengah;Kabupaten;Tegal;Tarub;Bumiharja;52184
+13944;Jawa Tengah;Kabupaten;Tegal;Tarub;Jatirawa;52184
+13945;Jawa Tengah;Kabupaten;Tegal;Tarub;Kabukan;52184
+13946;Jawa Tengah;Kabupaten;Tegal;Tarub;Kalijambe;52184
+13947;Jawa Tengah;Kabupaten;Tegal;Tarub;Karangjati;52184
+13948;Jawa Tengah;Kabupaten;Tegal;Tarub;Karangmangu;52184
+13949;Jawa Tengah;Kabupaten;Tegal;Tarub;Kedokan Sayang;52184
+13950;Jawa Tengah;Kabupaten;Tegal;Tarub;Kedung Bungkus;52184
+13951;Jawa Tengah;Kabupaten;Tegal;Tarub;Kemanggungan;52184
+13952;Jawa Tengah;Kabupaten;Tegal;Tarub;Kesadikan;52184
+13953;Jawa Tengah;Kabupaten;Tegal;Tarub;Kesamiran;52184
+13954;Jawa Tengah;Kabupaten;Tegal;Tarub;Lebeteng;52184
+13955;Jawa Tengah;Kabupaten;Tegal;Tarub;Mangunsaren;52184
+13956;Jawa Tengah;Kabupaten;Tegal;Tarub;Margapadang;52184
+13957;Jawa Tengah;Kabupaten;Tegal;Tarub;Mindaka;52184
+13958;Jawa Tengah;Kabupaten;Tegal;Tarub;Purbasana;52184
+13959;Jawa Tengah;Kabupaten;Tegal;Tarub;Setu;52184
+13960;Jawa Tengah;Kabupaten;Tegal;Tarub;Tarub;52184
+13961;Jawa Tengah;Kabupaten;Sragen;Tanon;Bonagung;57277
+13962;Jawa Tengah;Kabupaten;Sragen;Tanon;Gabugan;57277
+13963;Jawa Tengah;Kabupaten;Sragen;Tanon;Gading;57277
+13964;Jawa Tengah;Kabupaten;Sragen;Tanon;Gawan;57277
+13965;Jawa Tengah;Kabupaten;Sragen;Tanon;Jono;57277
+13966;Jawa Tengah;Kabupaten;Sragen;Tanon;Kalikobok;57277
+13967;Jawa Tengah;Kabupaten;Sragen;Tanon;Karang Talun;57277
+13968;Jawa Tengah;Kabupaten;Sragen;Tanon;Karangasem;57277
+13969;Jawa Tengah;Kabupaten;Sragen;Tanon;Kecik;57277
+13970;Jawa Tengah;Kabupaten;Sragen;Tanon;Ketro;57277
+13971;Jawa Tengah;Kabupaten;Sragen;Tanon;Padas;57277
+13972;Jawa Tengah;Kabupaten;Sragen;Tanon;Pengkol;57277
+13973;Jawa Tengah;Kabupaten;Sragen;Tanon;Sambi Duwur;57277
+13974;Jawa Tengah;Kabupaten;Sragen;Tanon;Slogo;57277
+13975;Jawa Tengah;Kabupaten;Sragen;Tanon;Suwatu;57277
+13976;Jawa Tengah;Kabupaten;Sragen;Tanon;Tanon;57277
+13977;Jawa Tengah;Kabupaten;Brebes;Tanjung;Karangreja;52254
+13978;Jawa Tengah;Kabupaten;Brebes;Tanjung;Kedawung;52254
+13979;Jawa Tengah;Kabupaten;Brebes;Tanjung;Kemurang Kulon;52254
+13980;Jawa Tengah;Kabupaten;Brebes;Tanjung;Kemurang Wetan;52254
+13981;Jawa Tengah;Kabupaten;Brebes;Tanjung;Krakahan;52254
+13982;Jawa Tengah;Kabupaten;Brebes;Tanjung;Kubangputat;52254
+13983;Jawa Tengah;Kabupaten;Brebes;Tanjung;Lemah Abang;52254
+13984;Jawa Tengah;Kabupaten;Brebes;Tanjung;Luwung Gede;52254
+13985;Jawa Tengah;Kabupaten;Brebes;Tanjung;Luwungbata;52254
+13986;Jawa Tengah;Kabupaten;Brebes;Tanjung;Mundu;52254
+13987;Jawa Tengah;Kabupaten;Brebes;Tanjung;Pejagan;52254
+13988;Jawa Tengah;Kabupaten;Brebes;Tanjung;Pengaradan;52254
+13989;Jawa Tengah;Kabupaten;Brebes;Tanjung;Sarireja;52254
+13990;Jawa Tengah;Kabupaten;Brebes;Tanjung;Sengon;52254
+13991;Jawa Tengah;Kabupaten;Brebes;Tanjung;Sidakaton;52254
+13992;Jawa Tengah;Kabupaten;Brebes;Tanjung;Tanjung;52254
+13993;Jawa Tengah;Kabupaten;Brebes;Tanjung;Tegongan;52254
+13994;Jawa Tengah;Kabupaten;Brebes;Tanjung;Tengguli;52254
+13995;Jawa Tengah;Kabupaten;Grobogan;Tanggungharjo;Brabo;58166
+13996;Jawa Tengah;Kabupaten;Grobogan;Tanggungharjo;Kaliwenang;58166
+13997;Jawa Tengah;Kabupaten;Grobogan;Tanggungharjo;Kapung;58166
+13998;Jawa Tengah;Kabupaten;Grobogan;Tanggungharjo;Mrisi;58166
+13999;Jawa Tengah;Kabupaten;Grobogan;Tanggungharjo;Ngambakrejo;58166

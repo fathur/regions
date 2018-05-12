@@ -1,0 +1,501 @@
+No;Province;City/Kab;City/Kab Name;Kec/subDistrict;Kelurahan/village;Postal Code
+28000;Jawa Timur;Kabupaten;Probolinggo;Sumberasih;Laweyan;67251
+28001;Jawa Timur;Kabupaten;Probolinggo;Sumberasih;Lemahkembar;67251
+28002;Jawa Timur;Kabupaten;Probolinggo;Sumberasih;Mentor;67251
+28003;Jawa Timur;Kabupaten;Probolinggo;Sumberasih;Muneng;67251
+28004;Jawa Timur;Kabupaten;Probolinggo;Sumberasih;Muneng Kidul;67251
+28005;Jawa Timur;Kabupaten;Probolinggo;Sumberasih;Pesisir;67251
+28006;Jawa Timur;Kabupaten;Probolinggo;Sumberasih;Pohsangit Leres;67251
+28007;Jawa Timur;Kabupaten;Probolinggo;Sumberasih;Sumberbendo;67251
+28008;Jawa Timur;Kabupaten;Probolinggo;Sumberasih;Sumurmati;67251
+28009;Jawa Timur;Kabupaten;Probolinggo;Tegal Siwalan;Banjarsawah;67274
+28010;Jawa Timur;Kabupaten;Probolinggo;Tegal Siwalan;Blado Kulon;67274
+28011;Jawa Timur;Kabupaten;Probolinggo;Tegal Siwalan;Bulujaran Kidul;67274
+28012;Jawa Timur;Kabupaten;Probolinggo;Tegal Siwalan;Bulujaran Lor;67274
+28013;Jawa Timur;Kabupaten;Probolinggo;Tegal Siwalan;Gunung Bekel;67274
+28014;Jawa Timur;Kabupaten;Probolinggo;Tegal Siwalan;Malasan Wetan;67274
+28015;Jawa Timur;Kabupaten;Probolinggo;Tegal Siwalan;Paras;67274
+28016;Jawa Timur;Kabupaten;Probolinggo;Tegal Siwalan;Sumberbulu;67274
+28017;Jawa Timur;Kabupaten;Probolinggo;Tegal Siwalan;Sumberkledung;67274
+28018;Jawa Timur;Kabupaten;Probolinggo;Tegal Siwalan;Tegal Mojo;67274
+28019;Jawa Timur;Kabupaten;Probolinggo;Tegal Siwalan;Tegal Siwalan;67274
+28020;Jawa Timur;Kabupaten;Probolinggo;Tegal Siwalan;Tegal Sono;67274
+28021;Jawa Timur;Kabupaten;Probolinggo;Tiris;Andung Biru;67287
+28022;Jawa Timur;Kabupaten;Probolinggo;Tiris;Andung Sari;67287
+28023;Jawa Timur;Kabupaten;Probolinggo;Tiris;Jangkang;67287
+28024;Jawa Timur;Kabupaten;Probolinggo;Tiris;Pegadangan;67287
+28025;Jawa Timur;Kabupaten;Probolinggo;Tiris;Pesawahan;67287
+28026;Jawa Timur;Kabupaten;Probolinggo;Tiris;Racek;67287
+28027;Jawa Timur;Kabupaten;Probolinggo;Tiris;Ranuagung;67287
+28028;Jawa Timur;Kabupaten;Probolinggo;Tiris;Ranugedang;67287
+28029;Jawa Timur;Kabupaten;Probolinggo;Tiris;Renjing (Rejing);67287
+28030;Jawa Timur;Kabupaten;Probolinggo;Tiris;Segaran;67287
+28031;Jawa Timur;Kabupaten;Probolinggo;Tiris;Tegalwatu;67287
+28032;Jawa Timur;Kabupaten;Probolinggo;Tiris;Tiris;67287
+28033;Jawa Timur;Kabupaten;Probolinggo;Tiris;Tlogoargo;67287
+28034;Jawa Timur;Kabupaten;Probolinggo;Tiris;Tlogosari;67287
+28035;Jawa Timur;Kabupaten;Probolinggo;Tiris;Tulupari;67287
+28036;Jawa Timur;Kabupaten;Probolinggo;Tiris;Wedusan;67287
+28037;Jawa Timur;Kabupaten;Probolinggo;Tongas;Bayeman;67252
+28038;Jawa Timur;Kabupaten;Probolinggo;Tongas;Curah Dringu;67252
+28039;Jawa Timur;Kabupaten;Probolinggo;Tongas;Curah Tulis;67252
+28040;Jawa Timur;Kabupaten;Probolinggo;Tongas;Dungun;67252
+28041;Jawa Timur;Kabupaten;Probolinggo;Tongas;Klampok;67252
+28042;Jawa Timur;Kabupaten;Probolinggo;Tongas;Pamatan;67252
+28043;Jawa Timur;Kabupaten;Probolinggo;Tongas;Sumberejo;67252
+28044;Jawa Timur;Kabupaten;Probolinggo;Tongas;Sumberkramat;67252
+28045;Jawa Timur;Kabupaten;Probolinggo;Tongas;Sumendi;67252
+28046;Jawa Timur;Kabupaten;Probolinggo;Tongas;Tambakrejo;67252
+28047;Jawa Timur;Kabupaten;Probolinggo;Tongas;Tanjungrejo;67252
+28048;Jawa Timur;Kabupaten;Probolinggo;Tongas;Tongas Kulon;67252
+28049;Jawa Timur;Kabupaten;Probolinggo;Tongas;Tongas Wetan;67252
+28050;Jawa Timur;Kabupaten;Probolinggo;Tongas;Wringinanom;67252
+28051;Jawa Timur;Kabupaten;Probolinggo;Wonomerto;Jrebeng;67253
+28052;Jawa Timur;Kabupaten;Probolinggo;Wonomerto;Kareng Kidul;67253
+28053;Jawa Timur;Kabupaten;Probolinggo;Wonomerto;Kedung Supit;67253
+28054;Jawa Timur;Kabupaten;Probolinggo;Wonomerto;Patalan;67253
+28055;Jawa Timur;Kabupaten;Probolinggo;Wonomerto;Pohsangit Lor;67253
+28056;Jawa Timur;Kabupaten;Probolinggo;Wonomerto;Pohsangit Ngisor;67253
+28057;Jawa Timur;Kabupaten;Probolinggo;Wonomerto;Pohsangit Tengah;67253
+28058;Jawa Timur;Kabupaten;Probolinggo;Wonomerto;Sepuh Gempol;67253
+28059;Jawa Timur;Kabupaten;Probolinggo;Wonomerto;Sumberkare;67253
+28060;Jawa Timur;Kabupaten;Probolinggo;Wonomerto;Tunggak Cerme;67253
+28061;Jawa Timur;Kabupaten;Probolinggo;Wonomerto;Wonorejo;67253
+28062;Jawa Timur;Kabupaten;Sampang;Banyuates;Asem Jaran;69263
+28063;Jawa Timur;Kabupaten;Sampang;Banyuates;Banyuates;69263
+28064;Jawa Timur;Kabupaten;Sampang;Banyuates;Batioh;69263
+28065;Jawa Timur;Kabupaten;Sampang;Banyuates;Jatra Timur;69263
+28066;Jawa Timur;Kabupaten;Sampang;Banyuates;Kembang Jeruk;69263
+28067;Jawa Timur;Kabupaten;Sampang;Banyuates;Lar Lar;69263
+28068;Jawa Timur;Kabupaten;Sampang;Banyuates;Masaran;69263
+28069;Jawa Timur;Kabupaten;Sampang;Banyuates;Montor;69263
+28070;Jawa Timur;Kabupaten;Sampang;Banyuates;Morbatoh;69263
+28071;Jawa Timur;Kabupaten;Sampang;Banyuates;Nagasareh;69263
+28072;Jawa Timur;Kabupaten;Sampang;Banyuates;Nepa;69263
+28073;Jawa Timur;Kabupaten;Sampang;Banyuates;Olor;69263
+28074;Jawa Timur;Kabupaten;Sampang;Banyuates;Planggaran Barat;69263
+28075;Jawa Timur;Kabupaten;Sampang;Banyuates;Planggaran Timur;69263
+28076;Jawa Timur;Kabupaten;Sampang;Banyuates;Tapaan;69263
+28077;Jawa Timur;Kabupaten;Sampang;Banyuates;Tebanah;69263
+28078;Jawa Timur;Kabupaten;Sampang;Banyuates;Terosan;69263
+28079;Jawa Timur;Kabupaten;Sampang;Banyuates;Tlagah;69263
+28080;Jawa Timur;Kabupaten;Sampang;Banyuates;Tolang;69263
+28081;Jawa Timur;Kabupaten;Sampang;Banyuates;Trapang;69263
+28082;Jawa Timur;Kabupaten;Probolinggo;Kuripan;Karangrejo;67262
+28083;Jawa Timur;Kabupaten;Probolinggo;Kuripan;Kedawung;67262
+28084;Jawa Timur;Kabupaten;Probolinggo;Kuripan;Menyono;67262
+28085;Jawa Timur;Kabupaten;Probolinggo;Kuripan;Resongo;67262
+28086;Jawa Timur;Kabupaten;Probolinggo;Kuripan;Wonoasri;67262
+28087;Jawa Timur;Kabupaten;Probolinggo;Kuripan;Wringin Anom;67262
+28088;Jawa Timur;Kabupaten;Probolinggo;Leces;Clarak;67273
+28089;Jawa Timur;Kabupaten;Probolinggo;Leces;Jorongan;67273
+28090;Jawa Timur;Kabupaten;Probolinggo;Leces;Keprangan (Kerpangan);67273
+28091;Jawa Timur;Kabupaten;Probolinggo;Leces;Leces;67273
+28092;Jawa Timur;Kabupaten;Probolinggo;Leces;Malasan Kulon;67273
+28093;Jawa Timur;Kabupaten;Probolinggo;Leces;Pondok Wuluh;67273
+28094;Jawa Timur;Kabupaten;Probolinggo;Leces;Sumber Kedawung;67273
+28095;Jawa Timur;Kabupaten;Probolinggo;Leces;Tigasan Kulon;67273
+28096;Jawa Timur;Kabupaten;Probolinggo;Leces;Tigasan Wetan;67273
+28097;Jawa Timur;Kabupaten;Probolinggo;Leces;Warujinggo;67273
+28098;Jawa Timur;Kabupaten;Probolinggo;Lumbang;Boto;67255
+28099;Jawa Timur;Kabupaten;Probolinggo;Lumbang;Branggah;67255
+28100;Jawa Timur;Kabupaten;Probolinggo;Lumbang;Lambangkuning;67255
+28101;Jawa Timur;Kabupaten;Probolinggo;Lumbang;Lumbang;67255
+28102;Jawa Timur;Kabupaten;Probolinggo;Lumbang;Negororejo;67255
+28103;Jawa Timur;Kabupaten;Probolinggo;Lumbang;Palangbesi;67255
+28104;Jawa Timur;Kabupaten;Probolinggo;Lumbang;Purut;67255
+28105;Jawa Timur;Kabupaten;Probolinggo;Lumbang;Sapih;67255
+28106;Jawa Timur;Kabupaten;Probolinggo;Lumbang;Tandongsentul (Tandon Sentul);67255
+28107;Jawa Timur;Kabupaten;Probolinggo;Lumbang;Wonogoro;67255
+28108;Jawa Timur;Kabupaten;Probolinggo;Maron;Brabe;67276
+28109;Jawa Timur;Kabupaten;Probolinggo;Maron;Brani Kulon;67276
+28110;Jawa Timur;Kabupaten;Probolinggo;Maron;Brani Wetan;67276
+28111;Jawa Timur;Kabupaten;Probolinggo;Maron;Brumbungan Kidul;67276
+28112;Jawa Timur;Kabupaten;Probolinggo;Maron;Ganting Kulon;67276
+28113;Jawa Timur;Kabupaten;Probolinggo;Maron;Ganting Wetan;67276
+28114;Jawa Timur;Kabupaten;Probolinggo;Maron;Gerongan;67276
+28115;Jawa Timur;Kabupaten;Probolinggo;Maron;Kedungsari;67276
+28116;Jawa Timur;Kabupaten;Probolinggo;Maron;Maron Kidul;67276
+28117;Jawa Timur;Kabupaten;Probolinggo;Maron;Maron Kulon;67276
+28118;Jawa Timur;Kabupaten;Probolinggo;Maron;Maron Wetan;67276
+28119;Jawa Timur;Kabupaten;Probolinggo;Maron;Pegalangan Kidul;67276
+28120;Jawa Timur;Kabupaten;Probolinggo;Maron;Puspan;67276
+28121;Jawa Timur;Kabupaten;Probolinggo;Maron;Satreyan;67276
+28122;Jawa Timur;Kabupaten;Probolinggo;Maron;Suko;67276
+28123;Jawa Timur;Kabupaten;Probolinggo;Maron;Sumberdawe;67276
+28124;Jawa Timur;Kabupaten;Probolinggo;Maron;Sumberpoh;67276
+28125;Jawa Timur;Kabupaten;Probolinggo;Maron;Wonorejo;67276
+28126;Jawa Timur;Kabupaten;Probolinggo;Paiton;Alas Tengah;67291
+28127;Jawa Timur;Kabupaten;Probolinggo;Paiton;Bhinar;67291
+28128;Jawa Timur;Kabupaten;Probolinggo;Paiton;Jabung Candi;67291
+28129;Jawa Timur;Kabupaten;Probolinggo;Paiton;Jabung Sisir;67291
+28130;Jawa Timur;Kabupaten;Probolinggo;Paiton;Jabung Wetan;67291
+28131;Jawa Timur;Kabupaten;Probolinggo;Paiton;Kalikajar Kulon;67291
+28132;Jawa Timur;Kabupaten;Probolinggo;Paiton;Kalikajar Wetan;67291
+28133;Jawa Timur;Kabupaten;Probolinggo;Paiton;Karanganyar;67291
+28134;Jawa Timur;Kabupaten;Probolinggo;Paiton;Paiton;67291
+28135;Jawa Timur;Kabupaten;Probolinggo;Paiton;Pandean;67291
+28136;Jawa Timur;Kabupaten;Probolinggo;Paiton;Patunjungan;67291
+28137;Jawa Timur;Kabupaten;Probolinggo;Paiton;Plampang;67291
+28138;Jawa Timur;Kabupaten;Probolinggo;Paiton;Pondok Kelor;67291
+28139;Jawa Timur;Kabupaten;Probolinggo;Paiton;Randu Merak;67291
+28140;Jawa Timur;Kabupaten;Probolinggo;Paiton;Randu Tatah;67291
+28141;Jawa Timur;Kabupaten;Probolinggo;Paiton;Sidodadi;67291
+28142;Jawa Timur;Kabupaten;Probolinggo;Paiton;Sukodadi;67291
+28143;Jawa Timur;Kabupaten;Probolinggo;Paiton;Sumberanyar;67291
+28144;Jawa Timur;Kabupaten;Probolinggo;Paiton;Sumberejo;67291
+28145;Jawa Timur;Kabupaten;Probolinggo;Paiton;Taman;67291
+28146;Jawa Timur;Kabupaten;Probolinggo;Pajarakan;Gejungan;67281
+28147;Jawa Timur;Kabupaten;Probolinggo;Pajarakan;Karangbong;67281
+28148;Jawa Timur;Kabupaten;Probolinggo;Pajarakan;Karanggeger;67281
+28149;Jawa Timur;Kabupaten;Probolinggo;Pajarakan;Karangpranti;67281
+28150;Jawa Timur;Kabupaten;Probolinggo;Pajarakan;Ketompen;67281
+28151;Jawa Timur;Kabupaten;Probolinggo;Pajarakan;Pajarakan Kulon;67281
+28152;Jawa Timur;Kabupaten;Probolinggo;Pajarakan;Penambangan;67281
+28153;Jawa Timur;Kabupaten;Probolinggo;Pajarakan;Selogudig Kulon;67281
+28154;Jawa Timur;Kabupaten;Probolinggo;Pajarakan;Selogudig Wetan;67281
+28155;Jawa Timur;Kabupaten;Probolinggo;Pajarakan;Sukokerto;67281
+28156;Jawa Timur;Kabupaten;Probolinggo;Pajarakan;Sukomulyo;67281
+28157;Jawa Timur;Kabupaten;Probolinggo;Pajarakan;Tanjung;67281
+28158;Jawa Timur;Kabupaten;Probolinggo;Pakuniran;Alas Pandan;67292
+28159;Jawa Timur;Kabupaten;Probolinggo;Pakuniran;Bimo;67292
+28160;Jawa Timur;Kabupaten;Probolinggo;Pakuniran;Blimbing;67292
+28161;Jawa Timur;Kabupaten;Probolinggo;Pakuniran;Bucor Kulon;67292
+28162;Jawa Timur;Kabupaten;Probolinggo;Pakuniran;Bucor Wetan;67292
+28163;Jawa Timur;Kabupaten;Probolinggo;Pakuniran;Glagah;67292
+28164;Jawa Timur;Kabupaten;Probolinggo;Pakuniran;Gondosuli;67292
+28165;Jawa Timur;Kabupaten;Probolinggo;Pakuniran;Gunggungan Kidul;67292
+28166;Jawa Timur;Kabupaten;Probolinggo;Pakuniran;Gunggungan Lor;67292
+28167;Jawa Timur;Kabupaten;Probolinggo;Pakuniran;Kalidandan;67292
+28168;Jawa Timur;Kabupaten;Probolinggo;Pakuniran;Kedungsumur;67292
+28169;Jawa Timur;Kabupaten;Probolinggo;Pakuniran;Kertonegoro;67292
+28170;Jawa Timur;Kabupaten;Probolinggo;Pakuniran;Pakuniran;67292
+28171;Jawa Timur;Kabupaten;Probolinggo;Pakuniran;Patemon Kulon;67292
+28172;Jawa Timur;Kabupaten;Probolinggo;Pakuniran;Ranon;67292
+28173;Jawa Timur;Kabupaten;Probolinggo;Pakuniran;Sogaan;67292
+28174;Jawa Timur;Kabupaten;Probolinggo;Pakuniran;Sumber Kembar;67292
+28175;Jawa Timur;Kabupaten;Probolinggo;Sukapura;Jetak;67254
+28176;Jawa Timur;Kabupaten;Probolinggo;Sukapura;Kedasih;67254
+28177;Jawa Timur;Kabupaten;Probolinggo;Sukapura;Ngadas;67254
+28178;Jawa Timur;Kabupaten;Probolinggo;Sukapura;Ngadirejo;67254
+28179;Jawa Timur;Kabupaten;Probolinggo;Sukapura;Ngadisari;67254
+28180;Jawa Timur;Kabupaten;Probolinggo;Sukapura;Ngepung;67254
+28181;Jawa Timur;Kabupaten;Probolinggo;Sukapura;Pakel;67254
+28182;Jawa Timur;Kabupaten;Probolinggo;Sukapura;Sapikerep;67254
+28183;Jawa Timur;Kabupaten;Probolinggo;Sukapura;Sariwani;67254
+28184;Jawa Timur;Kabupaten;Probolinggo;Sukapura;Sukapura;67254
+28185;Jawa Timur;Kabupaten;Probolinggo;Sukapura;Wonokerto;67254
+28186;Jawa Timur;Kabupaten;Probolinggo;Sukapura;Wonotoro;67254
+28187;Jawa Timur;Kabupaten;Probolinggo;Sumber;Cepoko;67263
+28188;Jawa Timur;Kabupaten;Probolinggo;Sumber;Gemito;67263
+28189;Jawa Timur;Kabupaten;Probolinggo;Sumber;Ledokombo;67263
+28190;Jawa Timur;Kabupaten;Probolinggo;Sumber;Pandansari;67263
+28191;Jawa Timur;Kabupaten;Probolinggo;Sumber;Rambaan;67263
+28192;Jawa Timur;Kabupaten;Probolinggo;Sumber;Sumber;67263
+28193;Jawa Timur;Kabupaten;Probolinggo;Sumber;Sumberanom;67263
+28194;Jawa Timur;Kabupaten;Probolinggo;Sumber;Tukul;67263
+28195;Jawa Timur;Kabupaten;Probolinggo;Sumber;Wonokerso;67263
+28196;Jawa Timur;Kabupaten;Probolinggo;Sumberasih;Ambulu;67251
+28197;Jawa Timur;Kabupaten;Probolinggo;Sumberasih;Banjarsari;67251
+28198;Jawa Timur;Kabupaten;Probolinggo;Sumberasih;Gili Ketapang;67251
+28199;Jawa Timur;Kabupaten;Probolinggo;Sumberasih;Jangur;67251
+28200;Jawa Timur;Kabupaten;Probolinggo;Sumberasih;Laweyan;67251
+28201;Jawa Timur;Kabupaten;Probolinggo;Sumberasih;Lemahkembar;67251
+28202;Jawa Timur;Kabupaten;Probolinggo;Sumberasih;Mentor;67251
+28203;Jawa Timur;Kabupaten;Probolinggo;Sumberasih;Muneng;67251
+28204;Jawa Timur;Kabupaten;Probolinggo;Sumberasih;Muneng Kidul;67251
+28205;Jawa Timur;Kabupaten;Probolinggo;Sumberasih;Pesisir;67251
+28206;Jawa Timur;Kabupaten;Probolinggo;Sumberasih;Pohsangit Leres;67251
+28207;Jawa Timur;Kabupaten;Probolinggo;Sumberasih;Sumberbendo;67251
+28208;Jawa Timur;Kabupaten;Probolinggo;Sumberasih;Sumurmati;67251
+28209;Jawa Timur;Kabupaten;Probolinggo;Tegal Siwalan;Banjarsawah;67274
+28210;Jawa Timur;Kabupaten;Probolinggo;Tegal Siwalan;Blado Kulon;67274
+28211;Jawa Timur;Kabupaten;Probolinggo;Tegal Siwalan;Bulujaran Kidul;67274
+28212;Jawa Timur;Kabupaten;Probolinggo;Tegal Siwalan;Bulujaran Lor;67274
+28213;Jawa Timur;Kabupaten;Probolinggo;Tegal Siwalan;Gunung Bekel;67274
+28214;Jawa Timur;Kabupaten;Probolinggo;Tegal Siwalan;Malasan Wetan;67274
+28215;Jawa Timur;Kabupaten;Probolinggo;Tegal Siwalan;Paras;67274
+28216;Jawa Timur;Kabupaten;Probolinggo;Tegal Siwalan;Sumberbulu;67274
+28217;Jawa Timur;Kabupaten;Probolinggo;Tegal Siwalan;Sumberkledung;67274
+28218;Jawa Timur;Kabupaten;Probolinggo;Tegal Siwalan;Tegal Mojo;67274
+28219;Jawa Timur;Kabupaten;Probolinggo;Tegal Siwalan;Tegal Siwalan;67274
+28220;Jawa Timur;Kabupaten;Probolinggo;Tegal Siwalan;Tegal Sono;67274
+28221;Jawa Timur;Kabupaten;Probolinggo;Tiris;Andung Biru;67287
+28222;Jawa Timur;Kabupaten;Probolinggo;Tiris;Andung Sari;67287
+28223;Jawa Timur;Kabupaten;Probolinggo;Tiris;Jangkang;67287
+28224;Jawa Timur;Kabupaten;Probolinggo;Tiris;Pegadangan;67287
+28225;Jawa Timur;Kabupaten;Probolinggo;Tiris;Pesawahan;67287
+28226;Jawa Timur;Kabupaten;Probolinggo;Tiris;Racek;67287
+28227;Jawa Timur;Kabupaten;Probolinggo;Tiris;Ranuagung;67287
+28228;Jawa Timur;Kabupaten;Probolinggo;Tiris;Ranugedang;67287
+28229;Jawa Timur;Kabupaten;Probolinggo;Tiris;Renjing (Rejing);67287
+28230;Jawa Timur;Kabupaten;Probolinggo;Tiris;Segaran;67287
+28231;Jawa Timur;Kabupaten;Probolinggo;Tiris;Tegalwatu;67287
+28232;Jawa Timur;Kabupaten;Probolinggo;Tiris;Tiris;67287
+28233;Jawa Timur;Kabupaten;Probolinggo;Tiris;Tlogoargo;67287
+28234;Jawa Timur;Kabupaten;Probolinggo;Tiris;Tlogosari;67287
+28235;Jawa Timur;Kabupaten;Probolinggo;Tiris;Tulupari;67287
+28236;Jawa Timur;Kabupaten;Probolinggo;Tiris;Wedusan;67287
+28237;Jawa Timur;Kabupaten;Probolinggo;Tongas;Bayeman;67252
+28238;Jawa Timur;Kabupaten;Probolinggo;Tongas;Curah Dringu;67252
+28239;Jawa Timur;Kabupaten;Probolinggo;Tongas;Curah Tulis;67252
+28240;Jawa Timur;Kabupaten;Probolinggo;Tongas;Dungun;67252
+28241;Jawa Timur;Kabupaten;Probolinggo;Tongas;Klampok;67252
+28242;Jawa Timur;Kabupaten;Probolinggo;Tongas;Pamatan;67252
+28243;Jawa Timur;Kabupaten;Probolinggo;Tongas;Sumberejo;67252
+28244;Jawa Timur;Kabupaten;Probolinggo;Tongas;Sumberkramat;67252
+28245;Jawa Timur;Kabupaten;Probolinggo;Tongas;Sumendi;67252
+28246;Jawa Timur;Kabupaten;Probolinggo;Tongas;Tambakrejo;67252
+28247;Jawa Timur;Kabupaten;Probolinggo;Tongas;Tanjungrejo;67252
+28248;Jawa Timur;Kabupaten;Probolinggo;Tongas;Tongas Kulon;67252
+28249;Jawa Timur;Kabupaten;Probolinggo;Tongas;Tongas Wetan;67252
+28250;Jawa Timur;Kabupaten;Probolinggo;Tongas;Wringinanom;67252
+28251;Jawa Timur;Kabupaten;Probolinggo;Wonomerto;Jrebeng;67253
+28252;Jawa Timur;Kabupaten;Probolinggo;Wonomerto;Kareng Kidul;67253
+28253;Jawa Timur;Kabupaten;Probolinggo;Wonomerto;Kedung Supit;67253
+28254;Jawa Timur;Kabupaten;Probolinggo;Wonomerto;Patalan;67253
+28255;Jawa Timur;Kabupaten;Probolinggo;Wonomerto;Pohsangit Lor;67253
+28256;Jawa Timur;Kabupaten;Probolinggo;Wonomerto;Pohsangit Ngisor;67253
+28257;Jawa Timur;Kabupaten;Probolinggo;Wonomerto;Pohsangit Tengah;67253
+28258;Jawa Timur;Kabupaten;Probolinggo;Wonomerto;Sepuh Gempol;67253
+28259;Jawa Timur;Kabupaten;Probolinggo;Wonomerto;Sumberkare;67253
+28260;Jawa Timur;Kabupaten;Probolinggo;Wonomerto;Tunggak Cerme;67253
+28261;Jawa Timur;Kabupaten;Probolinggo;Wonomerto;Wonorejo;67253
+28262;Jawa Timur;Kabupaten;Sampang;Banyuates;Asem Jaran;69263
+28263;Jawa Timur;Kabupaten;Sampang;Banyuates;Banyuates;69263
+28264;Jawa Timur;Kabupaten;Sampang;Banyuates;Batioh;69263
+28265;Jawa Timur;Kabupaten;Sampang;Banyuates;Jatra Timur;69263
+28266;Jawa Timur;Kabupaten;Sampang;Banyuates;Kembang Jeruk;69263
+28267;Jawa Timur;Kabupaten;Sampang;Banyuates;Lar Lar;69263
+28268;Jawa Timur;Kabupaten;Sampang;Banyuates;Masaran;69263
+28269;Jawa Timur;Kabupaten;Sampang;Banyuates;Montor;69263
+28270;Jawa Timur;Kabupaten;Sampang;Banyuates;Morbatoh;69263
+28271;Jawa Timur;Kabupaten;Sampang;Banyuates;Nagasareh;69263
+28272;Jawa Timur;Kabupaten;Sampang;Banyuates;Nepa;69263
+28273;Jawa Timur;Kabupaten;Sampang;Banyuates;Olor;69263
+28274;Jawa Timur;Kabupaten;Sampang;Banyuates;Planggaran Barat;69263
+28275;Jawa Timur;Kabupaten;Sampang;Banyuates;Planggaran Timur;69263
+28276;Jawa Timur;Kabupaten;Sampang;Banyuates;Tapaan;69263
+28277;Jawa Timur;Kabupaten;Sampang;Banyuates;Tebanah;69263
+28278;Jawa Timur;Kabupaten;Sampang;Banyuates;Terosan;69263
+28279;Jawa Timur;Kabupaten;Sampang;Banyuates;Tlagah;69263
+28280;Jawa Timur;Kabupaten;Sampang;Banyuates;Tolang;69263
+28281;Jawa Timur;Kabupaten;Sampang;Banyuates;Trapang;69263
+28282;Jawa Timur;Kabupaten;Sampang;Camplong;Anggersek;69281
+28283;Jawa Timur;Kabupaten;Sampang;Camplong;Banjar Tabulu;69281
+28284;Jawa Timur;Kabupaten;Sampang;Camplong;Banjar Talela;69281
+28285;Jawa Timur;Kabupaten;Sampang;Camplong;Batu Karang;69281
+28286;Jawa Timur;Kabupaten;Sampang;Camplong;Dharma Camplong;69281
+28287;Jawa Timur;Kabupaten;Sampang;Camplong;Dharma Tanjung;69281
+28288;Jawa Timur;Kabupaten;Sampang;Camplong;Madupat;69281
+28289;Jawa Timur;Kabupaten;Sampang;Camplong;Pamolaan;69281
+28290;Jawa Timur;Kabupaten;Sampang;Camplong;Plampaan;69281
+28291;Jawa Timur;Kabupaten;Sampang;Camplong;Prajjan;69281
+28292;Jawa Timur;Kabupaten;Sampang;Camplong;Rabasan;69281
+28293;Jawa Timur;Kabupaten;Sampang;Camplong;Sejati;69281
+28294;Jawa Timur;Kabupaten;Sampang;Camplong;Taddan;69281
+28295;Jawa Timur;Kabupaten;Sampang;Camplong;Tambaan;69281
+28296;Jawa Timur;Kabupaten;Sampang;Jrengik;Asem Nonggal;69272
+28297;Jawa Timur;Kabupaten;Sampang;Jrengik;Asem Raja;69272
+28298;Jawa Timur;Kabupaten;Sampang;Jrengik;Bancelok;69272
+28299;Jawa Timur;Kabupaten;Sampang;Jrengik;Buker;69272
+28300;Jawa Timur;Kabupaten;Sampang;Jrengik;Jrengik;69272
+28301;Jawa Timur;Kabupaten;Sampang;Jrengik;Jungkarang;69272
+28302;Jawa Timur;Kabupaten;Sampang;Jrengik;Kalangan Prao;69272
+28303;Jawa Timur;Kabupaten;Sampang;Jrengik;Kotah;69272
+28304;Jawa Timur;Kabupaten;Sampang;Jrengik;Majangan;69272
+28305;Jawa Timur;Kabupaten;Sampang;Jrengik;Margantoko;69272
+28306;Jawa Timur;Kabupaten;Sampang;Jrengik;Mlaka;69272
+28307;Jawa Timur;Kabupaten;Sampang;Jrengik;Panyepen;69272
+28308;Jawa Timur;Kabupaten;Sampang;Jrengik;Plakaran;69272
+28309;Jawa Timur;Kabupaten;Sampang;Jrengik;Taman;69272
+28310;Jawa Timur;Kabupaten;Sampang;Karang Penang;Bluuran (Blu Uran);69254
+28311;Jawa Timur;Kabupaten;Sampang;Karang Penang;Bulmatet;69254
+28312;Jawa Timur;Kabupaten;Sampang;Karang Penang;Gunung Kesan;69254
+28313;Jawa Timur;Kabupaten;Sampang;Karang Penang;Karang Penang Oloh;69254
+28314;Jawa Timur;Kabupaten;Sampang;Karang Penang;Karang Penang Onjur;69254
+28315;Jawa Timur;Kabupaten;Sampang;Karang Penang;Poreh;69254
+28316;Jawa Timur;Kabupaten;Sampang;Karang Penang;Tlambah;69254
+28317;Jawa Timur;Kabupaten;Sampang;Kedungdung;Bajrasokah;69252
+28318;Jawa Timur;Kabupaten;Sampang;Kedungdung;Banjar;69252
+28319;Jawa Timur;Kabupaten;Sampang;Kedungdung;Banyukapah;69252
+28320;Jawa Timur;Kabupaten;Sampang;Kedungdung;Batoporo Barat;69252
+28321;Jawa Timur;Kabupaten;Sampang;Kedungdung;Batoporo Timur;69252
+28322;Jawa Timur;Kabupaten;Sampang;Kedungdung;Daleman;69252
+28323;Jawa Timur;Kabupaten;Sampang;Kedungdung;Gunung Eleh;69252
+28324;Jawa Timur;Kabupaten;Sampang;Kedungdung;Kedungdung;69252
+28325;Jawa Timur;Kabupaten;Sampang;Kedungdung;Komis;69252
+28326;Jawa Timur;Kabupaten;Sampang;Kedungdung;Kramat;69252
+28327;Jawa Timur;Kabupaten;Sampang;Kedungdung;Muktesareh (Moktesareh);69252
+28328;Jawa Timur;Kabupaten;Sampang;Kedungdung;Nyeloh;69252
+28329;Jawa Timur;Kabupaten;Sampang;Kedungdung;Ombul;69252
+28330;Jawa Timur;Kabupaten;Sampang;Kedungdung;Pajeruan;69252
+28331;Jawa Timur;Kabupaten;Sampang;Kedungdung;Palenggiyan (Palenggian);69252
+28332;Jawa Timur;Kabupaten;Sampang;Kedungdung;Pasarenan;69252
+28333;Jawa Timur;Kabupaten;Sampang;Kedungdung;Rabasan;69252
+28334;Jawa Timur;Kabupaten;Sampang;Kedungdung;Rohayu;69252
+28335;Jawa Timur;Kabupaten;Sampang;Ketapang;Banyusokah;69261
+28336;Jawa Timur;Kabupaten;Sampang;Ketapang;Bira Barat;69261
+28337;Jawa Timur;Kabupaten;Sampang;Ketapang;Bunten Barat;69261
+28338;Jawa Timur;Kabupaten;Sampang;Ketapang;Bunten Timur;69261
+28339;Jawa Timur;Kabupaten;Sampang;Ketapang;Karang Anyar;69261
+28340;Jawa Timur;Kabupaten;Sampang;Ketapang;Ketapang Barat;69261
+28341;Jawa Timur;Kabupaten;Sampang;Ketapang;Ketapang Daya;69261
+28342;Jawa Timur;Kabupaten;Sampang;Ketapang;Ketapang Laok;69261
+28343;Jawa Timur;Kabupaten;Sampang;Ketapang;Ketapang Timur;69261
+28344;Jawa Timur;Kabupaten;Sampang;Ketapang;Pancor;69261
+28345;Jawa Timur;Kabupaten;Sampang;Ketapang;Pangereman;69261
+28346;Jawa Timur;Kabupaten;Sampang;Ketapang;Paopale Daya;69261
+28347;Jawa Timur;Kabupaten;Sampang;Ketapang;Paopalelaok;69261
+28348;Jawa Timur;Kabupaten;Sampang;Ketapang;Rabiyan;69261
+28349;Jawa Timur;Kabupaten;Sampang;Omben;Angsokah;69291
+28350;Jawa Timur;Kabupaten;Sampang;Omben;Astapah;69291
+28351;Jawa Timur;Kabupaten;Sampang;Omben;Gersempal;69291
+28352;Jawa Timur;Kabupaten;Sampang;Omben;Jrangoan (Jranguan);69291
+28353;Jawa Timur;Kabupaten;Sampang;Omben;Kamondung;69291
+28354;Jawa Timur;Kabupaten;Sampang;Omben;Karang Gayam;69291
+28355;Jawa Timur;Kabupaten;Sampang;Omben;Karang Nangger;69291
+28356;Jawa Timur;Kabupaten;Sampang;Omben;Kebun Sareh;69291
+28357;Jawa Timur;Kabupaten;Sampang;Omben;Madulang;69291
+28358;Jawa Timur;Kabupaten;Sampang;Omben;Meteng;69291
+28359;Jawa Timur;Kabupaten;Sampang;Omben;Napo Daya (Napa Daya);69291
+28360;Jawa Timur;Kabupaten;Sampang;Omben;Napolaok (Napa Laok);69291
+28361;Jawa Timur;Kabupaten;Sampang;Omben;Omben;69291
+28362;Jawa Timur;Kabupaten;Sampang;Omben;Pandan;69291
+28363;Jawa Timur;Kabupaten;Sampang;Omben;Rapa Daya;69291
+28364;Jawa Timur;Kabupaten;Sampang;Omben;Rapa Laok;69291
+28365;Jawa Timur;Kabupaten;Sampang;Omben;Rongdalem (Rongdalam);69291
+28366;Jawa Timur;Kabupaten;Sampang;Omben;Sogiyan (Sogian);69291
+28367;Jawa Timur;Kabupaten;Sampang;Omben;Tambak;69291
+28368;Jawa Timur;Kabupaten;Sampang;Omben;Temoran;69291
+28369;Jawa Timur;Kabupaten;Sampang;Pangarengan;Apaan;69271
+28370;Jawa Timur;Kabupaten;Sampang;Pangarengan;Gulbung;69271
+28371;Jawa Timur;Kabupaten;Sampang;Pangarengan;Pacanggaan;69271
+28372;Jawa Timur;Kabupaten;Sampang;Pangarengan;Pangarengan;69271
+28373;Jawa Timur;Kabupaten;Sampang;Pangarengan;Panyerangan (Panyirangan);69271
+28374;Jawa Timur;Kabupaten;Sampang;Pangarengan;Ragung;69271
+28375;Jawa Timur;Kabupaten;Sampang;Robatal;Bapelle;69254
+28376;Jawa Timur;Kabupaten;Sampang;Robatal;Gunung Rancak;69254
+28377;Jawa Timur;Kabupaten;Sampang;Robatal;Jelgung;69254
+28378;Jawa Timur;Kabupaten;Sampang;Robatal;Lepelle;69254
+28379;Jawa Timur;Kabupaten;Sampang;Robatal;Pandiyangan;69254
+28380;Jawa Timur;Kabupaten;Sampang;Robatal;Robatal;69254
+28381;Jawa Timur;Kabupaten;Sampang;Robatal;Sawah Tengah;69254
+28382;Jawa Timur;Kabupaten;Sampang;Robatal;Torjunan;69254
+28383;Jawa Timur;Kabupaten;Sampang;Robatal;Tragih;69254
+28384;Jawa Timur;Kabupaten;Sampang;Sampang;Aeng Sareh;69216
+28385;Jawa Timur;Kabupaten;Sampang;Sampang;Banyuanyar;69216
+28386;Jawa Timur;Kabupaten;Sampang;Sampang;Banyumas;69216
+28387;Jawa Timur;Kabupaten;Sampang;Sampang;Baruh;69216
+28388;Jawa Timur;Kabupaten;Sampang;Sampang;Dalpenang;69212
+28389;Jawa Timur;Kabupaten;Sampang;Sampang;Gunung Maddah;69216
+28390;Jawa Timur;Kabupaten;Sampang;Sampang;Gunung Sekar;69216
+28391;Jawa Timur;Kabupaten;Sampang;Sampang;Kamoning;69216
+28392;Jawa Timur;Kabupaten;Sampang;Sampang;Karang Dalem;69216
+28393;Jawa Timur;Kabupaten;Sampang;Sampang;Pangelen;69216
+28394;Jawa Timur;Kabupaten;Sampang;Sampang;Panggung;69216
+28395;Jawa Timur;Kabupaten;Sampang;Sampang;Paseyan;69216
+28396;Jawa Timur;Kabupaten;Sampang;Sampang;Pekalongan (Pakalongan);69216
+28397;Jawa Timur;Kabupaten;Sampang;Sampang;Polagan;69215
+28398;Jawa Timur;Kabupaten;Sampang;Sampang;Pulau Mandangin (Mandingan);69216
+28399;Jawa Timur;Kabupaten;Sampang;Sampang;Rong Tengah;69216
+28400;Jawa Timur;Kabupaten;Sampang;Sampang;Taman Sareh;69216
+28401;Jawa Timur;Kabupaten;Sampang;Sampang;Tanggumong;69216
+28402;Jawa Timur;Kabupaten;Sampang;Sokobanah;Bira Tengah;69262
+28403;Jawa Timur;Kabupaten;Sampang;Sokobanah;Bira Timur;69262
+28404;Jawa Timur;Kabupaten;Sampang;Sokobanah;Sokobanah Daya;69262
+28405;Jawa Timur;Kabupaten;Sampang;Sokobanah;Sokobanah Laok;69262
+28406;Jawa Timur;Kabupaten;Sampang;Sokobanah;Sokobanah Tengah;69262
+28407;Jawa Timur;Kabupaten;Sampang;Sokobanah;Tamberu Barat;69262
+28408;Jawa Timur;Kabupaten;Sampang;Sokobanah;Tamberu Daya;69262
+28409;Jawa Timur;Kabupaten;Sampang;Sokobanah;Tamberu Laok;69262
+28410;Jawa Timur;Kabupaten;Sampang;Sokobanah;Tamberu Timur;69262
+28411;Jawa Timur;Kabupaten;Sampang;Sokobanah;Tobai Barat;69262
+28412;Jawa Timur;Kabupaten;Sampang;Sokobanah;Tobai Tengah;69262
+28413;Jawa Timur;Kabupaten;Sampang;Sokobanah;Tobai Timur;69262
+28414;Jawa Timur;Kabupaten;Sampang;Sreseh;Bangsah;69273
+28415;Jawa Timur;Kabupaten;Sampang;Sreseh;Bundah;69273
+28416;Jawa Timur;Kabupaten;Sampang;Sreseh;Disanah;69273
+28417;Jawa Timur;Kabupaten;Sampang;Sreseh;Junuk (Junok);69273
+28418;Jawa Timur;Kabupaten;Sampang;Sreseh;Klobur;69273
+28419;Jawa Timur;Kabupaten;Sampang;Sreseh;Labang;69273
+28420;Jawa Timur;Kabupaten;Sampang;Sreseh;Labuhan;69273
+28421;Jawa Timur;Kabupaten;Sampang;Sreseh;Marparan;69273
+28422;Jawa Timur;Kabupaten;Sampang;Sreseh;Noreh;69273
+28423;Jawa Timur;Kabupaten;Sampang;Sreseh;Plasah;69273
+28424;Jawa Timur;Kabupaten;Sampang;Sreseh;Sreseh;69273
+28425;Jawa Timur;Kabupaten;Sampang;Sreseh;Taman;69273
+28426;Jawa Timur;Kabupaten;Sampang;Tambelangan;Banjar Billah;69253
+28427;Jawa Timur;Kabupaten;Sampang;Tambelangan;Barung Gagah;69253
+28428;Jawa Timur;Kabupaten;Sampang;Tambelangan;Batorasang (Baturasang);69253
+28429;Jawa Timur;Kabupaten;Sampang;Tambelangan;Beringin (Bringin);69253
+28430;Jawa Timur;Kabupaten;Sampang;Tambelangan;Birem;69253
+28431;Jawa Timur;Kabupaten;Sampang;Tambelangan;Karang Anyar;69253
+28432;Jawa Timur;Kabupaten;Sampang;Tambelangan;Mambulu Barat;69253
+28433;Jawa Timur;Kabupaten;Sampang;Tambelangan;Samaran;69253
+28434;Jawa Timur;Kabupaten;Sampang;Tambelangan;Somber;69253
+28435;Jawa Timur;Kabupaten;Sampang;Tambelangan;Tambelangan;69253
+28436;Jawa Timur;Kabupaten;Sampang;Torjun;Bringin Nonggal;69271
+28437;Jawa Timur;Kabupaten;Sampang;Torjun;Dulang;69271
+28438;Jawa Timur;Kabupaten;Sampang;Torjun;Jeruk Porot;69271
+28439;Jawa Timur;Kabupaten;Sampang;Torjun;Kanjar;69271
+28440;Jawa Timur;Kabupaten;Sampang;Torjun;Kara;69271
+28441;Jawa Timur;Kabupaten;Sampang;Torjun;Kodak;69271
+28442;Jawa Timur;Kabupaten;Sampang;Torjun;Krampon;69271
+28443;Jawa Timur;Kabupaten;Sampang;Torjun;Pangongsean;69271
+28444;Jawa Timur;Kabupaten;Sampang;Torjun;Patapan;69271
+28445;Jawa Timur;Kabupaten;Sampang;Torjun;Patarongan;69271
+28446;Jawa Timur;Kabupaten;Sampang;Torjun;Tanah Merah;69271
+28447;Jawa Timur;Kabupaten;Sampang;Torjun;Torjun;69271
+28448;Jawa Timur;Kabupaten;Sidoarjo;Balongbendo;Bakalan Wringinpitu;61263
+28449;Jawa Timur;Kabupaten;Sidoarjo;Balongbendo;Bakung Pringgodani;61263
+28450;Jawa Timur;Kabupaten;Sidoarjo;Balongbendo;Bakung Temenggungan;61263
+28451;Jawa Timur;Kabupaten;Sidoarjo;Balongbendo;Balongbendo;61263
+28452;Jawa Timur;Kabupaten;Sidoarjo;Balongbendo;Bogem Pinggir;61263
+28453;Jawa Timur;Kabupaten;Sidoarjo;Balongbendo;Gagang Kepuhsari;61263
+28454;Jawa Timur;Kabupaten;Sidoarjo;Balongbendo;Jabaran;61263
+28455;Jawa Timur;Kabupaten;Sidoarjo;Balongbendo;Jeruk Legi;61263
+28456;Jawa Timur;Kabupaten;Sidoarjo;Balongbendo;Kedung Sukodani;61263
+28457;Jawa Timur;Kabupaten;Sidoarjo;Balongbendo;Kemangsen;61263
+28458;Jawa Timur;Kabupaten;Sidoarjo;Balongbendo;Penambangan;61263
+28459;Jawa Timur;Kabupaten;Sidoarjo;Balongbendo;Seduri;61263
+28460;Jawa Timur;Kabupaten;Sidoarjo;Balongbendo;Seketi;61263
+28461;Jawa Timur;Kabupaten;Sidoarjo;Balongbendo;Singkalan;61263
+28462;Jawa Timur;Kabupaten;Sidoarjo;Balongbendo;Sumokembangsri;61263
+28463;Jawa Timur;Kabupaten;Sidoarjo;Balongbendo;Suwaluh;61263
+28464;Jawa Timur;Kabupaten;Sidoarjo;Balongbendo;Waruberon;61263
+28465;Jawa Timur;Kabupaten;Sidoarjo;Balongbendo;Watesari;61263
+28466;Jawa Timur;Kabupaten;Sidoarjo;Balongbendo;Wonokarang;61263
+28467;Jawa Timur;Kabupaten;Sidoarjo;Balongbendo;Wonokupang;61263
+28468;Jawa Timur;Kabupaten;Sidoarjo;Buduran;Banjarkemantren;61252
+28469;Jawa Timur;Kabupaten;Sidoarjo;Buduran;Banjarsari;61252
+28470;Jawa Timur;Kabupaten;Sidoarjo;Buduran;Buduran;61252
+28471;Jawa Timur;Kabupaten;Sidoarjo;Buduran;Damarsi;61252
+28472;Jawa Timur;Kabupaten;Sidoarjo;Buduran;Dukuhtengah;61252
+28473;Jawa Timur;Kabupaten;Sidoarjo;Buduran;Entalsewu;61252
+28474;Jawa Timur;Kabupaten;Sidoarjo;Buduran;Pagerwojo;61252
+28475;Jawa Timur;Kabupaten;Sidoarjo;Buduran;Prasung;61252
+28476;Jawa Timur;Kabupaten;Sidoarjo;Buduran;Sawohan;61252
+28477;Jawa Timur;Kabupaten;Sidoarjo;Buduran;Sidokepung;61252
+28478;Jawa Timur;Kabupaten;Sidoarjo;Buduran;Sidokerto;61252
+28479;Jawa Timur;Kabupaten;Sidoarjo;Buduran;Sidomulyo;61252
+28480;Jawa Timur;Kabupaten;Sidoarjo;Buduran;Siwalan Panji;61252
+28481;Jawa Timur;Kabupaten;Sidoarjo;Buduran;Sukorejo;61252
+28482;Jawa Timur;Kabupaten;Sidoarjo;Buduran;Wadungasih;61252
+28483;Jawa Timur;Kabupaten;Sidoarjo;Candi;Balongdowo;61271
+28484;Jawa Timur;Kabupaten;Sidoarjo;Candi;Balonggabus;61271
+28485;Jawa Timur;Kabupaten;Sidoarjo;Candi;Bligo;61271
+28486;Jawa Timur;Kabupaten;Sidoarjo;Candi;Candi;61271
+28487;Jawa Timur;Kabupaten;Sidoarjo;Candi;Durungbanjar;61271
+28488;Jawa Timur;Kabupaten;Sidoarjo;Candi;Durungbedug;61271
+28489;Jawa Timur;Kabupaten;Sidoarjo;Candi;Gelam;61271
+28490;Jawa Timur;Kabupaten;Sidoarjo;Candi;Jambangan;61271
+28491;Jawa Timur;Kabupaten;Sidoarjo;Candi;Kalipecabean;61271
+28492;Jawa Timur;Kabupaten;Sidoarjo;Candi;Karangtanjung;61271
+28493;Jawa Timur;Kabupaten;Sidoarjo;Candi;Kebunsari;61271
+28494;Jawa Timur;Kabupaten;Sidoarjo;Candi;Kedung Peluk;61271
+28495;Jawa Timur;Kabupaten;Sidoarjo;Candi;Kedungkendo;61271
+28496;Jawa Timur;Kabupaten;Sidoarjo;Candi;Kendalpecabean;61271
+28497;Jawa Timur;Kabupaten;Sidoarjo;Candi;Klurak;61271
+28498;Jawa Timur;Kabupaten;Sidoarjo;Candi;Larangan;61271
+28499;Jawa Timur;Kabupaten;Sidoarjo;Candi;Ngampelsari;61271

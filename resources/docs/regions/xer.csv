@@ -1,0 +1,501 @@
+No;Province;City/Kab;City/Kab Name;Kec/subDistrict;Kelurahan/village;Postal Code
+60502;Papua Barat;Kabupaten;Teluk Wondama;Roon;Syabes;98362
+60503;Papua Barat;Kabupaten;Teluk Wondama;Roon;Yende;98362
+60504;Papua Barat;Kabupaten;Teluk Wondama;Roswar;Syeiwar;98361
+60505;Papua Barat;Kabupaten;Teluk Wondama;Roswar;Waprak;98361
+60506;Papua Barat;Kabupaten;Teluk Wondama;Roswar;Yomber;98361
+60507;Papua Barat;Kabupaten;Teluk Wondama;Rumberpon;Isenebuai (Senebuay/Senebuai);98361
+60508;Papua Barat;Kabupaten;Teluk Wondama;Rumberpon;Iseren (Isren);98361
+60509;Papua Barat;Kabupaten;Teluk Wondama;Rumberpon;Wetitindau;98361
+60510;Papua Barat;Kabupaten;Teluk Wondama;Rumberpon;Yariari;98361
+60511;Papua Barat;Kabupaten;Teluk Wondama;Rumberpon;Yembekiri II;98361
+60512;Papua Barat;Kabupaten;Teluk Wondama;Rumberpon;Yomakan;98361
+60513;Papua Barat;Kabupaten;Teluk Wondama;Rumberpon;Yombekiri I (Yembe Kiri);98361
+60514;Papua Barat;Kabupaten;Teluk Wondama;Soug Jaya;Kaprus;98361
+60515;Papua Barat;Kabupaten;Teluk Wondama;Soug Jaya;Nuspairo;98361
+60516;Papua Barat;Kabupaten;Teluk Wondama;Soug Jaya;Reyob (Rayob);98361
+60517;Papua Barat;Kabupaten;Teluk Wondama;Soug Jaya;Siresi;98361
+60518;Papua Barat;Kabupaten;Teluk Wondama;Soug Jaya;Yarmatum (Yermatum);98361
+60519;Papua Barat;Kabupaten;Teluk Wondama;Teluk Duairi (Wasior Utara);Aisandami;98362
+60520;Papua Barat;Kabupaten;Teluk Wondama;Teluk Duairi (Wasior Utara);Sobei (Sobey);98362
+60521;Papua Barat;Kabupaten;Teluk Wondama;Teluk Duairi (Wasior Utara);Sobey Indah;98362
+60522;Papua Barat;Kabupaten;Teluk Wondama;Teluk Duairi (Wasior Utara);Yopanggar (Yopengar);98362
+60523;Papua Barat;Kabupaten;Teluk Wondama;Wamesa;Ambuar;98361
+60524;Papua Barat;Kabupaten;Teluk Wondama;Wamesa;Karuan;98361
+60525;Papua Barat;Kabupaten;Teluk Wondama;Wamesa;Nordiwar;98361
+60526;Papua Barat;Kabupaten;Teluk Wondama;Wamesa;Sabubar;98361
+60527;Papua Barat;Kabupaten;Teluk Wondama;Wamesa;Yarpate;98361
+60528;Papua Barat;Kabupaten;Teluk Wondama;Wasior;Dotir;98362
+60529;Papua Barat;Kabupaten;Teluk Wondama;Wasior;Iriati;98362
+60530;Papua Barat;Kabupaten;Teluk Wondama;Wasior;Maimare (Maimari);98362
+60531;Papua Barat;Kabupaten;Teluk Wondama;Wasior;Maniwak;98362
+60532;Papua Barat;Kabupaten;Teluk Wondama;Wasior;Moru (Gayabaru);98362
+60533;Papua Barat;Kabupaten;Teluk Wondama;Wasior;Rado;98362
+60534;Papua Barat;Kabupaten;Teluk Wondama;Wasior;Ramiki;98362
+60535;Papua Barat;Kabupaten;Teluk Wondama;Wasior;Wasior I;98362
+60536;Papua Barat;Kabupaten;Teluk Wondama;Wasior;Wasior II;98362
+60537;Papua Barat;Kabupaten;Teluk Wondama;Wasior;Wondamawi;98362
+60538;Papua Barat;Kabupaten;Teluk Wondama;Windesi;Sandey;98361
+60539;Papua Barat;Kabupaten;Teluk Wondama;Windesi;Sombokoro;98361
+60540;Papua Barat;Kabupaten;Teluk Wondama;Windesi;Wamesa Tengah;98361
+60541;Papua Barat;Kabupaten;Teluk Wondama;Windesi;Windesi;98361
+60542;Papua Barat;Kabupaten;Teluk Wondama;Windesi;Yopmios;98361
+60543;Papua Barat;Kabupaten;Teluk Wondama;Wondiboy (Wasior Selatan);Isuy (Issui);98362
+60544;Papua Barat;Kabupaten;Teluk Wondama;Wondiboy (Wasior Selatan);Kabouw (Kabuow);98362
+60545;Papua Barat;Kabupaten;Teluk Wondama;Wondiboy (Wasior Selatan);Kaibi;98362
+60546;Papua Barat;Kabupaten;Teluk Wondama;Wondiboy (Wasior Selatan);Manopi;98362
+60547;Papua Barat;Kabupaten;Teluk Wondama;Wondiboy (Wasior Selatan);Wondiboi (Wondiboy);98362
+60548;Riau;Kabupaten;Bengkalis;Bantan;Bantan Air;28754
+60549;Riau;Kabupaten;Bengkalis;Bantan;Bantan Sari;28754
+60550;Riau;Kabupaten;Bengkalis;Bantan;Bantan Tengah;28754
+60551;Riau;Kabupaten;Bengkalis;Bantan;Bantan Timur;28754
+60552;Riau;Kabupaten;Bengkalis;Bantan;Bantan Tua;28754
+60553;Riau;Kabupaten;Bengkalis;Bantan;Berancah;28754
+60554;Riau;Kabupaten;Bengkalis;Bantan;Deluk;28754
+60555;Riau;Kabupaten;Bengkalis;Bantan;Jangkang;28754
+60556;Riau;Kabupaten;Bengkalis;Bantan;Kembung Baru;28754
+60557;Riau;Kabupaten;Bengkalis;Bantan;Kembung Luar;28754
+60558;Riau;Kabupaten;Bengkalis;Bantan;Mentayan;28754
+60559;Riau;Kabupaten;Bengkalis;Bantan;Muntai;28754
+60560;Riau;Kabupaten;Bengkalis;Bantan;Muntai Barat;28754
+60561;Riau;Kabupaten;Bengkalis;Bantan;Pampang Baru;28754
+60562;Riau;Kabupaten;Bengkalis;Bantan;Pampang Pesisir;28754
+60563;Riau;Kabupaten;Bengkalis;Bantan;Pasiran;28754
+60564;Riau;Kabupaten;Bengkalis;Bantan;Resam Lapis;28754
+60565;Riau;Kabupaten;Bengkalis;Bantan;Selat Baru;28754
+60566;Riau;Kabupaten;Bengkalis;Bantan;Sukamaju;28754
+60567;Riau;Kabupaten;Bengkalis;Bantan;Teluklancar;28754
+60568;Riau;Kabupaten;Bengkalis;Bantan;Telukpambang;28754
+60569;Riau;Kabupaten;Bengkalis;Bantan;Telukpapal;28754
+60570;Riau;Kabupaten;Bengkalis;Bantan;Ulu Pulau;28754
+60571;Riau;Kabupaten;Bengkalis;Bengkalis;Air Putih;28711
+60572;Riau;Kabupaten;Bengkalis;Bengkalis;Bengkalis Kota;28712
+60573;Riau;Kabupaten;Bengkalis;Bengkalis;Damai;28711
+60574;Riau;Kabupaten;Bengkalis;Bengkalis;Damon/Damun;28713
+60575;Riau;Kabupaten;Bengkalis;Bengkalis;Kelapa Pati;28711
+60576;Riau;Kabupaten;Bengkalis;Bengkalis;Kelebuk;28711
+60577;Riau;Kabupaten;Bengkalis;Bengkalis;Kelemantan;28711
+60578;Riau;Kabupaten;Bengkalis;Bengkalis;Kelemantan Barat;28711
+60579;Riau;Kabupaten;Bengkalis;Bengkalis;Ketam Putih;28711
+60580;Riau;Kabupaten;Bengkalis;Bengkalis;Kuala Alam;28711
+60581;Riau;Kabupaten;Bengkalis;Bengkalis;Meskom;28711
+60582;Riau;Kabupaten;Bengkalis;Bengkalis;Palkun;28711
+60583;Riau;Kabupaten;Bengkalis;Bengkalis;Pangkalan Batang;28711
+60584;Riau;Kabupaten;Bengkalis;Bengkalis;Pangkalan Batang Barat;28711
+60585;Riau;Kabupaten;Bengkalis;Bengkalis;Pedekik;28711
+60586;Riau;Kabupaten;Bengkalis;Bengkalis;Pematang Duku;28711
+60587;Riau;Kabupaten;Bengkalis;Bengkalis;Pematang Duku Timur;28711
+60588;Riau;Kabupaten;Bengkalis;Bengkalis;Penampi;28711
+60589;Riau;Kabupaten;Bengkalis;Bengkalis;Penebal;28711
+60590;Riau;Kabupaten;Bengkalis;Bengkalis;Prapat Tunggal;28711
+60591;Riau;Kabupaten;Bengkalis;Bengkalis;Rimba Sekampung;28711
+60592;Riau;Kabupaten;Bengkalis;Bengkalis;Sebauk;28711
+60593;Riau;Kabupaten;Bengkalis;Bengkalis;Sei/Sungai Alam;28711
+60594;Riau;Kabupaten;Bengkalis;Bengkalis;Sekodi;28711
+60595;Riau;Kabupaten;Bengkalis;Bengkalis;Senderek;28711
+60596;Riau;Kabupaten;Bengkalis;Bengkalis;Senggoro;28714
+60597;Riau;Kabupaten;Bengkalis;Bengkalis;Simpang Ayam;28711
+60598;Riau;Kabupaten;Bengkalis;Bengkalis;Sungaibatang;28711
+60599;Riau;Kabupaten;Bengkalis;Bengkalis;Teluk Latak;28711
+60600;Riau;Kabupaten;Bengkalis;Bengkalis;Temeran;28711
+60601;Riau;Kabupaten;Bengkalis;Bengkalis;Wonosari;28711
+60602;Riau;Kabupaten;Bengkalis;Bukit Batu;Api Api;28761
+60603;Riau;Kabupaten;Bengkalis;Bukit Batu;Batang Duku;28761
+60604;Riau;Kabupaten;Bengkalis;Bukit Batu;Bukit Batu;28761
+60605;Riau;Kabupaten;Bengkalis;Bukit Batu;Bukit Kerikil;28761
+60606;Riau;Kabupaten;Bengkalis;Bukit Batu;Buruk Bakul;28761
+60607;Riau;Kabupaten;Bengkalis;Bukit Batu;Dompas;28761
+60608;Riau;Kabupaten;Bengkalis;Bukit Batu;Pakning Asal;28761
+60609;Riau;Kabupaten;Bengkalis;Bukit Batu;Pangkalan Jambi;28761
+60610;Riau;Kabupaten;Bengkalis;Bukit Batu;Parit I Api Api;28761
+60611;Riau;Kabupaten;Bengkalis;Bukit Batu;Sejangat;28761
+60612;Riau;Kabupaten;Bengkalis;Bukit Batu;Sepahat;28761
+60613;Riau;Kabupaten;Bengkalis;Bukit Batu;Sukajadi;28761
+60614;Riau;Kabupaten;Bengkalis;Bukit Batu;Sungai Pakning;28761
+60615;Riau;Kabupaten;Bengkalis;Bukit Batu;Sungai Selari;28761
+60616;Riau;Kabupaten;Bengkalis;Bukit Batu;Tanjung Leban;28761
+60617;Riau;Kabupaten;Bengkalis;Bukit Batu;Temiang;28761
+60618;Riau;Kabupaten;Bengkalis;Bukit Batu;Tenggayun;28761
+60619;Riau;Kabupaten;Bengkalis;Mandau;Air Jamban;28784
+60620;Riau;Kabupaten;Bengkalis;Mandau;Air Kulim;28784
+60621;Riau;Kabupaten;Bengkalis;Mandau;Babussalam;28784
+60622;Riau;Kabupaten;Bengkalis;Mandau;Balai Makam;28784
+60623;Riau;Kabupaten;Bengkalis;Mandau;Balik Alam;28784
+60624;Riau;Kabupaten;Bengkalis;Mandau;Batang Serosa;28784
+60625;Riau;Kabupaten;Bengkalis;Mandau;Bathin Betuah;28784
+60626;Riau;Kabupaten;Bengkalis;Mandau;Bathin Sobanga;28784
+60627;Riau;Kabupaten;Bengkalis;Mandau;Boncah Mahang;28784
+60628;Riau;Kabupaten;Bengkalis;Mandau;Buluh Manis;28784
+60629;Riau;Kabupaten;Bengkalis;Mandau;Bumbung;28784
+60630;Riau;Kabupaten;Bengkalis;Mandau;Duri Barat;28784
+60631;Riau;Kabupaten;Bengkalis;Mandau;Duri Timur;28784
+60632;Riau;Kabupaten;Bengkalis;Mandau;Gajah Sakti;28784
+60633;Riau;Kabupaten;Bengkalis;Mandau;Harapan Baru;28784
+60634;Riau;Kabupaten;Bengkalis;Mandau;Pamesi;28784
+60635;Riau;Kabupaten;Bengkalis;Mandau;Pematang Obo;28784
+60636;Riau;Kabupaten;Bengkalis;Mandau;Pematang Pudu;28784
+60637;Riau;Kabupaten;Bengkalis;Mandau;Petani;28784
+60638;Riau;Kabupaten;Bengkalis;Mandau;Sebangar;28784
+60639;Riau;Kabupaten;Bengkalis;Mandau;Sesumbo Ampai (Kesumo Ampai);28784
+60640;Riau;Kabupaten;Bengkalis;Mandau;Simpang Padang;28784
+60641;Riau;Kabupaten;Bengkalis;Mandau;Talang Mandi;28784
+60642;Riau;Kabupaten;Bengkalis;Mandau;Tambusai Batang Dui;28784
+60643;Riau;Kabupaten;Bengkalis;Pinggir;Balai Pungut;28784
+60644;Riau;Kabupaten;Bengkalis;Pinggir;Balai Raja;28784
+60645;Riau;Kabupaten;Bengkalis;Pinggir;Beringin;28784
+60646;Riau;Kabupaten;Bengkalis;Pinggir;Buluh Apo;28784
+60647;Riau;Kabupaten;Bengkalis;Pinggir;Koto Pait Beringin;28784
+60648;Riau;Kabupaten;Bengkalis;Pinggir;Kuala Penaso;28784
+60649;Riau;Kabupaten;Bengkalis;Pinggir;Melibur;28784
+60650;Riau;Kabupaten;Bengkalis;Pinggir;Muara Basung;28784
+60651;Riau;Kabupaten;Bengkalis;Pinggir;Pangkalan Libut;28784
+60652;Riau;Kabupaten;Bengkalis;Pinggir;Pinggir;28784
+60653;Riau;Kabupaten;Bengkalis;Pinggir;Semunai;28784
+60654;Riau;Kabupaten;Bengkalis;Pinggir;Serai Wangi;28784
+60655;Riau;Kabupaten;Bengkalis;Pinggir;Sungai Meranti;28784
+60656;Riau;Kabupaten;Bengkalis;Pinggir;Tasik Serai;28784
+60657;Riau;Kabupaten;Bengkalis;Pinggir;Tasik Serai Barat;28784
+60658;Riau;Kabupaten;Bengkalis;Pinggir;Tasik Serai Timur;28784
+60659;Riau;Kabupaten;Bengkalis;Pinggir;Tasik Tebing Serai;28784
+60660;Riau;Kabupaten;Bengkalis;Pinggir;Tengganau;28784
+60661;Riau;Kabupaten;Bengkalis;Pinggir;Titian Antui;28784
+60662;Riau;Kabupaten;Bengkalis;Rupat;Batu Panjang;28781
+60663;Riau;Kabupaten;Bengkalis;Rupat;Darul Aman;28781
+60664;Riau;Kabupaten;Bengkalis;Rupat;Dungun Baru;28781
+60665;Riau;Kabupaten;Bengkalis;Rupat;Hutan Panjang;28781
+60666;Riau;Kabupaten;Bengkalis;Rupat;Makeruh;28781
+60667;Riau;Kabupaten;Bengkalis;Rupat;Pancur Jaya;28781
+60668;Riau;Kabupaten;Bengkalis;Rupat;Pangkalan Nyirih;28781
+60669;Riau;Kabupaten;Bengkalis;Rupat;Pangkalan Pinang;28781
+60670;Riau;Kabupaten;Bengkalis;Rupat;Parit Kebumen;28781
+60671;Riau;Kabupaten;Bengkalis;Rupat;Pergam;28781
+60672;Riau;Kabupaten;Bengkalis;Rupat;Sei/Sungai Cingam;28781
+60673;Riau;Kabupaten;Bengkalis;Rupat;Sri Tanjung;28781
+60674;Riau;Kabupaten;Bengkalis;Rupat;Sukarjo Mesin;28781
+60675;Riau;Kabupaten;Bengkalis;Rupat;Tanjung Kapal;28781
+60676;Riau;Kabupaten;Bengkalis;Rupat;Teluk Lecah;28781
+60677;Riau;Kabupaten;Bengkalis;Rupat;Terkul;28781
+60678;Riau;Kabupaten;Bengkalis;Rupat Utara;Hutan Ayu;28781
+60679;Riau;Kabupaten;Bengkalis;Rupat Utara;Kadur;28781
+60680;Riau;Kabupaten;Bengkalis;Rupat Utara;Puteri Sembilan;28781
+60681;Riau;Kabupaten;Bengkalis;Rupat Utara;Suka Damai;28781
+60682;Riau;Kabupaten;Bengkalis;Rupat Utara;Tanjung Medang;28781
+60683;Riau;Kabupaten;Bengkalis;Rupat Utara;Tanjung Punak;28781
+60684;Riau;Kabupaten;Bengkalis;Rupat Utara;Teluk Rhu;28781
+60685;Riau;Kabupaten;Bengkalis;Rupat Utara;Titi Akar;28781
+60686;Riau;Kabupaten;Bengkalis;Siak Kecil;Bandar Jaya;28771
+60687;Riau;Kabupaten;Bengkalis;Siak Kecil;Koto Raja;28771
+60688;Riau;Kabupaten;Bengkalis;Siak Kecil;Langkat;28771
+60689;Riau;Kabupaten;Bengkalis;Siak Kecil;Liang Banir;28771
+60690;Riau;Kabupaten;Bengkalis;Siak Kecil;Lubuk Garam;28771
+60691;Riau;Kabupaten;Bengkalis;Siak Kecil;Lubuk Gaung;28771
+60692;Riau;Kabupaten;Bengkalis;Siak Kecil;Lubuk Muda;28771
+60693;Riau;Kabupaten;Bengkalis;Siak Kecil;Muara Dua;28771
+60694;Riau;Kabupaten;Bengkalis;Siak Kecil;Sadar Jaya;28771
+60695;Riau;Kabupaten;Bengkalis;Siak Kecil;Sepotong;28771
+60696;Riau;Kabupaten;Bengkalis;Siak Kecil;Sumber Jaya;28771
+60697;Riau;Kabupaten;Bengkalis;Siak Kecil;Sungai Limau (Linau);28771
+60698;Riau;Kabupaten;Bengkalis;Siak Kecil;Sungai Nibung;28771
+60699;Riau;Kabupaten;Bengkalis;Siak Kecil;Sungai Siput;28771
+60700;Riau;Kabupaten;Bengkalis;Siak Kecil;Tanjung Belit;28771
+60701;Riau;Kabupaten;Bengkalis;Siak Kecil;Tanjung Damai;28771
+60702;Riau;Kabupaten;Bengkalis;Siak Kecil;Tanjung Datuk;28771
+60703;Riau;Kota;Dumai;Bukit Kapur;Bagan Besar;28882
+60704;Riau;Kota;Dumai;Bukit Kapur;Bukit Nanas / Nenas;28882
+60705;Riau;Kota;Dumai;Bukit Kapur;Gurun Panjang;28882
+60706;Riau;Kota;Dumai;Bukit Kapur;Kampung Baru;28882
+60707;Riau;Kota;Dumai;Bukit Kapur;Kayu Kapur (Bukit Kayu Kapur);28882
+60708;Riau;Kota;Dumai;Dumai Barat;Bagan Keladi;28821
+60709;Riau;Kota;Dumai;Dumai Barat;Pangkalan Sesai;28824
+60710;Riau;Kota;Dumai;Dumai Barat;Purnama;28823
+60711;Riau;Kota;Dumai;Dumai Barat;Simpang Tetap Darul Ichsan;28824
+60712;Riau;Kota;Dumai;Dumai Kota;Bintan;28812
+60713;Riau;Kota;Dumai;Dumai Kota;Dumai Kota;28811
+60714;Riau;Kota;Dumai;Dumai Kota;Laksamana;28821
+60715;Riau;Kota;Dumai;Dumai Kota;Rimba Sekampung;28822
+60716;Riau;Kota;Dumai;Dumai Kota;Sukajadi;28812
+60717;Riau;Kota;Dumai;Dumai Selatan;Bukit Datuk;28825
+60718;Riau;Kota;Dumai;Dumai Selatan;Bukit Timah;28826
+60719;Riau;Kota;Dumai;Dumai Selatan;Bumi Ayu;28813
+60720;Riau;Kota;Dumai;Dumai Selatan;Mekar Sari;28821
+60721;Riau;Kota;Dumai;Dumai Selatan;Ratu Sima;28825
+60722;Riau;Kota;Dumai;Dumai Timur;Bukit Batrem;28811
+60723;Riau;Kota;Dumai;Dumai Timur;Buluh Kasap;28814
+60724;Riau;Kota;Dumai;Dumai Timur;Jaya Mukti;28815
+60725;Riau;Kota;Dumai;Dumai Timur;Tanjung Palas;28816
+60726;Riau;Kota;Dumai;Dumai Timur;Teluk Binjai;28813
+60727;Riau;Kota;Dumai;Medang Kampai;Guntung;28825
+60728;Riau;Kota;Dumai;Medang Kampai;Mundam;28825
+60729;Riau;Kota;Dumai;Medang Kampai;Pelintung;28825
+60730;Riau;Kota;Dumai;Medang Kampai;Teluk Makmur;28825
+60731;Riau;Kota;Dumai;Sungai Sembilan;Bangsal Aceh;28826
+60732;Riau;Kota;Dumai;Sungai Sembilan;Basilam Baru;28826
+60733;Riau;Kota;Dumai;Sungai Sembilan;Batu Teritip;28826
+60734;Riau;Kota;Dumai;Sungai Sembilan;Lubuk Gaung;28826
+60735;Riau;Kota;Dumai;Sungai Sembilan;Tanjung Penyembal;28826
+60736;Riau;Kabupaten;Indragiri Hilir;Batang Tuaka;Gemilang Jaya;29252
+60737;Riau;Kabupaten;Indragiri Hilir;Batang Tuaka;Kuala Sebatu;29252
+60738;Riau;Kabupaten;Indragiri Hilir;Batang Tuaka;Pasir Emas;29252
+60739;Riau;Kabupaten;Indragiri Hilir;Batang Tuaka;Sialang Jaya;29252
+60740;Riau;Kabupaten;Indragiri Hilir;Batang Tuaka;Simpang Jaya;29252
+60741;Riau;Kabupaten;Indragiri Hilir;Batang Tuaka;Sungai Dusun;29252
+60742;Riau;Kabupaten;Indragiri Hilir;Batang Tuaka;Sungai Junjangan;29252
+60743;Riau;Kabupaten;Indragiri Hilir;Batang Tuaka;Sungai Luar;29252
+60744;Riau;Kabupaten;Indragiri Hilir;Batang Tuaka;Sungai Piring;29252
+60745;Riau;Kabupaten;Indragiri Hilir;Batang Tuaka;Sungai Rawa;29252
+60746;Riau;Kabupaten;Indragiri Hilir;Batang Tuaka;Sungai Raya;29252
+60747;Riau;Kabupaten;Indragiri Hilir;Batang Tuaka;Tanjung Siantar;29252
+60748;Riau;Kabupaten;Indragiri Hilir;Batang Tuaka;Tasik Raya;29252
+60749;Riau;Kabupaten;Indragiri Hilir;Concong;Concong Dalam;29281
+60750;Riau;Kabupaten;Indragiri Hilir;Concong;Concong Luar;29281
+60751;Riau;Kabupaten;Indragiri Hilir;Concong;Concong Tengah;29281
+60752;Riau;Kabupaten;Indragiri Hilir;Concong;Kampung Baru;29281
+60753;Riau;Kabupaten;Indragiri Hilir;Concong;Panglima Raja;29281
+60754;Riau;Kabupaten;Indragiri Hilir;Concong;Sungai Berapit;29281
+60755;Riau;Kabupaten;Indragiri Hilir;Enok;Bagan Jaya;29272
+60756;Riau;Kabupaten;Indragiri Hilir;Enok;Enok;29272
+60757;Riau;Kabupaten;Indragiri Hilir;Enok;Jaya Bhakti;29272
+60758;Riau;Kabupaten;Indragiri Hilir;Enok;Pantai Seberang Makmur;29272
+60759;Riau;Kabupaten;Indragiri Hilir;Enok;Pengalihan;29272
+60760;Riau;Kabupaten;Indragiri Hilir;Enok;Pusaran;29272
+60761;Riau;Kabupaten;Indragiri Hilir;Enok;Rantau Panjang;29272
+60762;Riau;Kabupaten;Indragiri Hilir;Enok;Simpang Tiga;29272
+60763;Riau;Kabupaten;Indragiri Hilir;Enok;Simpang Tiga Daratan;29272
+60764;Riau;Kabupaten;Indragiri Hilir;Enok;Suhada;29272
+60765;Riau;Kabupaten;Indragiri Hilir;Enok;Sungai Ambat;29272
+60766;Riau;Kabupaten;Indragiri Hilir;Enok;Sungai Lokan;29272
+60767;Riau;Kabupaten;Indragiri Hilir;Enok;Sungai Rukam;29272
+60768;Riau;Kabupaten;Indragiri Hilir;Enok;Teluk Medan;29272
+60769;Riau;Kabupaten;Indragiri Hilir;Gaung;Belantaraya;29282
+60770;Riau;Kabupaten;Indragiri Hilir;Gaung;Gembira;29282
+60771;Riau;Kabupaten;Indragiri Hilir;Gaung;Jerambang;29282
+60772;Riau;Kabupaten;Indragiri Hilir;Gaung;Kuala Lahang;29282
+60773;Riau;Kabupaten;Indragiri Hilir;Gaung;Lahang Baru;29282
+60774;Riau;Kabupaten;Indragiri Hilir;Gaung;Lahang Hulu;29282
+60775;Riau;Kabupaten;Indragiri Hilir;Gaung;Lahang Tengah;29282
+60776;Riau;Kabupaten;Indragiri Hilir;Gaung;Pintasan;29282
+60777;Riau;Kabupaten;Indragiri Hilir;Gaung;Pungkat;29282
+60778;Riau;Kabupaten;Indragiri Hilir;Gaung;Semambu Kuning;29282
+60779;Riau;Kabupaten;Indragiri Hilir;Gaung;Simpang Gaung;29282
+60780;Riau;Kabupaten;Indragiri Hilir;Gaung;Soren;29282
+60781;Riau;Kabupaten;Indragiri Hilir;Gaung;Sungai Baru;29282
+60782;Riau;Kabupaten;Indragiri Hilir;Gaung;Teluk Kabung;29282
+60783;Riau;Kabupaten;Indragiri Hilir;Gaung;Telukmerbau;29282
+60784;Riau;Kabupaten;Indragiri Hilir;Gaung;Terusan Kempas;29282
+60785;Riau;Kabupaten;Indragiri Hilir;Gaung Anak Serka;Harapan Makmur;29253
+60786;Riau;Kabupaten;Indragiri Hilir;Gaung Anak Serka;Idaman;29253
+60787;Riau;Kabupaten;Indragiri Hilir;Gaung Anak Serka;Kelumpang;29253
+60788;Riau;Kabupaten;Indragiri Hilir;Gaung Anak Serka;Kuala Gaung;29253
+60789;Riau;Kabupaten;Indragiri Hilir;Gaung Anak Serka;Rambaian;29253
+60790;Riau;Kabupaten;Indragiri Hilir;Gaung Anak Serka;Sungai Empat;29253
+60791;Riau;Kabupaten;Indragiri Hilir;Gaung Anak Serka;Sungai Iliran;29253
+60792;Riau;Kabupaten;Indragiri Hilir;Gaung Anak Serka;Tanjung Harapan;29253
+60793;Riau;Kabupaten;Indragiri Hilir;Gaung Anak Serka;Teluk Pantaian;29253
+60794;Riau;Kabupaten;Indragiri Hilir;Gaung Anak Serka;Teluk Pinang;29253
+60795;Riau;Kabupaten;Indragiri Hilir;Gaung Anak Serka;Teluk Sungka;29253
+60796;Riau;Kabupaten;Indragiri Hilir;Gaung Anak Serka;Teluk Tuasan;29253
+60797;Riau;Kabupaten;Indragiri Hilir;Kateman;Air Tawar;29255
+60798;Riau;Kabupaten;Indragiri Hilir;Kateman;Amal Bakti;29255
+60799;Riau;Kabupaten;Indragiri Hilir;Kateman;Bandar Sri Gemilang;29255
+60800;Riau;Kabupaten;Indragiri Hilir;Kateman;Kuala Selat;29255
+60801;Riau;Kabupaten;Indragiri Hilir;Kateman;Makmur Jaya;29255
+60802;Riau;Kabupaten;Indragiri Hilir;Kateman;Penjuru;29255
+60803;Riau;Kabupaten;Indragiri Hilir;Kateman;Sari Mulia/Mulya;29255
+60804;Riau;Kabupaten;Indragiri Hilir;Kateman;Sungai Simbar;29255
+60805;Riau;Kabupaten;Indragiri Hilir;Kateman;Sungai Teritip;29255
+60806;Riau;Kabupaten;Indragiri Hilir;Kateman;Tagaraja (Tegaraja);29255
+60807;Riau;Kabupaten;Indragiri Hilir;Kateman;Tanjung Raja;29255
+60808;Riau;Kabupaten;Indragiri Hilir;Kempas;Bayas Jaya;29261
+60809;Riau;Kabupaten;Indragiri Hilir;Kempas;Danau Pulai Indah;29261
+60810;Riau;Kabupaten;Indragiri Hilir;Kempas;Harapan Tani;29261
+60811;Riau;Kabupaten;Indragiri Hilir;Kempas;Karya Tani;29261
+60812;Riau;Kabupaten;Indragiri Hilir;Kempas;Kempas Jaya;29261
+60813;Riau;Kabupaten;Indragiri Hilir;Kempas;Kerta Jaya;29261
+60814;Riau;Kabupaten;Indragiri Hilir;Kempas;Kulim Jaya;29261
+60815;Riau;Kabupaten;Indragiri Hilir;Kempas;Pekan Tua;29261
+60816;Riau;Kabupaten;Indragiri Hilir;Kempas;Rumbai Jaya;29261
+60817;Riau;Kabupaten;Indragiri Hilir;Kempas;Sungai Arah;29261
+60818;Riau;Kabupaten;Indragiri Hilir;Kempas;Sungai Gantang;29261
+60819;Riau;Kabupaten;Indragiri Hilir;Kempas;Sungai Rabit;29261
+60820;Riau;Kabupaten;Indragiri Hilir;Kemuning;Air Balui;29274
+60821;Riau;Kabupaten;Indragiri Hilir;Kemuning;Batu Ampar;29274
+60822;Riau;Kabupaten;Indragiri Hilir;Kemuning;Dusun Tuk Jimun;29274
+60823;Riau;Kabupaten;Indragiri Hilir;Kemuning;Kemuning Muda;29274
+60824;Riau;Kabupaten;Indragiri Hilir;Kemuning;Kemuning Tua;29274
+60825;Riau;Kabupaten;Indragiri Hilir;Kemuning;Keritang;29274
+60826;Riau;Kabupaten;Indragiri Hilir;Kemuning;Limau Manis;29274
+60827;Riau;Kabupaten;Indragiri Hilir;Kemuning;Lubuk Besar;29274
+60828;Riau;Kabupaten;Indragiri Hilir;Kemuning;Sekara;29274
+60829;Riau;Kabupaten;Indragiri Hilir;Kemuning;Sekayan;29274
+60830;Riau;Kabupaten;Indragiri Hilir;Kemuning;Selensen;29274
+60831;Riau;Kabupaten;Indragiri Hilir;Kemuning;Talang Jangkang;29274
+60832;Riau;Kabupaten;Indragiri Hilir;Keritang;Kayu Raja;29274
+60833;Riau;Kabupaten;Indragiri Hilir;Keritang;Kembang Mekar Sari;29274
+60834;Riau;Kabupaten;Indragiri Hilir;Keritang;Kota Baru Reteh;29274
+60835;Riau;Kabupaten;Indragiri Hilir;Keritang;Kota Baru Seberida;29274
+60836;Riau;Kabupaten;Indragiri Hilir;Keritang;Kuala Keritang;29274
+60837;Riau;Kabupaten;Indragiri Hilir;Keritang;Kuala Lemang;29274
+60838;Riau;Kabupaten;Indragiri Hilir;Keritang;Lintas Utara;29274
+60839;Riau;Kabupaten;Indragiri Hilir;Keritang;Nusantara Jaya;29274
+60840;Riau;Kabupaten;Indragiri Hilir;Keritang;Nyiur Permai;29274
+60841;Riau;Kabupaten;Indragiri Hilir;Keritang;Pancur;29274
+60842;Riau;Kabupaten;Indragiri Hilir;Keritang;Pasar Kembang;29274
+60843;Riau;Kabupaten;Indragiri Hilir;Keritang;Pebenaan;29274
+60844;Riau;Kabupaten;Indragiri Hilir;Keritang;Pengalihan/Pengalehan;29274
+60845;Riau;Kabupaten;Indragiri Hilir;Keritang;Petalongan;29274
+60846;Riau;Kabupaten;Indragiri Hilir;Keritang;Seberang Pebenaan;29274
+60847;Riau;Kabupaten;Indragiri Hilir;Keritang;Sencalang;29274
+60848;Riau;Kabupaten;Indragiri Hilir;Keritang;Teluk Kelasa;29274
+60849;Riau;Kabupaten;Indragiri Hilir;Kuala Indragiri;Perigi Raja;29281
+60850;Riau;Kabupaten;Indragiri Hilir;Kuala Indragiri;Sapat;29281
+60851;Riau;Kabupaten;Indragiri Hilir;Kuala Indragiri;Sungai Bela;29281
+60852;Riau;Kabupaten;Indragiri Hilir;Kuala Indragiri;Sungai Buluh;29281
+60853;Riau;Kabupaten;Indragiri Hilir;Kuala Indragiri;Sungai Piyai;29281
+60854;Riau;Kabupaten;Indragiri Hilir;Kuala Indragiri;Tanjung Lajau;29281
+60855;Riau;Kabupaten;Indragiri Hilir;Kuala Indragiri;Tanjung Melayu;29281
+60856;Riau;Kabupaten;Indragiri Hilir;Kuala Indragiri;Teluk Dalam;29281
+60857;Riau;Kabupaten;Indragiri Hilir;Mandah;Bakau Aceh;29254
+60858;Riau;Kabupaten;Indragiri Hilir;Mandah;Bantaian (Bantayan);29254
+60859;Riau;Kabupaten;Indragiri Hilir;Mandah;Batang Sari;29254
+60860;Riau;Kabupaten;Indragiri Hilir;Mandah;Batang Tumu;29254
+60861;Riau;Kabupaten;Indragiri Hilir;Mandah;Bekawan;29254
+60862;Riau;Kabupaten;Indragiri Hilir;Mandah;Belaras;29254
+60863;Riau;Kabupaten;Indragiri Hilir;Mandah;Belaras Barat;29254
+60864;Riau;Kabupaten;Indragiri Hilir;Mandah;Bente;29254
+60865;Riau;Kabupaten;Indragiri Hilir;Mandah;Bidari Tanjung Datuk;29254
+60866;Riau;Kabupaten;Indragiri Hilir;Mandah;Bolak Raya;29254
+60867;Riau;Kabupaten;Indragiri Hilir;Mandah;Cahaya Baru;29254
+60868;Riau;Kabupaten;Indragiri Hilir;Mandah;Igal;29254
+60869;Riau;Kabupaten;Indragiri Hilir;Mandah;Khairiah Mandah;29254
+60870;Riau;Kabupaten;Indragiri Hilir;Mandah;Pelanduk;29254
+60871;Riau;Kabupaten;Indragiri Hilir;Mandah;Pulau Cawan;29254
+60872;Riau;Kabupaten;Indragiri Hilir;Mandah;Sepakat Jaya;29254
+60873;Riau;Kabupaten;Indragiri Hilir;Mandah;Suraya Mandiri;29254
+60874;Riau;Kabupaten;Indragiri Hilir;Pelangiran;Bagan Jaya;29255
+60875;Riau;Kabupaten;Indragiri Hilir;Pelangiran;Catur Karya;29255
+60876;Riau;Kabupaten;Indragiri Hilir;Pelangiran;Gaung/Baung Rejo Jaya;29255
+60877;Riau;Kabupaten;Indragiri Hilir;Pelangiran;Hidayah;29255
+60878;Riau;Kabupaten;Indragiri Hilir;Pelangiran;Intan Mulia/Mulya Jaya;29255
+60879;Riau;Kabupaten;Indragiri Hilir;Pelangiran;Pelangiran;29255
+60880;Riau;Kabupaten;Indragiri Hilir;Pelangiran;Pinang Jaya;29255
+60881;Riau;Kabupaten;Indragiri Hilir;Pelangiran;Rotan Semelur;29255
+60882;Riau;Kabupaten;Indragiri Hilir;Pelangiran;Saka Palas Jaya;29255
+60883;Riau;Kabupaten;Indragiri Hilir;Pelangiran;Simpang Kateman;29255
+60884;Riau;Kabupaten;Indragiri Hilir;Pelangiran;Tagagiri Tama Jaya;29255
+60885;Riau;Kabupaten;Indragiri Hilir;Pelangiran;Tanjung Simpang;29255
+60886;Riau;Kabupaten;Indragiri Hilir;Pelangiran;Tegal Rejo;29255
+60887;Riau;Kabupaten;Indragiri Hilir;Pelangiran;Teluk Bunian;29255
+60888;Riau;Kabupaten;Indragiri Hilir;Pelangiran;Terusan Beringin Jaya;29255
+60889;Riau;Kabupaten;Indragiri Hilir;Pelangiran;Wonosari;29255
+60890;Riau;Kabupaten;Indragiri Hilir;Pulau Burung;Bangun Harjo Jaya;29256
+60891;Riau;Kabupaten;Indragiri Hilir;Pulau Burung;Beringin Jaya;29256
+60892;Riau;Kabupaten;Indragiri Hilir;Pulau Burung;Binangun Jaya;29256
+60893;Riau;Kabupaten;Indragiri Hilir;Pulau Burung;Bukit Sari Intan Jaya;29256
+60894;Riau;Kabupaten;Indragiri Hilir;Pulau Burung;Keramat/Kramat Jaya;29256
+60895;Riau;Kabupaten;Indragiri Hilir;Pulau Burung;Manunggal Jaya;29256
+60896;Riau;Kabupaten;Indragiri Hilir;Pulau Burung;Mayang Sari Jaya;29256
+60897;Riau;Kabupaten;Indragiri Hilir;Pulau Burung;Pulau Burung;29256
+60898;Riau;Kabupaten;Indragiri Hilir;Pulau Burung;Sapta Jaya;29256
+60899;Riau;Kabupaten;Indragiri Hilir;Pulau Burung;Sempadan Jaya;29256
+60900;Riau;Kabupaten;Indragiri Hilir;Pulau Burung;Sri Danai;29256
+60901;Riau;Kabupaten;Indragiri Hilir;Pulau Burung;Suka Jaya;29256
+60902;Riau;Kabupaten;Indragiri Hilir;Pulau Burung;Suko Harjo Jaya;29256
+60903;Riau;Kabupaten;Indragiri Hilir;Pulau Burung;Sungai Danai;29256
+60904;Riau;Kabupaten;Indragiri Hilir;Pulau Burung;Teluk Nibung;29256
+60905;Riau;Kabupaten;Indragiri Hilir;Reteh;Madani;29273
+60906;Riau;Kabupaten;Indragiri Hilir;Reteh;Mekar Sari;29273
+60907;Riau;Kabupaten;Indragiri Hilir;Reteh;Metro;29273
+60908;Riau;Kabupaten;Indragiri Hilir;Reteh;Pulau Kecil;29273
+60909;Riau;Kabupaten;Indragiri Hilir;Reteh;Pulau Kijang;29273
+60910;Riau;Kabupaten;Indragiri Hilir;Reteh;Pulau Ruku;29273
+60911;Riau;Kabupaten;Indragiri Hilir;Reteh;Sanglar;29273
+60912;Riau;Kabupaten;Indragiri Hilir;Reteh;Seberang Pulau Kijang;29273
+60913;Riau;Kabupaten;Indragiri Hilir;Reteh;Seberang Sanglar;29273
+60914;Riau;Kabupaten;Indragiri Hilir;Reteh;Sungai Asam;29273
+60915;Riau;Kabupaten;Indragiri Hilir;Reteh;Sungai Mahang;29273
+60916;Riau;Kabupaten;Indragiri Hilir;Reteh;Sungai Terab/Terap;29273
+60917;Riau;Kabupaten;Indragiri Hilir;Reteh;Sungai Undan;29273
+60918;Riau;Kabupaten;Indragiri Hilir;Reteh;Tanjung Labuh;29273
+60919;Riau;Kabupaten;Indragiri Hilir;Sungai Batang;Benteng;29273
+60920;Riau;Kabupaten;Indragiri Hilir;Sungai Batang;Benteng Barat;29273
+60921;Riau;Kabupaten;Indragiri Hilir;Sungai Batang;Benteng Utara;29273
+60922;Riau;Kabupaten;Indragiri Hilir;Sungai Batang;Kuala Patah Parang;29273
+60923;Riau;Kabupaten;Indragiri Hilir;Sungai Batang;Kuala Sungai Batang;29273
+60924;Riau;Kabupaten;Indragiri Hilir;Sungai Batang;Mugo Mulyo;29273
+60925;Riau;Kabupaten;Indragiri Hilir;Sungai Batang;Pandan Sari;29273
+60926;Riau;Kabupaten;Indragiri Hilir;Sungai Batang;Pesanggerahan (Pasenggarahan);29273
+60927;Riau;Kabupaten;Indragiri Hilir;Tanah Merah;Kuala Enok;29271
+60928;Riau;Kabupaten;Indragiri Hilir;Tanah Merah;Selat Nama;29271
+60929;Riau;Kabupaten;Indragiri Hilir;Tanah Merah;Sungai Laut;29271
+60930;Riau;Kabupaten;Indragiri Hilir;Tanah Merah;Sungai Nyiur;29271
+60931;Riau;Kabupaten;Indragiri Hilir;Tanah Merah;Tanah Merah;29271
+60932;Riau;Kabupaten;Indragiri Hilir;Tanah Merah;Tanjung Baru;29271
+60933;Riau;Kabupaten;Indragiri Hilir;Tanah Merah;Tanjung Pasir;29271
+60934;Riau;Kabupaten;Indragiri Hilir;Tanah Merah;Tekulai Bugis;29271
+60935;Riau;Kabupaten;Indragiri Hilir;Tanah Merah;Tekulai Hilir;29271
+60936;Riau;Kabupaten;Indragiri Hilir;Tanah Merah;Tekulai Hulu;29271
+60937;Riau;Kabupaten;Indragiri Hilir;Teluk Belengkong;Beringin Mulya;29255
+60938;Riau;Kabupaten;Indragiri Hilir;Teluk Belengkong;Gembaran;29255
+60939;Riau;Kabupaten;Indragiri Hilir;Teluk Belengkong;Griya Mukti Jaya;29255
+60940;Riau;Kabupaten;Indragiri Hilir;Teluk Belengkong;Hibrida Jaya;29255
+60941;Riau;Kabupaten;Indragiri Hilir;Teluk Belengkong;Hibrida Mulya;29255
+60942;Riau;Kabupaten;Indragiri Hilir;Teluk Belengkong;Indra Sari Jaya;29255
+60943;Riau;Kabupaten;Indragiri Hilir;Teluk Belengkong;Kelapa Patih Jaya;29255
+60944;Riau;Kabupaten;Indragiri Hilir;Teluk Belengkong;Saka Rotan;29255
+60945;Riau;Kabupaten;Indragiri Hilir;Teluk Belengkong;Sapta Mulya Jaya;29255
+60946;Riau;Kabupaten;Indragiri Hilir;Teluk Belengkong;Sumber Jaya;29255
+60947;Riau;Kabupaten;Indragiri Hilir;Teluk Belengkong;Sumber Makmur Jaya;29255
+60948;Riau;Kabupaten;Indragiri Hilir;Teluk Belengkong;Sumber Sari Jaya;29255
+60949;Riau;Kabupaten;Indragiri Hilir;Teluk Belengkong;Tunggal Rahayu Jaya;29255
+60950;Riau;Kabupaten;Indragiri Hilir;Tembilahan;Pekan Arba;29212
+60951;Riau;Kabupaten;Indragiri Hilir;Tembilahan;Seberang Tembilahan;29212
+60952;Riau;Kabupaten;Indragiri Hilir;Tembilahan;Seberang Tembilahan Barat;29212
+60953;Riau;Kabupaten;Indragiri Hilir;Tembilahan;Seberang Tembilahan Selatan;29212
+60954;Riau;Kabupaten;Indragiri Hilir;Tembilahan;Sungai Beringin;29214
+60955;Riau;Kabupaten;Indragiri Hilir;Tembilahan;Sungai Perak;29212
+60956;Riau;Kabupaten;Indragiri Hilir;Tembilahan;Tembilahan Hilir;29211
+60957;Riau;Kabupaten;Indragiri Hilir;Tembilahan;Tembilahan Kota;29212
+60958;Riau;Kabupaten;Indragiri Hilir;Tembilahan Hulu;Pekan Kamis;29213
+60959;Riau;Kabupaten;Indragiri Hilir;Tembilahan Hulu;Pulau Palas;29213
+60960;Riau;Kabupaten;Indragiri Hilir;Tembilahan Hulu;Sialang Panjang;29213
+60961;Riau;Kabupaten;Indragiri Hilir;Tembilahan Hulu;Sungai Intan;29213
+60962;Riau;Kabupaten;Indragiri Hilir;Tembilahan Hulu;Tembilahan Barat;29213
+60963;Riau;Kabupaten;Indragiri Hilir;Tembilahan Hulu;Tembilahan Hulu;29213
+60964;Riau;Kabupaten;Indragiri Hilir;Tempuling;Harapan Jaya;29261
+60965;Riau;Kabupaten;Indragiri Hilir;Tempuling;Karya Tunas Jaya;29261
+60966;Riau;Kabupaten;Indragiri Hilir;Tempuling;Mumpa;29261
+60967;Riau;Kabupaten;Indragiri Hilir;Tempuling;Pangkalan Tujuh;29261
+60968;Riau;Kabupaten;Indragiri Hilir;Tempuling;Sungai Salak;29261
+60969;Riau;Kabupaten;Indragiri Hilir;Tempuling;Tanjung Pidada;29261
+60970;Riau;Kabupaten;Indragiri Hilir;Tempuling;Teluk Jira;29261
+60971;Riau;Kabupaten;Indragiri Hilir;Tempuling;Teluk Kiambang;29261
+60972;Riau;Kabupaten;Indragiri Hilir;Tempuling;Tempuling;29261
+60973;Riau;Kabupaten;Indragiri Hulu;Batang Cenaku;Alim;29355
+60974;Riau;Kabupaten;Indragiri Hulu;Batang Cenaku;Anak Talang;29355
+60975;Riau;Kabupaten;Indragiri Hulu;Batang Cenaku;Aur Cina;29355
+60976;Riau;Kabupaten;Indragiri Hulu;Batang Cenaku;Batu Papan;29355
+60977;Riau;Kabupaten;Indragiri Hulu;Batang Cenaku;Bukit Lingkar;29355
+60978;Riau;Kabupaten;Indragiri Hulu;Batang Cenaku;Bukit Lipai;29355
+60979;Riau;Kabupaten;Indragiri Hulu;Batang Cenaku;Cenaku Kecil;29355
+60980;Riau;Kabupaten;Indragiri Hulu;Batang Cenaku;Kepayang Sari;29355
+60981;Riau;Kabupaten;Indragiri Hulu;Batang Cenaku;Kerubung Jaya;29355
+60982;Riau;Kabupaten;Indragiri Hulu;Batang Cenaku;Kuala Gading;29355
+60983;Riau;Kabupaten;Indragiri Hulu;Batang Cenaku;Kuala Kilan;29355
+60984;Riau;Kabupaten;Indragiri Hulu;Batang Cenaku;Lahai Kemuning;29355
+60985;Riau;Kabupaten;Indragiri Hulu;Batang Cenaku;Pataling/Petaling Jaya;29355
+60986;Riau;Kabupaten;Indragiri Hulu;Batang Cenaku;Pejangki;29355
+60987;Riau;Kabupaten;Indragiri Hulu;Batang Cenaku;Pematang Manggis;29355
+60988;Riau;Kabupaten;Indragiri Hulu;Batang Cenaku;Punti Anai;29355
+60989;Riau;Kabupaten;Indragiri Hulu;Batang Cenaku;Sanglap;29355
+60990;Riau;Kabupaten;Indragiri Hulu;Batang Cenaku;Sipang;29355
+60991;Riau;Kabupaten;Indragiri Hulu;Batang Cenaku;Talang Bersemi;29355
+60992;Riau;Kabupaten;Indragiri Hulu;Batang Cenaku;Talang Mulia/Mulya;29355
+60993;Riau;Kabupaten;Indragiri Hulu;Batang Gansal;Belimbing;29355
+60994;Riau;Kabupaten;Indragiri Hulu;Batang Gansal;Danau Rambai;29355
+60995;Riau;Kabupaten;Indragiri Hulu;Batang Gansal;Penyaguan;29355
+60996;Riau;Kabupaten;Indragiri Hulu;Batang Gansal;Rantau Langsat;29355
+60997;Riau;Kabupaten;Indragiri Hulu;Batang Gansal;Ringin;29355
+60998;Riau;Kabupaten;Indragiri Hulu;Batang Gansal;Seberida;29355
+60999;Riau;Kabupaten;Indragiri Hulu;Batang Gansal;Siambul;29355
+61000;Riau;Kabupaten;Indragiri Hulu;Batang Gansal;Sungai Akar;29355
+61001;Riau;Kabupaten;Indragiri Hulu;Batang Gansal;Talang Lakat;29355

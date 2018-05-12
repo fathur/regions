@@ -1,0 +1,501 @@
+No;Province;City/Kab;City/Kab Name;Kec/subDistrict;Kelurahan/village;Postal Code
+68002;Sulawesi Tengah;Kabupaten;Toli-Toli;Dako Pamean;Kapas;94562
+68003;Sulawesi Tengah;Kabupaten;Toli-Toli;Dako Pamean;Lingadan;94562
+68004;Sulawesi Tengah;Kabupaten;Toli-Toli;Dampal Selatan;Abbajareng;94554
+68005;Sulawesi Tengah;Kabupaten;Toli-Toli;Dampal Selatan;Bangkir;94554
+68006;Sulawesi Tengah;Kabupaten;Toli-Toli;Dampal Selatan;Dongko;94554
+68007;Sulawesi Tengah;Kabupaten;Toli-Toli;Dampal Selatan;Kombo;94554
+68008;Sulawesi Tengah;Kabupaten;Toli-Toli;Dampal Selatan;Lempe;94554
+68009;Sulawesi Tengah;Kabupaten;Toli-Toli;Dampal Selatan;Mimbala;94554
+68010;Sulawesi Tengah;Kabupaten;Toli-Toli;Dampal Selatan;Paddumpu;94554
+68011;Sulawesi Tengah;Kabupaten;Toli-Toli;Dampal Selatan;Pallakawe;94554
+68012;Sulawesi Tengah;Kabupaten;Toli-Toli;Dampal Selatan;Puse;94554
+68013;Sulawesi Tengah;Kabupaten;Toli-Toli;Dampal Selatan;Simuntu;94554
+68014;Sulawesi Tengah;Kabupaten;Toli-Toli;Dampal Selatan;Soni;94554
+68015;Sulawesi Tengah;Kabupaten;Toli-Toli;Dampal Selatan;Tampiala;94554
+68016;Sulawesi Tengah;Kabupaten;Toli-Toli;Dampal Utara;Balaroa;94553
+68017;Sulawesi Tengah;Kabupaten;Toli-Toli;Dampal Utara;Bambapula;94553
+68018;Sulawesi Tengah;Kabupaten;Toli-Toli;Dampal Utara;Banagan;94553
+68019;Sulawesi Tengah;Kabupaten;Toli-Toli;Dampal Utara;Kabinuang;94553
+68020;Sulawesi Tengah;Kabupaten;Toli-Toli;Dampal Utara;Malambigu;94553
+68021;Sulawesi Tengah;Kabupaten;Toli-Toli;Dampal Utara;Ogolali;94553
+68022;Sulawesi Tengah;Kabupaten;Toli-Toli;Dampal Utara;Ogotua;94553
+68023;Sulawesi Tengah;Kabupaten;Toli-Toli;Dampal Utara;Sese;94553
+68024;Sulawesi Tengah;Kabupaten;Toli-Toli;Dampal Utara;Simatang Tanjung;94553
+68025;Sulawesi Tengah;Kabupaten;Toli-Toli;Dampal Utara;Simatang Utara;94553
+68026;Sulawesi Tengah;Kabupaten;Toli-Toli;Dampal Utara;Tompoh;94553
+68027;Sulawesi Tengah;Kabupaten;Toli-Toli;Dondo;Anggasan;94552
+68028;Sulawesi Tengah;Kabupaten;Toli-Toli;Dondo;Bambapun;94552
+68029;Sulawesi Tengah;Kabupaten;Toli-Toli;Dondo;Betengon;94552
+68030;Sulawesi Tengah;Kabupaten;Toli-Toli;Dondo;Lais;94552
+68031;Sulawesi Tengah;Kabupaten;Toli-Toli;Dondo;Luok Manipi;94552
+68032;Sulawesi Tengah;Kabupaten;Toli-Toli;Dondo;Malala;94552
+68033;Sulawesi Tengah;Kabupaten;Toli-Toli;Dondo;Malomba;94552
+68034;Sulawesi Tengah;Kabupaten;Toli-Toli;Dondo;Malulu;94552
+68035;Sulawesi Tengah;Kabupaten;Toli-Toli;Dondo;Ogogasang;94552
+68036;Sulawesi Tengah;Kabupaten;Toli-Toli;Dondo;Ogogili;94552
+68037;Sulawesi Tengah;Kabupaten;Toli-Toli;Dondo;Ogowele;94552
+68038;Sulawesi Tengah;Kabupaten;Toli-Toli;Dondo;Pangkung;94552
+68039;Sulawesi Tengah;Kabupaten;Toli-Toli;Dondo;Salumbia;94552
+68040;Sulawesi Tengah;Kabupaten;Toli-Toli;Dondo;Tinabogan;94552
+68041;Sulawesi Tengah;Kabupaten;Toli-Toli;Galang;Aung;94561
+68042;Sulawesi Tengah;Kabupaten;Toli-Toli;Galang;Bajugan;94561
+68043;Sulawesi Tengah;Kabupaten;Toli-Toli;Galang;Ginunggung;94561
+68044;Sulawesi Tengah;Kabupaten;Toli-Toli;Galang;Kalangkangan;94561
+68045;Sulawesi Tengah;Kabupaten;Toli-Toli;Galang;Kinopasan;94561
+68046;Sulawesi Tengah;Kabupaten;Toli-Toli;Galang;Lakatan;94561
+68047;Sulawesi Tengah;Kabupaten;Toli-Toli;Galang;Lalos;94561
+68048;Sulawesi Tengah;Kabupaten;Toli-Toli;Galang;Lantapan;94561
+68049;Sulawesi Tengah;Kabupaten;Toli-Toli;Galang;Malangga;94561
+68050;Sulawesi Tengah;Kabupaten;Toli-Toli;Galang;Ogomoli;94561
+68051;Sulawesi Tengah;Kabupaten;Toli-Toli;Galang;Sabang;94561
+68052;Sulawesi Tengah;Kabupaten;Toli-Toli;Galang;Sandana;94561
+68053;Sulawesi Tengah;Kabupaten;Toli-Toli;Galang;Tende;94561
+68054;Sulawesi Tengah;Kabupaten;Toli-Toli;Galang;Tinigi;94561
+68055;Sulawesi Tengah;Kabupaten;Toli-Toli;Lampasio;Janja;94518
+68056;Sulawesi Tengah;Kabupaten;Toli-Toli;Lampasio;Lampasio;94517
+68057;Sulawesi Tengah;Kabupaten;Toli-Toli;Lampasio;Maibua;94518
+68058;Sulawesi Tengah;Kabupaten;Toli-Toli;Lampasio;Mulyasari (Mulia Sari);94518
+68059;Sulawesi Tengah;Kabupaten;Toli-Toli;Lampasio;Ogomatanang;94517
+68060;Sulawesi Tengah;Kabupaten;Toli-Toli;Lampasio;Oyom;94518
+68061;Sulawesi Tengah;Kabupaten;Toli-Toli;Lampasio;Salugan;94518
+68062;Sulawesi Tengah;Kabupaten;Toli-Toli;Lampasio;Sibea;94518
+68063;Sulawesi Tengah;Kabupaten;Toli-Toli;Lampasio;Tinading;94517
+68064;Sulawesi Tengah;Kabupaten;Toli-Toli;Ogodeide;Bambalaga;94516
+68065;Sulawesi Tengah;Kabupaten;Toli-Toli;Ogodeide;Batuilo;94516
+68066;Sulawesi Tengah;Kabupaten;Toli-Toli;Ogodeide;Bilo;94516
+68067;Sulawesi Tengah;Kabupaten;Toli-Toli;Ogodeide;Buga;94516
+68068;Sulawesi Tengah;Kabupaten;Toli-Toli;Ogodeide;Kabetan;94516
+68069;Sulawesi Tengah;Kabupaten;Toli-Toli;Ogodeide;Kamalu;94516
+68070;Sulawesi Tengah;Kabupaten;Toli-Toli;Ogodeide;Labuan Lobo;94516
+68071;Sulawesi Tengah;Kabupaten;Toli-Toli;Ogodeide;Muara Besar;94516
+68072;Sulawesi Tengah;Kabupaten;Toli-Toli;Ogodeide;Pagaitan;94516
+68073;Sulawesi Tengah;Kabupaten;Toli-Toli;Ogodeide;Pulias;94516
+68074;Sulawesi Tengah;Kabupaten;Toli-Toli;Ogodeide;Sambujan;94516
+68075;Sulawesi Tengah;Kabupaten;Toli-Toli;Tolitoli Utara;Binontoan;94562
+68076;Sulawesi Tengah;Kabupaten;Toli-Toli;Tolitoli Utara;Diule;94562
+68077;Sulawesi Tengah;Kabupaten;Toli-Toli;Tolitoli Utara;Gio;94562
+68078;Sulawesi Tengah;Kabupaten;Toli-Toli;Tolitoli Utara;Lakuan Toli Toli;94562
+68079;Sulawesi Tengah;Kabupaten;Toli-Toli;Tolitoli Utara;Laulalang;94562
+68080;Sulawesi Tengah;Kabupaten;Toli-Toli;Tolitoli Utara;Pinjan;94562
+68081;Sulawesi Tengah;Kabupaten;Toli-Toli;Tolitoli Utara;Salumpaga;94562
+68082;Sulawesi Tengah;Kabupaten;Toli-Toli;Tolitoli Utara;Santigi;94562
+68083;Sulawesi Tengah;Kabupaten;Toli-Toli;Tolitoli Utara;Teluk Jaya;94562
+68084;Sulawesi Tengah;Kabupaten;Toli-Toli;Tolitoli Utara;Timbolo;94562
+68085;Sulawesi Tenggara;Kota;Bau-Bau;Batupoaro;Bone-Bone;93721
+68086;Sulawesi Tenggara;Kota;Bau-Bau;Batupoaro;Kaobula;93721
+68087;Sulawesi Tenggara;Kota;Bau-Bau;Batupoaro;Lanto;93721
+68088;Sulawesi Tenggara;Kota;Bau-Bau;Batupoaro;Nganganaumala;93721
+68089;Sulawesi Tenggara;Kota;Bau-Bau;Batupoaro;Tarafu;93722
+68090;Sulawesi Tenggara;Kota;Bau-Bau;Batupoaro;Wameo;93722
+68091;Sulawesi Tenggara;Kota;Bau-Bau;Betoambari;Katobengke;93724
+68092;Sulawesi Tenggara;Kota;Bau-Bau;Betoambari;Labalawa;93725
+68093;Sulawesi Tenggara;Kota;Bau-Bau;Betoambari;Lipu;93721
+68094;Sulawesi Tenggara;Kota;Bau-Bau;Betoambari;Sulaa;93721
+68095;Sulawesi Tenggara;Kota;Bau-Bau;Betoambari;Waborobo;93721
+68096;Sulawesi Tenggara;Kota;Bau-Bau;Bungi;Kampeonaho;93758
+68097;Sulawesi Tenggara;Kota;Bau-Bau;Bungi;Lia Buku;93758
+68098;Sulawesi Tenggara;Kota;Bau-Bau;Bungi;Ngkaring-Karing (Ngkari-Ngkari);93758
+68099;Sulawesi Tenggara;Kota;Bau-Bau;Bungi;Tampuna;93758
+68100;Sulawesi Tenggara;Kota;Bau-Bau;Bungi;Walia Buku;93758
+68101;Sulawesi Tenggara;Kota;Bau-Bau;Kokalukuna;Kadolo;93716
+68102;Sulawesi Tenggara;Kota;Bau-Bau;Kokalukuna;Kadolomoko;93716
+68103;Sulawesi Tenggara;Kota;Bau-Bau;Kokalukuna;Lakologou (Lakologuo);93719
+68104;Sulawesi Tenggara;Kota;Bau-Bau;Kokalukuna;Liwuto;93711
+68105;Sulawesi Tenggara;Kota;Bau-Bau;Kokalukuna;Sukanayo (Sukanaeyo);93711
+68106;Sulawesi Tenggara;Kota;Bau-Bau;Kokalukuna;Waruruma;93719
+68107;Sulawesi Tenggara;Kota;Bau-Bau;Lea-Lea;Kalia Lia;93758
+68108;Sulawesi Tenggara;Kota;Bau-Bau;Lea-Lea;Kantalai;93758
+68109;Sulawesi Tenggara;Kota;Bau-Bau;Lea-Lea;Kolese;93758
+68110;Sulawesi Tenggara;Kota;Bau-Bau;Lea-Lea;Lowu-Lowu;93758
+68111;Sulawesi Tenggara;Kota;Bau-Bau;Lea-Lea;Palabusa;93758
+68112;Sulawesi Tenggara;Kota;Bau-Bau;Murhum;Baadia;93727
+68113;Sulawesi Tenggara;Kota;Bau-Bau;Murhum;Lamangga;93725
+68114;Sulawesi Tenggara;Kota;Bau-Bau;Murhum;Melai;93727
+68115;Sulawesi Tenggara;Kota;Bau-Bau;Murhum;Tanganapada;93721
+68116;Sulawesi Tenggara;Kota;Bau-Bau;Murhum;Wajo;93726
+68117;Sulawesi Tenggara;Kota;Bau-Bau;Sora Walio (Sorowalio);Bugi;93757
+68118;Sulawesi Tenggara;Kota;Bau-Bau;Sora Walio (Sorowalio);Gonda Baru;93757
+68119;Sulawesi Tenggara;Kota;Bau-Bau;Sora Walio (Sorowalio);Kaisabu Baru;93757
+68120;Sulawesi Tenggara;Kota;Bau-Bau;Sora Walio (Sorowalio);Karya Baru;93757
+68121;Sulawesi Tenggara;Kota;Bau-Bau;Wolio;Bataraguru;93714
+68122;Sulawesi Tenggara;Kota;Bau-Bau;Wolio;Batulo;93717
+68123;Sulawesi Tenggara;Kota;Bau-Bau;Wolio;Bukit Wolio Indah;93711
+68124;Sulawesi Tenggara;Kota;Bau-Bau;Wolio;Kadolo Katapi;93715
+68125;Sulawesi Tenggara;Kota;Bau-Bau;Wolio;Tomba;93712
+68126;Sulawesi Tenggara;Kota;Bau-Bau;Wolio;Wale;93711
+68127;Sulawesi Tenggara;Kota;Bau-Bau;Wolio;Wangkanapi;93713
+68128;Sulawesi Tenggara;Kabupaten;Bombana;Kabaena;Rahadopi;93781
+68129;Sulawesi Tenggara;Kabupaten;Bombana;Kabaena;Rahampuu;93781
+68130;Sulawesi Tenggara;Kabupaten;Bombana;Kabaena;Teomokole;93781
+68131;Sulawesi Tenggara;Kabupaten;Bombana;Kabaena;Tirongkotua;93781
+68132;Sulawesi Tenggara;Kabupaten;Bombana;Kabaena Barat;Baliara;93781
+68133;Sulawesi Tenggara;Kabupaten;Bombana;Kabaena Barat;Baliara Kepulauan;93781
+68134;Sulawesi Tenggara;Kabupaten;Bombana;Kabaena Barat;Baliara Selatan;93781
+68135;Sulawesi Tenggara;Kabupaten;Bombana;Kabaena Barat;Rahantari;93781
+68136;Sulawesi Tenggara;Kabupaten;Bombana;Kabaena Barat;Sikeli;93781
+68137;Sulawesi Tenggara;Kabupaten;Bombana;Kabaena Selatan;Batuawu;93781
+68138;Sulawesi Tenggara;Kabupaten;Bombana;Kabaena Selatan;Langkema;93781
+68139;Sulawesi Tenggara;Kabupaten;Bombana;Kabaena Selatan;Pongkalaero;93781
+68140;Sulawesi Tenggara;Kabupaten;Bombana;Kabaena Selatan;Puu Nunu;93781
+68141;Sulawesi Tenggara;Kabupaten;Bombana;Kabaena Tengah;Enano;93783
+68142;Sulawesi Tenggara;Kabupaten;Bombana;Kabaena Tengah;Lamonggi;93783
+68143;Sulawesi Tenggara;Kabupaten;Bombana;Kabaena Tengah;Lengora;93783
+68144;Sulawesi Tenggara;Kabupaten;Bombana;Kabaena Tengah;Lengora Pantai;93783
+68145;Sulawesi Tenggara;Kabupaten;Bombana;Kabaena Tengah;Lengora Selatan;93783
+68146;Sulawesi Tenggara;Kabupaten;Bombana;Kabaena Tengah;Tangkeno;93783
+68147;Sulawesi Tenggara;Kabupaten;Bombana;Kabaena Tengah;Ulungkura;93783
+68148;Sulawesi Tenggara;Kabupaten;Bombana;Kabaena Timur;Balo;93783
+68149;Sulawesi Tenggara;Kabupaten;Bombana;Kabaena Timur;Bungi-bungi;93783
+68150;Sulawesi Tenggara;Kabupaten;Bombana;Kabaena Timur;Dongkala;93783
+68151;Sulawesi Tenggara;Kabupaten;Bombana;Kabaena Timur;Lambale;93783
+68152;Sulawesi Tenggara;Kabupaten;Bombana;Kabaena Timur;Tapuhaka;93783
+68153;Sulawesi Tenggara;Kabupaten;Bombana;Kabaena Timur;Toli-Toli;93783
+68154;Sulawesi Tenggara;Kabupaten;Bombana;Kabaena Timur;Wumbubura;93783
+68155;Sulawesi Tenggara;Kabupaten;Bombana;Kabaena Utara;Eemokolo (Eeomokola);93781
+68156;Sulawesi Tenggara;Kabupaten;Bombana;Kabaena Utara;Larolanu (Laromanu);93781
+68157;Sulawesi Tenggara;Kabupaten;Bombana;Kabaena Utara;Mapila;93781
+68158;Sulawesi Tenggara;Kabupaten;Bombana;Kabaena Utara;Sangia Makmur;93781
+68159;Sulawesi Tenggara;Kabupaten;Bombana;Kabaena Utara;Tedubara;93781
+68160;Sulawesi Tenggara;Kabupaten;Bombana;Kabaena Utara;Wumbulasa;93781
+68161;Sulawesi Tenggara;Kabupaten;Bombana;Kepulauan Masaloka Raya;Batu Lamburi;93771
+68162;Sulawesi Tenggara;Kabupaten;Bombana;Kepulauan Masaloka Raya;Masaloka;93771
+68163;Sulawesi Tenggara;Kabupaten;Bombana;Kepulauan Masaloka Raya;Masaloka Barat (Tengah);93771
+68164;Sulawesi Tenggara;Kabupaten;Bombana;Kepulauan Masaloka Raya;Masaloka Selatan;93771
+68165;Sulawesi Tenggara;Kabupaten;Bombana;Kepulauan Masaloka Raya;Masaloka Timur;93771
+68166;Sulawesi Tenggara;Kabupaten;Bombana;Lentarai Jaya S. (Lantari Jaya);Anugerah;93774
+68167;Sulawesi Tenggara;Kabupaten;Bombana;Lentarai Jaya S. (Lantari Jaya);Kalaero;93774
+68168;Sulawesi Tenggara;Kabupaten;Bombana;Lentarai Jaya S. (Lantari Jaya);Langkadue;93774
+68169;Sulawesi Tenggara;Kabupaten;Bombana;Lentarai Jaya S. (Lantari Jaya);Langkowala;93774
+68170;Sulawesi Tenggara;Kabupaten;Bombana;Lentarai Jaya S. (Lantari Jaya);Lantari;93774
+68171;Sulawesi Tenggara;Kabupaten;Bombana;Lentarai Jaya S. (Lantari Jaya);Lomba Kasih;93774
+68172;Sulawesi Tenggara;Kabupaten;Bombana;Lentarai Jaya S. (Lantari Jaya);Pasare Apua;93774
+68173;Sulawesi Tenggara;Kabupaten;Bombana;Lentarai Jaya S. (Lantari Jaya);Rarongkeu;93774
+68174;Sulawesi Tenggara;Kabupaten;Bombana;Lentarai Jaya S. (Lantari Jaya);Tinabite;93774
+68175;Sulawesi Tenggara;Kabupaten;Bombana;Lentarai Jaya S. (Lantari Jaya);Watu-Watu;93774
+68176;Sulawesi Tenggara;Kabupaten;Bombana;Mata Oleo;Batusame Indah;93771
+68177;Sulawesi Tenggara;Kabupaten;Bombana;Mata Oleo;Hambawa Indah;93771
+68178;Sulawesi Tenggara;Kabupaten;Bombana;Mata Oleo;Laloa;93771
+68179;Sulawesi Tenggara;Kabupaten;Bombana;Mata Oleo;Liano;93771
+68180;Sulawesi Tenggara;Kabupaten;Bombana;Mata Oleo;Lora;93771
+68181;Sulawesi Tenggara;Kabupaten;Bombana;Mata Oleo;Mawar;93771
+68182;Sulawesi Tenggara;Kabupaten;Bombana;Mata Oleo;Pemontoro (Pomontoro);93771
+68183;Sulawesi Tenggara;Kabupaten;Bombana;Mata Oleo;Pulau Tambako;93771
+68184;Sulawesi Tenggara;Kabupaten;Bombana;Mata Oleo;Tajuncu;93771
+68185;Sulawesi Tenggara;Kabupaten;Bombana;Mata Oleo;Toli-Toli;93771
+68186;Sulawesi Tenggara;Kabupaten;Bombana;Mata Usu;Kolombi Matausu;93774
+68187;Sulawesi Tenggara;Kabupaten;Bombana;Mata Usu;Lamuru;93774
+68188;Sulawesi Tenggara;Kabupaten;Bombana;Mata Usu;Morengke;93774
+68189;Sulawesi Tenggara;Kabupaten;Bombana;Mata Usu;Totole;93774
+68190;Sulawesi Tenggara;Kabupaten;Bombana;Mata Usu;Wia-Wia;93774
+68191;Sulawesi Tenggara;Kabupaten;Bombana;Poleang;Barangga;93772
+68192;Sulawesi Tenggara;Kabupaten;Bombana;Poleang;Boeara;93772
+68193;Sulawesi Tenggara;Kabupaten;Bombana;Poleang;Boepinang;93772
+68194;Sulawesi Tenggara;Kabupaten;Bombana;Poleang;Boepinang Barat;93772
+68195;Sulawesi Tenggara;Kabupaten;Bombana;Poleang;Kasabolo;93772
+68196;Sulawesi Tenggara;Kabupaten;Bombana;Poleang;Kastarib;93772
+68197;Sulawesi Tenggara;Kabupaten;Bombana;Poleang;Matiro Walie;93772
+68198;Sulawesi Tenggara;Kabupaten;Bombana;Poleang;Pallimae;93772
+68199;Sulawesi Tenggara;Kabupaten;Bombana;Poleang;Pukurumba (Pokorumba);93772
+68200;Sulawesi Tenggara;Kabupaten;Bombana;Poleang;Salosa;93772
+68201;Sulawesi Tenggara;Kabupaten;Bombana;Poleang Barat;Baba Molingku;93772
+68202;Sulawesi Tenggara;Kabupaten;Bombana;Poleang Barat;Balasari;93772
+68203;Sulawesi Tenggara;Kabupaten;Bombana;Poleang Barat;Bulumanai;93772
+68204;Sulawesi Tenggara;Kabupaten;Bombana;Poleang Barat;Lameong-Meong;93772
+68205;Sulawesi Tenggara;Kabupaten;Bombana;Poleang Barat;Pabiring;93772
+68206;Sulawesi Tenggara;Kabupaten;Bombana;Poleang Barat;Rakadua;93772
+68207;Sulawesi Tenggara;Kabupaten;Bombana;Poleang Barat;Rano Komea;93772
+68208;Sulawesi Tenggara;Kabupaten;Bombana;Poleang Barat;Timbala;93772
+68209;Sulawesi Tenggara;Kabupaten;Bombana;Poleang Barat;Toari Buton;93772
+68210;Sulawesi Tenggara;Kabupaten;Bombana;Poleang Selatan;Akacipong;93773
+68211;Sulawesi Tenggara;Kabupaten;Bombana;Poleang Selatan;Batu Putih;93773
+68212;Sulawesi Tenggara;Kabupaten;Bombana;Poleang Selatan;Kali Baru;93773
+68213;Sulawesi Tenggara;Kabupaten;Bombana;Poleang Selatan;La Ea;93773
+68214;Sulawesi Tenggara;Kabupaten;Bombana;Poleang Selatan;Waemputang;93773
+68215;Sulawesi Tenggara;Kabupaten;Bombana;Poleang Tengah;Lebo Ea;93772
+68216;Sulawesi Tenggara;Kabupaten;Bombana;Poleang Tengah;Mulaeno;93772
+68217;Sulawesi Tenggara;Kabupaten;Bombana;Poleang Tengah;Paria;93772
+68218;Sulawesi Tenggara;Kabupaten;Bombana;Poleang Tengah;Poleondro;93772
+68219;Sulawesi Tenggara;Kabupaten;Bombana;Poleang Tenggara;Lamoare;93773
+68220;Sulawesi Tenggara;Kabupaten;Bombana;Poleang Tenggara;Larete;93773
+68221;Sulawesi Tenggara;Kabupaten;Bombana;Poleang Tenggara;Marampuka;93773
+68222;Sulawesi Tenggara;Kabupaten;Bombana;Poleang Tenggara;Terapung;93773
+68223;Sulawesi Tenggara;Kabupaten;Bombana;Poleang Timur;Bambaea;93773
+68224;Sulawesi Tenggara;Kabupaten;Bombana;Poleang Timur;Biru;93773
+68225;Sulawesi Tenggara;Kabupaten;Bombana;Poleang Timur;Mambo;93773
+68226;Sulawesi Tenggara;Kabupaten;Bombana;Poleang Timur;Puu Lemo;93773
+68227;Sulawesi Tenggara;Kabupaten;Bombana;Poleang Timur;Teppoe;93773
+68228;Sulawesi Tenggara;Kabupaten;Bombana;Poleang Utara;Karya Baru;93773
+68229;Sulawesi Tenggara;Kabupaten;Bombana;Poleang Utara;Lawatu Ea (Es);93773
+68230;Sulawesi Tenggara;Kabupaten;Bombana;Poleang Utara;Pulau Ea (Es);93773
+68231;Sulawesi Tenggara;Kabupaten;Bombana;Poleang Utara;Rompu Rompu;93773
+68232;Sulawesi Tenggara;Kabupaten;Bombana;Poleang Utara;Tampawulu (Tanpabulu);93773
+68233;Sulawesi Tenggara;Kabupaten;Bombana;Poleang Utara;Tanah Poleang;93773
+68234;Sulawesi Tenggara;Kabupaten;Bombana;Poleang Utara;Toburi;93773
+68235;Sulawesi Tenggara;Kabupaten;Bombana;Poleang Utara;Wambarema;93773
+68236;Sulawesi Tenggara;Kabupaten;Bombana;Rarowatu;Ladumpi;93774
+68237;Sulawesi Tenggara;Kabupaten;Bombana;Rarowatu;Lakomea;93774
+68238;Sulawesi Tenggara;Kabupaten;Bombana;Rarowatu;Lampeantani;93774
+68239;Sulawesi Tenggara;Kabupaten;Bombana;Rarowatu;Pangkuri;93774
+68240;Sulawesi Tenggara;Kabupaten;Bombana;Rarowatu;Rarowatu;93774
+68241;Sulawesi Tenggara;Kabupaten;Bombana;Rarowatu;Rau-Rau;93774
+68242;Sulawesi Tenggara;Kabupaten;Bombana;Rarowatu;Taubonto;93774
+68243;Sulawesi Tenggara;Kabupaten;Bombana;Rarowatu;Watu Kalangkari;93774
+68244;Sulawesi Tenggara;Kabupaten;Bombana;Rarowatu Utara;Aneka Marga;93774
+68245;Sulawesi Tenggara;Kabupaten;Bombana;Rarowatu Utara;Hukaea;93774
+68246;Sulawesi Tenggara;Kabupaten;Bombana;Rarowatu Utara;Lantowua;93774
+68247;Sulawesi Tenggara;Kabupaten;Bombana;Rarowatu Utara;Marga Jaya;93774
+68248;Sulawesi Tenggara;Kabupaten;Bombana;Rarowatu Utara;Tembe;93774
+68249;Sulawesi Tenggara;Kabupaten;Bombana;Rarowatu Utara;Tunas Baru;93774
+68250;Sulawesi Tenggara;Kabupaten;Bombana;Rarowatu Utara;Watu Mentade;93774
+68251;Sulawesi Tenggara;Kabupaten;Bombana;Rarowatu Utara;Wumbu Bangka;93774
+68252;Sulawesi Tenggara;Kabupaten;Bombana;Rumbia;Doule;93771
+68253;Sulawesi Tenggara;Kabupaten;Bombana;Rumbia;Kasipute;93771
+68254;Sulawesi Tenggara;Kabupaten;Bombana;Rumbia;Lameroro;93771
+68255;Sulawesi Tenggara;Kabupaten;Bombana;Rumbia;Lampopala;93771
+68256;Sulawesi Tenggara;Kabupaten;Bombana;Rumbia;Lanto Wonua (Lantawonua);93771
+68257;Sulawesi Tenggara;Kabupaten;Bombana;Rumbia Tengah;Kampung Baru;93771
+68258;Sulawesi Tenggara;Kabupaten;Bombana;Rumbia Tengah;Lampata;93771
+68259;Sulawesi Tenggara;Kabupaten;Bombana;Rumbia Tengah;Lauru;93771
+68260;Sulawesi Tenggara;Kabupaten;Bombana;Rumbia Tengah;Poea;93771
+68261;Sulawesi Tenggara;Kabupaten;Bombana;Rumbia Tengah;Tapuhahi;93771
+68262;Sulawesi Tenggara;Kabupaten;Bombana;Tontonunu (Tontonuwu);Puu Wonua;93772
+68263;Sulawesi Tenggara;Kabupaten;Bombana;Tontonunu (Tontonuwu);Tete Haka;93772
+68264;Sulawesi Tenggara;Kabupaten;Bombana;Tontonunu (Tontonuwu);Tongkoseng;93772
+68265;Sulawesi Tenggara;Kabupaten;Bombana;Tontonunu (Tontonuwu);Tontonunu;93772
+68266;Sulawesi Tenggara;Kabupaten;Bombana;Tontonunu (Tontonuwu);Watu Melomba;93772
+68267;Sulawesi Tenggara;Kabupaten;Buton;Kapontori;Barangka;93755
+68268;Sulawesi Tenggara;Kabupaten;Buton;Kapontori;Boneatiro;93755
+68269;Sulawesi Tenggara;Kabupaten;Buton;Kapontori;Boneatiro Barat;93755
+68270;Sulawesi Tenggara;Kabupaten;Buton;Kapontori;Bukit Asri;93755
+68271;Sulawesi Tenggara;Kabupaten;Buton;Kapontori;Kamelanta;93755
+68272;Sulawesi Tenggara;Kabupaten;Buton;Kapontori;Lambusango;93755
+68273;Sulawesi Tenggara;Kabupaten;Buton;Kapontori;Lambusango Timur;93755
+68274;Sulawesi Tenggara;Kabupaten;Buton;Kapontori;Mambulugo;93755
+68275;Sulawesi Tenggara;Kabupaten;Buton;Kapontori;Todanga;93755
+68276;Sulawesi Tenggara;Kabupaten;Buton;Kapontori;Tuangila;93755
+68277;Sulawesi Tenggara;Kabupaten;Buton;Kapontori;Tumada;93755
+68278;Sulawesi Tenggara;Kabupaten;Buton;Kapontori;Wakalambe;93755
+68279;Sulawesi Tenggara;Kabupaten;Buton;Kapontori;Wakangka;93755
+68280;Sulawesi Tenggara;Kabupaten;Buton;Kapontori;Wakuli;93755
+68281;Sulawesi Tenggara;Kabupaten;Buton;Kapontori;Wambulu;93755
+68282;Sulawesi Tenggara;Kabupaten;Buton;Kapontori;Waondo Wolio;93755
+68283;Sulawesi Tenggara;Kabupaten;Buton;Kapontori;Watumotobe;93755
+68284;Sulawesi Tenggara;Kabupaten;Buton;Lasalimu;Benteng;93756
+68285;Sulawesi Tenggara;Kabupaten;Buton;Lasalimu;Bonelalo;93756
+68286;Sulawesi Tenggara;Kabupaten;Buton;Lasalimu;Kakenauwe;93756
+68287;Sulawesi Tenggara;Kabupaten;Buton;Lasalimu;Kamaru;93756
+68288;Sulawesi Tenggara;Kabupaten;Buton;Lasalimu;Lasembangi;93756
+68289;Sulawesi Tenggara;Kabupaten;Buton;Lasalimu;Lawele;93756
+68290;Sulawesi Tenggara;Kabupaten;Buton;Lasalimu;Nambo;93756
+68291;Sulawesi Tenggara;Kabupaten;Buton;Lasalimu;Sribatara;93756
+68292;Sulawesi Tenggara;Kabupaten;Buton;Lasalimu;Suandala;93756
+68293;Sulawesi Tenggara;Kabupaten;Buton;Lasalimu;Talaga Baru;93756
+68294;Sulawesi Tenggara;Kabupaten;Buton;Lasalimu;Togo Mangura;93756
+68295;Sulawesi Tenggara;Kabupaten;Buton;Lasalimu;Wagari;93756
+68296;Sulawesi Tenggara;Kabupaten;Buton;Lasalimu;Waoleona;93756
+68297;Sulawesi Tenggara;Kabupaten;Buton;Lasalimu;Wasambaa;93756
+68298;Sulawesi Tenggara;Kabupaten;Buton;Lasalimu;Wasuamba;93756
+68299;Sulawesi Tenggara;Kabupaten;Buton;Lasalimu Selatan;Ambuau Indah;93756
+68300;Sulawesi Tenggara;Kabupaten;Buton;Lasalimu Selatan;Ambuau Togo;93756
+68301;Sulawesi Tenggara;Kabupaten;Buton;Lasalimu Selatan;Balimu;93756
+68302;Sulawesi Tenggara;Kabupaten;Buton;Lasalimu Selatan;Harapan Jaya;93756
+68303;Sulawesi Tenggara;Kabupaten;Buton;Lasalimu Selatan;Kinapani Makmur;93756
+68304;Sulawesi Tenggara;Kabupaten;Buton;Lasalimu Selatan;Lasalimu;93756
+68305;Sulawesi Tenggara;Kabupaten;Buton;Lasalimu Selatan;Megabahari;93756
+68306;Sulawesi Tenggara;Kabupaten;Buton;Lasalimu Selatan;Mopaano/Mopano;93756
+68307;Sulawesi Tenggara;Kabupaten;Buton;Lasalimu Selatan;Mulia Jaya;93756
+68308;Sulawesi Tenggara;Kabupaten;Buton;Lasalimu Selatan;Rejo Sari;93756
+68309;Sulawesi Tenggara;Kabupaten;Buton;Lasalimu Selatan;Sangia Arano;93756
+68310;Sulawesi Tenggara;Kabupaten;Buton;Lasalimu Selatan;Siomanuru;93756
+68311;Sulawesi Tenggara;Kabupaten;Buton;Lasalimu Selatan;Siontapina (Siotapina);93756
+68312;Sulawesi Tenggara;Kabupaten;Buton;Lasalimu Selatan;Sumber Agung;93756
+68313;Sulawesi Tenggara;Kabupaten;Buton;Lasalimu Selatan;Umalaoge;93756
+68314;Sulawesi Tenggara;Kabupaten;Buton;Lasalimu Selatan;Wajahjaya;93756
+68315;Sulawesi Tenggara;Kabupaten;Buton;Pasar Wajo;Awainulu;93754
+68316;Sulawesi Tenggara;Kabupaten;Buton;Pasar Wajo;Banabungi;93754
+68317;Sulawesi Tenggara;Kabupaten;Buton;Pasar Wajo;Dongkala;93754
+68318;Sulawesi Tenggara;Kabupaten;Buton;Pasar Wajo;Holimombo Jaya;93754
+68319;Sulawesi Tenggara;Kabupaten;Buton;Pasar Wajo;Kabawakole;93754
+68320;Sulawesi Tenggara;Kabupaten;Buton;Pasar Wajo;Kahulungaya;93754
+68321;Sulawesi Tenggara;Kabupaten;Buton;Pasar Wajo;Kambulabulana;93754
+68322;Sulawesi Tenggara;Kabupaten;Buton;Pasar Wajo;Kancinaa;93754
+68323;Sulawesi Tenggara;Kabupaten;Buton;Pasar Wajo;Kaongkeongkea;93754
+68324;Sulawesi Tenggara;Kabupaten;Buton;Pasar Wajo;Kombeli;93754
+68325;Sulawesi Tenggara;Kabupaten;Buton;Pasar Wajo;Kondowa;93754
+68326;Sulawesi Tenggara;Kabupaten;Buton;Pasar Wajo;Laburunci;93754
+68327;Sulawesi Tenggara;Kabupaten;Buton;Pasar Wajo;Lapodi;93754
+68328;Sulawesi Tenggara;Kabupaten;Buton;Pasar Wajo;Mantowu;93754
+68329;Sulawesi Tenggara;Kabupaten;Buton;Pasar Wajo;Pasarwajo;93754
+68330;Sulawesi Tenggara;Kabupaten;Buton;Pasar Wajo;Saragi;93754
+68331;Sulawesi Tenggara;Kabupaten;Buton;Pasar Wajo;Takimpo;93754
+68332;Sulawesi Tenggara;Kabupaten;Buton;Pasar Wajo;Wagola;93754
+68333;Sulawesi Tenggara;Kabupaten;Buton;Pasar Wajo;Wangu Angu;93754
+68334;Sulawesi Tenggara;Kabupaten;Buton;Pasar Wajo;Warinta;93754
+68335;Sulawesi Tenggara;Kabupaten;Buton;Pasar Wajo;Wasaga;93754
+68336;Sulawesi Tenggara;Kabupaten;Buton;Pasar Wajo;Winning;93754
+68337;Sulawesi Tenggara;Kabupaten;Buton;Siontapia (Siontapina);Bahari Makmur;93756
+68338;Sulawesi Tenggara;Kabupaten;Buton;Siontapia (Siontapina);Gunung Jaya;93756
+68339;Sulawesi Tenggara;Kabupaten;Buton;Siontapia (Siontapina);Karya Jaya;93756
+68340;Sulawesi Tenggara;Kabupaten;Buton;Siontapia (Siontapina);Kumbewaha;93756
+68341;Sulawesi Tenggara;Kabupaten;Buton;Siontapia (Siontapina);Kuraa;93756
+68342;Sulawesi Tenggara;Kabupaten;Buton;Siontapia (Siontapina);Labuandiri;93756
+68343;Sulawesi Tenggara;Kabupaten;Buton;Siontapia (Siontapina);Manuru;93756
+68344;Sulawesi Tenggara;Kabupaten;Buton;Siontapia (Siontapina);Matanauwe;93756
+68345;Sulawesi Tenggara;Kabupaten;Buton;Siontapia (Siontapina);Sampuabalo;93756
+68346;Sulawesi Tenggara;Kabupaten;Buton;Siontapia (Siontapina);Sumber Sari;93756
+68347;Sulawesi Tenggara;Kabupaten;Buton;Siontapia (Siontapina);Walompo;93756
+68348;Sulawesi Tenggara;Kabupaten;Buton;Wabula;Bajo Bahari;93754
+68349;Sulawesi Tenggara;Kabupaten;Buton;Wabula;Holimombo;93754
+68350;Sulawesi Tenggara;Kabupaten;Buton;Wabula;Koholimombona;93754
+68351;Sulawesi Tenggara;Kabupaten;Buton;Wabula;Wabula;93754
+68352;Sulawesi Tenggara;Kabupaten;Buton;Wabula;Wabula Satu;93754
+68353;Sulawesi Tenggara;Kabupaten;Buton;Wabula;Wasampela;93754
+68354;Sulawesi Tenggara;Kabupaten;Buton;Wabula;Wasuemba;93754
+68355;Sulawesi Tenggara;Kabupaten;Buton;Wolowa;Bungi;93754
+68356;Sulawesi Tenggara;Kabupaten;Buton;Wolowa;Galanti;93754
+68357;Sulawesi Tenggara;Kabupaten;Buton;Wolowa;Kaumbu;93754
+68358;Sulawesi Tenggara;Kabupaten;Buton;Wolowa;Matawia;93754
+68359;Sulawesi Tenggara;Kabupaten;Buton;Wolowa;Sukamaju;93754
+68360;Sulawesi Tenggara;Kabupaten;Buton;Wolowa;Wolowa;93754
+68361;Sulawesi Tenggara;Kabupaten;Buton;Wolowa;Wolowa Baru;93754
+68362;Sulawesi Tenggara;Kabupaten;Buton Selatan;Batauga;Bandar Batauga;93752
+68363;Sulawesi Tenggara;Kabupaten;Buton Selatan;Batauga;Bola;93752
+68364;Sulawesi Tenggara;Kabupaten;Buton Selatan;Batauga;Busoa;93752
+68365;Sulawesi Tenggara;Kabupaten;Buton Selatan;Batauga;Lakambau;93752
+68366;Sulawesi Tenggara;Kabupaten;Buton Selatan;Batauga;Lampanairi;93752
+68367;Sulawesi Tenggara;Kabupaten;Buton Selatan;Batauga;Laompo;93752
+68368;Sulawesi Tenggara;Kabupaten;Buton Selatan;Batauga;Lawela;93752
+68369;Sulawesi Tenggara;Kabupaten;Buton Selatan;Batauga;Lawela Selatan;93752
+68370;Sulawesi Tenggara;Kabupaten;Buton Selatan;Batauga;Majapahit;93752
+68371;Sulawesi Tenggara;Kabupaten;Buton Selatan;Batauga;Masiri;93752
+68372;Sulawesi Tenggara;Kabupaten;Buton Selatan;Batauga;Molagina;93752
+68373;Sulawesi Tenggara;Kabupaten;Buton Selatan;Batauga;Poogalampa;93752
+68374;Sulawesi Tenggara;Kabupaten;Buton Selatan;Batu Atas;Batuatas Barat;93753
+68375;Sulawesi Tenggara;Kabupaten;Buton Selatan;Batu Atas;Batuatas Liwu;93753
+68376;Sulawesi Tenggara;Kabupaten;Buton Selatan;Batu Atas;Batuatas Timur;93753
+68377;Sulawesi Tenggara;Kabupaten;Buton Selatan;Batu Atas;Taduasa;93753
+68378;Sulawesi Tenggara;Kabupaten;Buton Selatan;Batu Atas;Tolando Jaya;93753
+68379;Sulawesi Tenggara;Kabupaten;Buton Selatan;Batu Atas;Wacuala;93753
+68380;Sulawesi Tenggara;Kabupaten;Buton Selatan;Batu Atas;Wambongi;93753
+68381;Sulawesi Tenggara;Kabupaten;Buton Selatan;Kadatua;Banabungi;93752
+68382;Sulawesi Tenggara;Kabupaten;Buton Selatan;Kadatua;Banabungi Selatan;93752
+68383;Sulawesi Tenggara;Kabupaten;Buton Selatan;Kadatua;Kaofe;93752
+68384;Sulawesi Tenggara;Kabupaten;Buton Selatan;Kadatua;Kapoa;93752
+68385;Sulawesi Tenggara;Kabupaten;Buton Selatan;Kadatua;Kapoa Barat;93752
+68386;Sulawesi Tenggara;Kabupaten;Buton Selatan;Kadatua;Lipu;93752
+68387;Sulawesi Tenggara;Kabupaten;Buton Selatan;Kadatua;Marawali;93752
+68388;Sulawesi Tenggara;Kabupaten;Buton Selatan;Kadatua;Mawambunga;93752
+68389;Sulawesi Tenggara;Kabupaten;Buton Selatan;Kadatua;Uwemaasi;93752
+68390;Sulawesi Tenggara;Kabupaten;Buton Selatan;Kadatua;Waonu;93752
+68391;Sulawesi Tenggara;Kabupaten;Buton Selatan;Lapandewa;Burangasi;93753
+68392;Sulawesi Tenggara;Kabupaten;Buton Selatan;Lapandewa;Burangasi Rumbia;93753
+68393;Sulawesi Tenggara;Kabupaten;Buton Selatan;Lapandewa;Gayabaru;93753
+68394;Sulawesi Tenggara;Kabupaten;Buton Selatan;Lapandewa;Lapandewa;93753
+68395;Sulawesi Tenggara;Kabupaten;Buton Selatan;Lapandewa;Lapandewa Jaya;93753
+68396;Sulawesi Tenggara;Kabupaten;Buton Selatan;Lapandewa;Lapandewa Kaidea;93753
+68397;Sulawesi Tenggara;Kabupaten;Buton Selatan;Lapandewa;Lapandewa Makmur;93753
+68398;Sulawesi Tenggara;Kabupaten;Buton Selatan;Sampolawa;Bahari;93753
+68399;Sulawesi Tenggara;Kabupaten;Buton Selatan;Sampolawa;Bahari 2 (dua);93753
+68400;Sulawesi Tenggara;Kabupaten;Buton Selatan;Sampolawa;Bahari 3 (tiga);93753
+68401;Sulawesi Tenggara;Kabupaten;Buton Selatan;Sampolawa;Bangun;93753
+68402;Sulawesi Tenggara;Kabupaten;Buton Selatan;Sampolawa;Gerak Makmur;93753
+68403;Sulawesi Tenggara;Kabupaten;Buton Selatan;Sampolawa;Gunung Sejuk;93753
+68404;Sulawesi Tenggara;Kabupaten;Buton Selatan;Sampolawa;Hendea;93753
+68405;Sulawesi Tenggara;Kabupaten;Buton Selatan;Sampolawa;Jaya Bakti;93753
+68406;Sulawesi Tenggara;Kabupaten;Buton Selatan;Sampolawa;Katilombu;93753
+68407;Sulawesi Tenggara;Kabupaten;Buton Selatan;Sampolawa;Lipu Mangau;93753
+68408;Sulawesi Tenggara;Kabupaten;Buton Selatan;Sampolawa;Sandang Pangan;93753
+68409;Sulawesi Tenggara;Kabupaten;Buton Selatan;Sampolawa;Tira;93753
+68410;Sulawesi Tenggara;Kabupaten;Buton Selatan;Sampolawa;Todombulu;93753
+68411;Sulawesi Tenggara;Kabupaten;Buton Selatan;Sampolawa;Watiginanda;93753
+68412;Sulawesi Tenggara;Kabupaten;Buton Selatan;Sampolawa;Wawoangi;93753
+68413;Sulawesi Tenggara;Kabupaten;Buton Selatan;Sampolawa;Windu Makmur;93753
+68414;Sulawesi Tenggara;Kabupaten;Buton Selatan;Siompu;Batuawu;93752
+68415;Sulawesi Tenggara;Kabupaten;Buton Selatan;Siompu;Biwinapada;93752
+68416;Sulawesi Tenggara;Kabupaten;Buton Selatan;Siompu;Kaimbulawa;93752
+68417;Sulawesi Tenggara;Kabupaten;Buton Selatan;Siompu;Karae;93752
+68418;Sulawesi Tenggara;Kabupaten;Buton Selatan;Siompu;Lapara;93752
+68419;Sulawesi Tenggara;Kabupaten;Buton Selatan;Siompu;Lontoi;93752
+68420;Sulawesi Tenggara;Kabupaten;Buton Selatan;Siompu;Nggulanggula;93752
+68421;Sulawesi Tenggara;Kabupaten;Buton Selatan;Siompu;Tongali;93752
+68422;Sulawesi Tenggara;Kabupaten;Buton Selatan;Siompu;Waindawula;93752
+68423;Sulawesi Tenggara;Kabupaten;Buton Selatan;Siompu;Wakinamboro;93752
+68424;Sulawesi Tenggara;Kabupaten;Buton Selatan;Siompu Barat;Kamoali;93752
+68425;Sulawesi Tenggara;Kabupaten;Buton Selatan;Siompu Barat;Katampe;93752
+68426;Sulawesi Tenggara;Kabupaten;Buton Selatan;Siompu Barat;Lalole;93752
+68427;Sulawesi Tenggara;Kabupaten;Buton Selatan;Siompu Barat;Lamaninggara;93752
+68428;Sulawesi Tenggara;Kabupaten;Buton Selatan;Siompu Barat;Mbanua;93752
+68429;Sulawesi Tenggara;Kabupaten;Buton Selatan;Siompu Barat;Mokobeau;93752
+68430;Sulawesi Tenggara;Kabupaten;Buton Selatan;Siompu Barat;Molona;93752
+68431;Sulawesi Tenggara;Kabupaten;Buton Selatan;Siompu Barat;Watuampara;93752
+68432;Sulawesi Tenggara;Kabupaten;Buton Tengah;Gu;Bantea;93761
+68433;Sulawesi Tenggara;Kabupaten;Buton Tengah;Gu;Bombonawulu;93761
+68434;Sulawesi Tenggara;Kabupaten;Buton Tengah;Gu;Kamama Mekar;93761
+68435;Sulawesi Tenggara;Kabupaten;Buton Tengah;Gu;Kolowa;93761
+68436;Sulawesi Tenggara;Kabupaten;Buton Tengah;Gu;Lakapera;93761
+68437;Sulawesi Tenggara;Kabupaten;Buton Tengah;Gu;Lowu Lowu;93761
+68438;Sulawesi Tenggara;Kabupaten;Buton Tengah;Gu;Rahia;93761
+68439;Sulawesi Tenggara;Kabupaten;Buton Tengah;Gu;Wadiabero;93761
+68440;Sulawesi Tenggara;Kabupaten;Buton Tengah;Gu;Wakea Kea;93761
+68441;Sulawesi Tenggara;Kabupaten;Buton Tengah;Gu;Walando;93761
+68442;Sulawesi Tenggara;Kabupaten;Buton Tengah;Gu;Waliko;93761
+68443;Sulawesi Tenggara;Kabupaten;Buton Tengah;Gu;Watulea;93761
+68444;Sulawesi Tenggara;Kabupaten;Buton Tengah;Lakudo;Boneoge;93763
+68445;Sulawesi Tenggara;Kabupaten;Buton Tengah;Lakudo;Lakudo;93763
+68446;Sulawesi Tenggara;Kabupaten;Buton Tengah;Lakudo;Lolibu;93763
+68447;Sulawesi Tenggara;Kabupaten;Buton Tengah;Lakudo;Madongka;93763
+68448;Sulawesi Tenggara;Kabupaten;Buton Tengah;Lakudo;Matawine;93763
+68449;Sulawesi Tenggara;Kabupaten;Buton Tengah;Lakudo;Metere;93763
+68450;Sulawesi Tenggara;Kabupaten;Buton Tengah;Lakudo;Moko;93763
+68451;Sulawesi Tenggara;Kabupaten;Buton Tengah;Lakudo;Mone;93763
+68452;Sulawesi Tenggara;Kabupaten;Buton Tengah;Lakudo;Nepa Mekar;93763
+68453;Sulawesi Tenggara;Kabupaten;Buton Tengah;Lakudo;One Waara;93763
+68454;Sulawesi Tenggara;Kabupaten;Buton Tengah;Lakudo;Teluk Lasongko;93763
+68455;Sulawesi Tenggara;Kabupaten;Buton Tengah;Lakudo;Wajogu;93763
+68456;Sulawesi Tenggara;Kabupaten;Buton Tengah;Lakudo;Wanepa Nepa;93763
+68457;Sulawesi Tenggara;Kabupaten;Buton Tengah;Lakudo;Wara;93763
+68458;Sulawesi Tenggara;Kabupaten;Buton Tengah;Lakudo;Wongko Lakudo;93763
+68459;Sulawesi Tenggara;Kabupaten;Buton Tengah;Mawasangka;Air Bajo;93762
+68460;Sulawesi Tenggara;Kabupaten;Buton Tengah;Mawasangka;Balobone;93762
+68461;Sulawesi Tenggara;Kabupaten;Buton Tengah;Mawasangka;Banga;93762
+68462;Sulawesi Tenggara;Kabupaten;Buton Tengah;Mawasangka;Dahiango;93762
+68463;Sulawesi Tenggara;Kabupaten;Buton Tengah;Mawasangka;Gumanano;93762
+68464;Sulawesi Tenggara;Kabupaten;Buton Tengah;Mawasangka;Kanapa Napa;93762
+68465;Sulawesi Tenggara;Kabupaten;Buton Tengah;Mawasangka;Kancebungi;93762
+68466;Sulawesi Tenggara;Kabupaten;Buton Tengah;Mawasangka;Matara;93762
+68467;Sulawesi Tenggara;Kabupaten;Buton Tengah;Mawasangka;Mawasangka;93762
+68468;Sulawesi Tenggara;Kabupaten;Buton Tengah;Mawasangka;Napa;93762
+68469;Sulawesi Tenggara;Kabupaten;Buton Tengah;Mawasangka;Oengkolaki;93762
+68470;Sulawesi Tenggara;Kabupaten;Buton Tengah;Mawasangka;Polindu;93762
+68471;Sulawesi Tenggara;Kabupaten;Buton Tengah;Mawasangka;Tanailandu;93762
+68472;Sulawesi Tenggara;Kabupaten;Buton Tengah;Mawasangka;Terapung;93762
+68473;Sulawesi Tenggara;Kabupaten;Buton Tengah;Mawasangka;Wakambangura;93762
+68474;Sulawesi Tenggara;Kabupaten;Buton Tengah;Mawasangka;Wakambangura II;93762
+68475;Sulawesi Tenggara;Kabupaten;Buton Tengah;Mawasangka;Wasilomata I;93762
+68476;Sulawesi Tenggara;Kabupaten;Buton Tengah;Mawasangka;Wasilomata II;93762
+68477;Sulawesi Tenggara;Kabupaten;Buton Tengah;Mawasangka;Watolo;93762
+68478;Sulawesi Tenggara;Kabupaten;Buton Tengah;Mawasangka Tengah;Gundu Gundu;93762
+68479;Sulawesi Tenggara;Kabupaten;Buton Tengah;Mawasangka Tengah;Katukobari;93762
+68480;Sulawesi Tenggara;Kabupaten;Buton Tengah;Mawasangka Tengah;Lakorua;93762
+68481;Sulawesi Tenggara;Kabupaten;Buton Tengah;Mawasangka Tengah;Lalibo;93762
+68482;Sulawesi Tenggara;Kabupaten;Buton Tengah;Mawasangka Tengah;Langkomu;93762
+68483;Sulawesi Tenggara;Kabupaten;Buton Tengah;Mawasangka Tengah;Lanto;93762
+68484;Sulawesi Tenggara;Kabupaten;Buton Tengah;Mawasangka Tengah;Lantongau;93762
+68485;Sulawesi Tenggara;Kabupaten;Buton Tengah;Mawasangka Tengah;Morikana;93762
+68486;Sulawesi Tenggara;Kabupaten;Buton Tengah;Mawasangka Tengah;Watorambe;93762
+68487;Sulawesi Tenggara;Kabupaten;Buton Tengah;Mawasangka Tengah;Watorambe Bata;93762
+68488;Sulawesi Tenggara;Kabupaten;Buton Tengah;Mawasangka Timur;Batubanawa;93762
+68489;Sulawesi Tenggara;Kabupaten;Buton Tengah;Mawasangka Timur;Bonemarambe;93762
+68490;Sulawesi Tenggara;Kabupaten;Buton Tengah;Mawasangka Timur;Bungi;93762
+68491;Sulawesi Tenggara;Kabupaten;Buton Tengah;Mawasangka Timur;Inulu;93762
+68492;Sulawesi Tenggara;Kabupaten;Buton Tengah;Mawasangka Timur;Lagili;93762
+68493;Sulawesi Tenggara;Kabupaten;Buton Tengah;Mawasangka Timur;Lasori;93762
+68494;Sulawesi Tenggara;Kabupaten;Buton Tengah;Mawasangka Timur;Wambuloli;93762
+68495;Sulawesi Tenggara;Kabupaten;Buton Tengah;Mawasangka Timur;Wantopi;93762
+68496;Sulawesi Tenggara;Kabupaten;Buton Tengah;Sangia Wambulu;Baruta;93761
+68497;Sulawesi Tenggara;Kabupaten;Buton Tengah;Sangia Wambulu;Baruta Analaki;93761
+68498;Sulawesi Tenggara;Kabupaten;Buton Tengah;Sangia Wambulu;Baruta Lestari;93761
+68499;Sulawesi Tenggara;Kabupaten;Buton Tengah;Sangia Wambulu;Doda Bahari;93761
+68500;Sulawesi Tenggara;Kabupaten;Buton Tengah;Sangia Wambulu;Tolandona;93761
+68501;Sulawesi Tenggara;Kabupaten;Buton Tengah;Sangia Wambulu;Tolandona Matanaeo;93761

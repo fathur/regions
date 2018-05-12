@@ -1,0 +1,501 @@
+No;Province;City/Kab;City/Kab Name;Kec/subDistrict;Kelurahan/village;Postal Code
+8000;Jawa Barat;Kabupaten;Indramayu;Sindang;Panyindangan Wetan;45225
+8001;Jawa Barat;Kabupaten;Majalengka;Sindang;Pasirayu;45471
+8002;Jawa Barat;Kabupaten;Indramayu;Sindang;Penganjang;45221
+8003;Jawa Barat;Kabupaten;Indramayu;Sindang;Rambatan Wetan;45221
+8004;Jawa Barat;Kabupaten;Majalengka;Sindang;Sangkanhurip;45471
+8005;Jawa Barat;Kabupaten;Majalengka;Sindang;Sindang;45471
+8006;Jawa Barat;Kabupaten;Indramayu;Sindang;Sindang;45222
+8007;Jawa Barat;Kabupaten;Indramayu;Sindang;Terusan;45224
+8008;Jawa Barat;Kabupaten;Indramayu;Sindang;Wanantara;45227
+8009;Jawa Barat;Kabupaten;Sukabumi;Simpenan;Cibuntu;43361
+8010;Jawa Barat;Kabupaten;Sukabumi;Simpenan;Cidadap;43361
+8011;Jawa Barat;Kabupaten;Sukabumi;Simpenan;Cihaur;43361
+8012;Jawa Barat;Kabupaten;Sukabumi;Simpenan;Kertajaya;43361
+8013;Jawa Barat;Kabupaten;Sukabumi;Simpenan;Loji;43361
+8014;Jawa Barat;Kabupaten;Sukabumi;Simpenan;Mekarasih;43361
+8015;Jawa Barat;Kabupaten;Sukabumi;Simpenan;Sangrawayang;43361
+8016;Jawa Barat;Kabupaten;Pangandaran;Sidamulih;Cikalong;46365
+8017;Jawa Barat;Kabupaten;Pangandaran;Sidamulih;Cikembulan;46365
+8018;Jawa Barat;Kabupaten;Pangandaran;Sidamulih;Kalijati;46365
+8019;Jawa Barat;Kabupaten;Pangandaran;Sidamulih;Kersaratu;46365
+8020;Jawa Barat;Kabupaten;Pangandaran;Sidamulih;Pajaten;46365
+8021;Jawa Barat;Kabupaten;Pangandaran;Sidamulih;Sidamulih;46365
+8022;Jawa Barat;Kabupaten;Pangandaran;Sidamulih;Sukaresik;46365
+8023;Jawa Barat;Kabupaten;Bekasi;Setu;Burangkeng;17320
+8024;Jawa Barat;Kabupaten;Bekasi;Setu;Cibening;17320
+8025;Jawa Barat;Kabupaten;Bekasi;Setu;Cijengkol;17320
+8026;Jawa Barat;Kabupaten;Bekasi;Setu;Cikarageman;17320
+8027;Jawa Barat;Kabupaten;Bekasi;Setu;Cileduk;17320
+8028;Jawa Barat;Kabupaten;Bekasi;Setu;Kertarahayu;17320
+8029;Jawa Barat;Kabupaten;Bekasi;Setu;Lubangbuaya;17320
+8030;Jawa Barat;Kabupaten;Bekasi;Setu;Muktijaya;17320
+8031;Jawa Barat;Kabupaten;Bekasi;Setu;Ragemanunggal;17320
+8032;Jawa Barat;Kabupaten;Bekasi;Setu;Taman Rahayu;17320
+8033;Jawa Barat;Kabupaten;Bekasi;Setu;Taman Sari;17320
+8034;Jawa Barat;Kabupaten;Subang;Serangpanjang;Cijengkol;41282
+8035;Jawa Barat;Kabupaten;Subang;Serangpanjang;Cikujang;41282
+8036;Jawa Barat;Kabupaten;Subang;Serangpanjang;Cintamekar;41282
+8037;Jawa Barat;Kabupaten;Subang;Serangpanjang;Cipancar;41282
+8038;Jawa Barat;Kabupaten;Subang;Serangpanjang;Ponggang;41282
+8039;Jawa Barat;Kabupaten;Subang;Serangpanjang;Talagasari;41282
+8040;Jawa Barat;Kabupaten;Bekasi;Serang Baru;Cilangkara;17330
+8041;Jawa Barat;Kabupaten;Bekasi;Serang Baru;Jaya Sampurna;17330
+8042;Jawa Barat;Kabupaten;Bekasi;Serang Baru;Jayamulya;17330
+8043;Jawa Barat;Kabupaten;Bekasi;Serang Baru;Nagacipta;17330
+8044;Jawa Barat;Kabupaten;Bekasi;Serang Baru;Nagasari;17330
+8045;Jawa Barat;Kabupaten;Bekasi;Serang Baru;Sirnajaya;17330
+8046;Jawa Barat;Kabupaten;Bekasi;Serang Baru;Sukaragam;17330
+8047;Jawa Barat;Kabupaten;Bekasi;Serang Baru;Sukasari;17330
+8048;Jawa Barat;Kabupaten;Kuningan;Selajambe;Bagawat;45566
+8049;Jawa Barat;Kabupaten;Kuningan;Selajambe;Cantilan;45566
+8050;Jawa Barat;Kabupaten;Kuningan;Selajambe;Ciberung;45566
+8051;Jawa Barat;Kabupaten;Kuningan;Selajambe;Jamberama;45566
+8052;Jawa Barat;Kabupaten;Kuningan;Selajambe;Kutawaringin;45566
+8053;Jawa Barat;Kabupaten;Kuningan;Selajambe;Padahurip;45566
+8054;Jawa Barat;Kabupaten;Kuningan;Selajambe;Selajambe;45566
+8055;Jawa Barat;Kabupaten;Garut;Selaawi;Cigawir;44187
+8056;Jawa Barat;Kabupaten;Garut;Selaawi;Cirapuhan;44187
+8057;Jawa Barat;Kabupaten;Garut;Selaawi;Mekarsari;44187
+8058;Jawa Barat;Kabupaten;Garut;Selaawi;Pelita Asih;44187
+8059;Jawa Barat;Kabupaten;Garut;Selaawi;Putrajawa;44187
+8060;Jawa Barat;Kabupaten;Garut;Selaawi;Samida;44187
+8061;Jawa Barat;Kabupaten;Garut;Selaawi;Selaawi;44187
+8062;Jawa Barat;Kabupaten;Cirebon;Sedong;Karangwuni;45189
+8063;Jawa Barat;Kabupaten;Cirebon;Sedong;Kertawangun;45189
+8064;Jawa Barat;Kabupaten;Cirebon;Sedong;Panambangan;45189
+8065;Jawa Barat;Kabupaten;Cirebon;Sedong;Panongan;45189
+8066;Jawa Barat;Kabupaten;Cirebon;Sedong;Panongan Lor;45189
+8067;Jawa Barat;Kabupaten;Cirebon;Sedong;Putat;45189
+8068;Jawa Barat;Kabupaten;Cirebon;Sedong;Sedong Kidul;45189
+8069;Jawa Barat;Kabupaten;Cirebon;Sedong;Sedong Lor;45189
+8070;Jawa Barat;Kabupaten;Cirebon;Sedong;Winduhaji;45189
+8071;Jawa Barat;Kabupaten;Cirebon;Sedong;Windujaya;45189
+8072;Jawa Barat;Kota;Depok;Sawangan;Bedahan;16519
+8073;Jawa Barat;Kota;Depok;Sawangan;Cinangka;16516
+8074;Jawa Barat;Kota;Depok;Sawangan;Kedaung;16516
+8075;Jawa Barat;Kota;Depok;Sawangan;Pasir Putih;16519
+8076;Jawa Barat;Kota;Depok;Sawangan;Pengasihan;16518
+8077;Jawa Barat;Kota;Depok;Sawangan;Sawangan (Lama);16511
+8078;Jawa Barat;Kota;Depok;Sawangan;Sawangan Baru;16511
+8079;Jawa Barat;Kabupaten;Tasikmalaya;Sariwangi;Jayaputra;46465
+8080;Jawa Barat;Kabupaten;Tasikmalaya;Sariwangi;Jayaratu;46465
+8081;Jawa Barat;Kabupaten;Tasikmalaya;Sariwangi;Linggasirna;46465
+8082;Jawa Barat;Kabupaten;Tasikmalaya;Sariwangi;Sariwangi;46465
+8083;Jawa Barat;Kabupaten;Tasikmalaya;Sariwangi;Selawangi;46465
+8084;Jawa Barat;Kabupaten;Tasikmalaya;Sariwangi;Sirnasari;46465
+8085;Jawa Barat;Kabupaten;Tasikmalaya;Sariwangi;Sukaharja (Sukaraharja);46465
+8086;Jawa Barat;Kabupaten;Tasikmalaya;Sariwangi;Sukamulih;46465
+8087;Jawa Barat;Kabupaten;Garut;Samarang;Cintaasih;44161
+8088;Jawa Barat;Kabupaten;Garut;Samarang;Cintakarya;44161
+8089;Jawa Barat;Kabupaten;Garut;Samarang;Cintarasa;44161
+8090;Jawa Barat;Kabupaten;Garut;Samarang;Cintarayat;44161
+8091;Jawa Barat;Kabupaten;Garut;Samarang;Cisarua;44161
+8092;Jawa Barat;Kabupaten;Garut;Samarang;Parakan;44161
+8093;Jawa Barat;Kabupaten;Garut;Samarang;Samarang;44161
+8094;Jawa Barat;Kabupaten;Garut;Samarang;Sirnasari;44161
+8095;Jawa Barat;Kabupaten;Garut;Samarang;Sukakarya;44161
+8096;Jawa Barat;Kabupaten;Garut;Samarang;Sukalaksana;44161
+8097;Jawa Barat;Kabupaten;Garut;Samarang;Sukarasa;44161
+8098;Jawa Barat;Kabupaten;Garut;Samarang;Tanjung Karya;44161
+8099;Jawa Barat;Kabupaten;Garut;Samarang;Tanjunganom;44161
+8100;Jawa Barat;Kabupaten;Tasikmalaya;Salopa;Banjarwaringin;46192
+8101;Jawa Barat;Kabupaten;Tasikmalaya;Salopa;Karyamandala;46192
+8102;Jawa Barat;Kabupaten;Tasikmalaya;Salopa;Karyawangi;46192
+8103;Jawa Barat;Kabupaten;Tasikmalaya;Salopa;Kawitan;46192
+8104;Jawa Barat;Kabupaten;Tasikmalaya;Salopa;Mandalaguna;46192
+8105;Jawa Barat;Kabupaten;Tasikmalaya;Salopa;Mandalahayu;46192
+8106;Jawa Barat;Kabupaten;Tasikmalaya;Salopa;Mandalawangi;46192
+8107;Jawa Barat;Kabupaten;Tasikmalaya;Salopa;Mulyasari;46192
+8108;Jawa Barat;Kabupaten;Tasikmalaya;Salopa;Tanjungsari;46192
+8109;Jawa Barat;Kabupaten;Tasikmalaya;Salawu;Jahiang;46471
+8110;Jawa Barat;Kabupaten;Tasikmalaya;Salawu;Karangmukti;46471
+8111;Jawa Barat;Kabupaten;Tasikmalaya;Salawu;Kawungsari;46471
+8112;Jawa Barat;Kabupaten;Tasikmalaya;Salawu;Kutawaringin;46471
+8113;Jawa Barat;Kabupaten;Tasikmalaya;Salawu;Margalaksana;46471
+8114;Jawa Barat;Kabupaten;Tasikmalaya;Salawu;Neglasari;46471
+8115;Jawa Barat;Kabupaten;Tasikmalaya;Salawu;Salawu;46471
+8116;Jawa Barat;Kabupaten;Tasikmalaya;Salawu;Serang;46471
+8117;Jawa Barat;Kabupaten;Tasikmalaya;Salawu;Sukarasa;46471
+8118;Jawa Barat;Kabupaten;Tasikmalaya;Salawu;Sundawenang;46471
+8119;Jawa Barat;Kabupaten;Tasikmalaya;Salawu;Tanjungsari;46471
+8120;Jawa Barat;Kabupaten;Tasikmalaya;Salawu;Tenjowaringin;46471
+8121;Jawa Barat;Kabupaten;Bandung Barat;Saguling;Bojonghaleuang;40561
+8122;Jawa Barat;Kabupaten;Bandung Barat;Saguling;Cikande;40561
+8123;Jawa Barat;Kabupaten;Bandung Barat;Saguling;Cipangeran;40561
+8124;Jawa Barat;Kabupaten;Bandung Barat;Saguling;Girimukti;40561
+8125;Jawa Barat;Kabupaten;Bandung Barat;Saguling;Jati;40561
+8126;Jawa Barat;Kabupaten;Bandung Barat;Saguling;Saguling;40561
+8127;Jawa Barat;Kabupaten;Sukabumi;Sagaranten;Cibaregbeg;43181
+8128;Jawa Barat;Kabupaten;Sukabumi;Sagaranten;Cibitung;43181
+8129;Jawa Barat;Kabupaten;Sukabumi;Sagaranten;Curugluhur;43181
+8130;Jawa Barat;Kabupaten;Sukabumi;Sagaranten;Datarnangka;43181
+8131;Jawa Barat;Kabupaten;Sukabumi;Sagaranten;Gunung Bentang;43181
+8132;Jawa Barat;Kabupaten;Sukabumi;Sagaranten;Hegarmanah;43181
+8133;Jawa Barat;Kabupaten;Sukabumi;Sagaranten;Margaluyu;43181
+8134;Jawa Barat;Kabupaten;Sukabumi;Sagaranten;Mekarsari;43181
+8135;Jawa Barat;Kabupaten;Sukabumi;Sagaranten;Pasanggrahan;43181
+8136;Jawa Barat;Kabupaten;Sukabumi;Sagaranten;Puncakmanggis;43181
+8137;Jawa Barat;Kabupaten;Sukabumi;Sagaranten;Sagaranten;43181
+8138;Jawa Barat;Kabupaten;Sukabumi;Sagaranten;Sinar Bentang;43181
+8139;Jawa Barat;Kabupaten;Subang;Sagalaherang;Cicadas;41282
+8140;Jawa Barat;Kabupaten;Subang;Sagalaherang;Curugagung;41282
+8141;Jawa Barat;Kabupaten;Subang;Sagalaherang;Dayeuhkolot;41282
+8142;Jawa Barat;Kabupaten;Subang;Sagalaherang;Leles;41282
+8143;Jawa Barat;Kabupaten;Subang;Sagalaherang;Sagalaherang;41282
+8144;Jawa Barat;Kabupaten;Subang;Sagalaherang;Sagalaherang Kaler;41282
+8145;Jawa Barat;Kabupaten;Subang;Sagalaherang;Sukamandi;41282
+8146;Jawa Barat;Kabupaten;Ciamis;Sadananya;Bendasari;46256
+8147;Jawa Barat;Kabupaten;Ciamis;Sadananya;Gunungsari;46256
+8148;Jawa Barat;Kabupaten;Ciamis;Sadananya;Mangkubumi;46256
+8149;Jawa Barat;Kabupaten;Ciamis;Sadananya;Mekarjadi;46256
+8150;Jawa Barat;Kabupaten;Ciamis;Sadananya;Sadananya;46256
+8151;Jawa Barat;Kabupaten;Ciamis;Sadananya;Sukajadi;46256
+8152;Jawa Barat;Kabupaten;Ciamis;Sadananya;Tanjungsari;46256
+8153;Jawa Barat;Kabupaten;Ciamis;Sadananya;Werasari;46256
+8154;Jawa Barat;Kabupaten;Bogor;Rumpin;Cibodas;16350
+8155;Jawa Barat;Kabupaten;Bogor;Rumpin;Cidokom;16350
+8156;Jawa Barat;Kabupaten;Bogor;Rumpin;Cipinang;16350
+8157;Jawa Barat;Kabupaten;Bogor;Rumpin;Gobang;16350
+8158;Jawa Barat;Kabupaten;Bogor;Rumpin;Kampung Sawah;16350
+8159;Jawa Barat;Kabupaten;Bogor;Rumpin;Kerta Jaya;16350
+8160;Jawa Barat;Kabupaten;Bogor;Rumpin;Leuwibatu;16350
+8161;Jawa Barat;Kabupaten;Bogor;Rumpin;Mekar Sari;16350
+8162;Jawa Barat;Kabupaten;Bogor;Rumpin;Mekarjaya;16350
+8163;Jawa Barat;Kabupaten;Bogor;Rumpin;Rabak;16350
+8164;Jawa Barat;Kabupaten;Bogor;Rumpin;Rumpin;16350
+8165;Jawa Barat;Kabupaten;Bogor;Rumpin;Sukamulya;16350
+8166;Jawa Barat;Kabupaten;Bogor;Rumpin;Sukasari;16350
+8167;Jawa Barat;Kabupaten;Bogor;Rumpin;Taman Sari;16350
+8168;Jawa Barat;Kabupaten;Bandung Barat;Rongga;Bojong;40566
+8169;Jawa Barat;Kabupaten;Bandung Barat;Rongga;Bojongsalam;40566
+8170;Jawa Barat;Kabupaten;Bandung Barat;Rongga;Cibedug;40566
+8171;Jawa Barat;Kabupaten;Bandung Barat;Rongga;Cibitung;40566
+8172;Jawa Barat;Kabupaten;Bandung Barat;Rongga;Cicadas;40566
+8173;Jawa Barat;Kabupaten;Bandung Barat;Rongga;Cinengah;40566
+8174;Jawa Barat;Kabupaten;Bandung Barat;Rongga;Sukamanah;40566
+8175;Jawa Barat;Kabupaten;Bandung Barat;Rongga;Sukaresmi;40566
+8176;Jawa Barat;Kabupaten;Karawang;Rengasdengklok;Amansari;41352
+8177;Jawa Barat;Kabupaten;Karawang;Rengasdengklok;Dewisari;41352
+8178;Jawa Barat;Kabupaten;Karawang;Rengasdengklok;Dukuhkarya;41352
+8179;Jawa Barat;Kabupaten;Karawang;Rengasdengklok;Kalangsari;41352
+8180;Jawa Barat;Kabupaten;Karawang;Rengasdengklok;Kalangsuria;41352
+8181;Jawa Barat;Kabupaten;Karawang;Rengasdengklok;Karyasari;41352
+8182;Jawa Barat;Kabupaten;Karawang;Rengasdengklok;Kertasari;41352
+8183;Jawa Barat;Kabupaten;Karawang;Rengasdengklok;Rengasdengklok Selatan;41352
+8184;Jawa Barat;Kabupaten;Karawang;Rengasdengklok;Rengasdengklok Utara;41352
+8185;Jawa Barat;Kota;Bandung;Regol;Ancol;40254
+8186;Jawa Barat;Kota;Bandung;Regol;Balong Gede;40251
+8187;Jawa Barat;Kota;Bandung;Regol;Ciateul;40252
+8188;Jawa Barat;Kota;Bandung;Regol;Cigereleng;40253
+8189;Jawa Barat;Kota;Bandung;Regol;Ciseureuh;40255
+8190;Jawa Barat;Kota;Bandung;Regol;Pasirluyu;40254
+8191;Jawa Barat;Kota;Bandung;Regol;Pungkur;40252
+8192;Jawa Barat;Kabupaten;Karawang;Rawamerta;Balongsari;41382
+8193;Jawa Barat;Kabupaten;Karawang;Rawamerta;Cibadak;41382
+8194;Jawa Barat;Kabupaten;Karawang;Rawamerta;Gombongsari;41382
+8195;Jawa Barat;Kabupaten;Karawang;Rawamerta;Kutawargi;41382
+8196;Jawa Barat;Kabupaten;Karawang;Rawamerta;Mekarjaya;41382
+8197;Jawa Barat;Kabupaten;Karawang;Rawamerta;Panyingkiran;41382
+8198;Jawa Barat;Kabupaten;Karawang;Rawamerta;Pasirawi;41382
+8199;Jawa Barat;Kabupaten;Karawang;Rawamerta;Pasirkaliki;41382
+8200;Jawa Barat;Kabupaten;Karawang;Rawamerta;Purwamekar;41382
+8201;Jawa Barat;Kabupaten;Karawang;Rawamerta;Sekarwangi;41382
+8202;Jawa Barat;Kabupaten;Karawang;Rawamerta;Sukamerta;41382
+8203;Jawa Barat;Kabupaten;Karawang;Rawamerta;Sukapura;41382
+8204;Jawa Barat;Kabupaten;Karawang;Rawamerta;Sukaraja;41382
+8205;Jawa Barat;Kota;Bekasi;Rawalumbu;Bojong Menteng;17117
+8206;Jawa Barat;Kota;Bekasi;Rawalumbu;Bojong Rawalumbu;17116
+8207;Jawa Barat;Kota;Bekasi;Rawalumbu;Pengasinan;17115
+8208;Jawa Barat;Kota;Bekasi;Rawalumbu;Sepanjang Jaya;17114
+8209;Jawa Barat;Kota;Bandung;Rancasari;Cipamokolan;40292
+8210;Jawa Barat;Kota;Bandung;Rancasari;Darwati;40292
+8211;Jawa Barat;Kota;Bandung;Rancasari;Manjahlega (Cisarantenkidul);40295
+8212;Jawa Barat;Kota;Bandung;Rancasari;Mekar Mulya (Mekarjaya);40292
+8213;Jawa Barat;Kabupaten;Sumedang;Rancakalong;Cibunar;45361
+8214;Jawa Barat;Kabupaten;Sumedang;Rancakalong;Cibungur;45361
+8215;Jawa Barat;Kabupaten;Sumedang;Rancakalong;Nagarawangi;45361
+8216;Jawa Barat;Kabupaten;Sumedang;Rancakalong;Pamekaran;45361
+8217;Jawa Barat;Kabupaten;Sumedang;Rancakalong;Pangadegan;45361
+8218;Jawa Barat;Kabupaten;Sumedang;Rancakalong;Pasir Biru;45361
+8219;Jawa Barat;Kabupaten;Sumedang;Rancakalong;Rancakalong;45361
+8220;Jawa Barat;Kabupaten;Sumedang;Rancakalong;Sukahayu;45361
+8221;Jawa Barat;Kabupaten;Sumedang;Rancakalong;Sukamaju;45361
+8222;Jawa Barat;Kabupaten;Sumedang;Rancakalong;Sukasirnarasa;45361
+8223;Jawa Barat;Kabupaten;Ciamis;Rancah;Bojonggedang;46387
+8224;Jawa Barat;Kabupaten;Ciamis;Rancah;Cileungsir;46387
+8225;Jawa Barat;Kabupaten;Ciamis;Rancah;Cisontrol;46387
+8226;Jawa Barat;Kabupaten;Ciamis;Rancah;Dadiharja;46387
+8227;Jawa Barat;Kabupaten;Ciamis;Rancah;Giriharja;46387
+8228;Jawa Barat;Kabupaten;Ciamis;Rancah;Jangalaharja;46387
+8229;Jawa Barat;Kabupaten;Ciamis;Rancah;Karangpari;46387
+8230;Jawa Barat;Kabupaten;Ciamis;Rancah;Kawunglarang;46387
+8231;Jawa Barat;Kabupaten;Ciamis;Rancah;Kiarapayung;46387
+8232;Jawa Barat;Kabupaten;Ciamis;Rancah;Patakaharja;46387
+8233;Jawa Barat;Kabupaten;Ciamis;Rancah;Rancah;46387
+8234;Jawa Barat;Kabupaten;Ciamis;Rancah;Situmandala;46387
+8235;Jawa Barat;Kabupaten;Ciamis;Rancah;Wangunsari;46387
+8236;Jawa Barat;Kabupaten;Bandung;Rancaekek;Bojongloa;40394
+8237;Jawa Barat;Kabupaten;Bandung;Rancaekek;Bojongsalam;40394
+8238;Jawa Barat;Kabupaten;Bandung;Rancaekek;Cangkuang;40394
+8239;Jawa Barat;Kabupaten;Bandung;Rancaekek;Haurpugur;40394
+8240;Jawa Barat;Kabupaten;Bandung;Rancaekek;Jelegong;40394
+8241;Jawa Barat;Kabupaten;Bandung;Rancaekek;Linggar;40394
+8242;Jawa Barat;Kabupaten;Bandung;Rancaekek;Nanjungmekar;40394
+8243;Jawa Barat;Kabupaten;Bandung;Rancaekek;Rancaekek Kencana;40394
+8244;Jawa Barat;Kabupaten;Bandung;Rancaekek;Rancaekek Kulon;40394
+8245;Jawa Barat;Kabupaten;Bandung;Rancaekek;Rancaekek Wetan;40394
+8246;Jawa Barat;Kabupaten;Bandung;Rancaekek;Sangiang;40394
+8247;Jawa Barat;Kabupaten;Bandung;Rancaekek;Sukamanah;40394
+8248;Jawa Barat;Kabupaten;Bandung;Rancaekek;Sukamulya;40394
+8249;Jawa Barat;Kabupaten;Bandung;Rancaekek;Tegal Sumedang;40394
+8250;Jawa Barat;Kabupaten;Bogor;Ranca Bungur;Bantarjaya;16310
+8251;Jawa Barat;Kabupaten;Bogor;Ranca Bungur;Bantarsari;16310
+8252;Jawa Barat;Kabupaten;Bogor;Ranca Bungur;Candali;16310
+8253;Jawa Barat;Kabupaten;Bogor;Ranca Bungur;Cimulang;16310
+8254;Jawa Barat;Kabupaten;Bogor;Ranca Bungur;Mekarsari;16310
+8255;Jawa Barat;Kabupaten;Bogor;Ranca Bungur;Pasirgaok;16310
+8256;Jawa Barat;Kabupaten;Bogor;Ranca Bungur;Rancabungur;16310
+8257;Jawa Barat;Kabupaten;Bandung;Ranca Bali;Alamendah;40973
+8258;Jawa Barat;Kabupaten;Bandung;Ranca Bali;Cipelah;40973
+8259;Jawa Barat;Kabupaten;Bandung;Ranca Bali;Indragiri;40973
+8260;Jawa Barat;Kabupaten;Bandung;Ranca Bali;Patengan;40973
+8261;Jawa Barat;Kabupaten;Bandung;Ranca Bali;Sukaresmi;40973
+8262;Jawa Barat;Kabupaten;Tasikmalaya;Rajapolah;Dawagung;46155
+8263;Jawa Barat;Kabupaten;Tasikmalaya;Rajapolah;Manggungjaya;46155
+8264;Jawa Barat;Kabupaten;Tasikmalaya;Rajapolah;Manggungsari;46155
+8265;Jawa Barat;Kabupaten;Tasikmalaya;Rajapolah;Rajamandala;46155
+8266;Jawa Barat;Kabupaten;Tasikmalaya;Rajapolah;Rajapolah;46155
+8267;Jawa Barat;Kabupaten;Tasikmalaya;Rajapolah;Sukanagalih;46155
+8268;Jawa Barat;Kabupaten;Tasikmalaya;Rajapolah;Sukaraja;46183
+8269;Jawa Barat;Kabupaten;Tasikmalaya;Rajapolah;Tanjungpura;46155
+8270;Jawa Barat;Kabupaten;Majalengka;Rajagaluh;Babakankareo;45472
+8271;Jawa Barat;Kabupaten;Majalengka;Rajagaluh;Cipinang;45472
+8272;Jawa Barat;Kabupaten;Majalengka;Rajagaluh;Cisetu;45472
+8273;Jawa Barat;Kabupaten;Majalengka;Rajagaluh;Kumbung;45472
+8274;Jawa Barat;Kabupaten;Majalengka;Rajagaluh;Pajajar;45472
+8275;Jawa Barat;Kabupaten;Majalengka;Rajagaluh;Payung;45472
+8276;Jawa Barat;Kabupaten;Majalengka;Rajagaluh;Rajagaluh;45472
+8277;Jawa Barat;Kabupaten;Majalengka;Rajagaluh;Rajagaluh Kidul;45472
+8278;Jawa Barat;Kabupaten;Majalengka;Rajagaluh;Rajagaluh Lor;45472
+8279;Jawa Barat;Kabupaten;Majalengka;Rajagaluh;Sadomas;45472
+8280;Jawa Barat;Kabupaten;Majalengka;Rajagaluh;Sindangpano;45472
+8281;Jawa Barat;Kabupaten;Majalengka;Rajagaluh;Singawada;45472
+8282;Jawa Barat;Kabupaten;Majalengka;Rajagaluh;Teja;45472
+8283;Jawa Barat;Kabupaten;Ciamis;Rajadesa;Andapraja;46254
+8284;Jawa Barat;Kabupaten;Ciamis;Rajadesa;Purwaraja;46254
+8285;Jawa Barat;Kabupaten;Ciamis;Rajadesa;Rajadesa;46254
+8286;Jawa Barat;Kabupaten;Ciamis;Rajadesa;Sirnabaya;46254
+8287;Jawa Barat;Kabupaten;Ciamis;Rajadesa;Sirnajaya;46254
+8288;Jawa Barat;Kabupaten;Ciamis;Rajadesa;Sukaharja;46254
+8289;Jawa Barat;Kabupaten;Ciamis;Rajadesa;Sukajaya;46254
+8290;Jawa Barat;Kabupaten;Ciamis;Rajadesa;Tanjungjaya;46254
+8291;Jawa Barat;Kabupaten;Ciamis;Rajadesa;Tanjungsari;46254
+8292;Jawa Barat;Kabupaten;Ciamis;Rajadesa;Tanjungsukur;46254
+8293;Jawa Barat;Kabupaten;Ciamis;Rajadesa;Tigaherang;46254
+8294;Jawa Barat;Kabupaten;Tasikmalaya;Puspahiang;Cimanggu;46471
+8295;Jawa Barat;Kabupaten;Tasikmalaya;Puspahiang;Luyubakti;46471
+8296;Jawa Barat;Kabupaten;Tasikmalaya;Puspahiang;Mandalasari;46471
+8297;Jawa Barat;Kabupaten;Tasikmalaya;Puspahiang;Puspahiang;46471
+8298;Jawa Barat;Kabupaten;Tasikmalaya;Puspahiang;Puspajaya;46471
+8299;Jawa Barat;Kabupaten;Tasikmalaya;Puspahiang;Pusparahayu;46471
+8300;Jawa Barat;Kabupaten;Tasikmalaya;Puspahiang;Puspasari;46471
+8301;Jawa Barat;Kabupaten;Tasikmalaya;Puspahiang;Sukasari;46471
+8302;Jawa Barat;Kabupaten;Subang;Pusakanagara;Gempol;41255
+8303;Jawa Barat;Kabupaten;Subang;Pusakanagara;Kalentambo;41255
+8304;Jawa Barat;Kabupaten;Subang;Pusakanagara;Kotasari;41255
+8305;Jawa Barat;Kabupaten;Subang;Pusakanagara;Mundusari;41255
+8306;Jawa Barat;Kabupaten;Subang;Pusakanagara;Patimban;41255
+8307;Jawa Barat;Kabupaten;Subang;Pusakanagara;Pusakaratu;41255
+8308;Jawa Barat;Kabupaten;Subang;Pusakanagara;Rancadaka;41255
+8309;Jawa Barat;Kabupaten;Subang;Pusakajaya;Bojong Jaya;41255
+8310;Jawa Barat;Kabupaten;Subang;Pusakajaya;Bojongtengah;41255
+8311;Jawa Barat;Kabupaten;Subang;Pusakajaya;Cigugur;41255
+8312;Jawa Barat;Kabupaten;Subang;Pusakajaya;Cigugur Kaler;41255
+8313;Jawa Barat;Kabupaten;Subang;Pusakajaya;Karanganyar;41255
+8314;Jawa Barat;Kabupaten;Subang;Pusakajaya;Kebondanas;41255
+8315;Jawa Barat;Kabupaten;Subang;Pusakajaya;Pusakajaya;41255
+8316;Jawa Barat;Kabupaten;Subang;Pusakajaya;Rangdu;41255
+8317;Jawa Barat;Kabupaten;Karawang;Purwasari;Cengkong;41373
+8318;Jawa Barat;Kabupaten;Karawang;Purwasari;Darawolong;41371
+8319;Jawa Barat;Kabupaten;Karawang;Purwasari;Karangsari;41373
+8320;Jawa Barat;Kabupaten;Karawang;Purwasari;Mekarjaya;41373
+8321;Jawa Barat;Kabupaten;Karawang;Purwasari;Purwasari;41373
+8322;Jawa Barat;Kabupaten;Karawang;Purwasari;Sukasari;41373
+8323;Jawa Barat;Kabupaten;Karawang;Purwasari;Tamelang;41373
+8324;Jawa Barat;Kabupaten;Karawang;Purwasari;Tegalsari;41373
+8325;Jawa Barat;Kabupaten;Purwakarta;Purwakarta;Cipaisan;41113
+8326;Jawa Barat;Kabupaten;Purwakarta;Purwakarta;Ciseureuh;41118
+8327;Jawa Barat;Kabupaten;Purwakarta;Purwakarta;Citalang;41111
+8328;Jawa Barat;Kabupaten;Purwakarta;Purwakarta;Munjuljaya;41117
+8329;Jawa Barat;Kabupaten;Purwakarta;Purwakarta;Nagrikaler;41115
+8330;Jawa Barat;Kabupaten;Purwakarta;Purwakarta;Nagrikidul;41111
+8331;Jawa Barat;Kabupaten;Purwakarta;Purwakarta;Nagritengah;41114
+8332;Jawa Barat;Kabupaten;Purwakarta;Purwakarta;Purwamekar;41119
+8333;Jawa Barat;Kabupaten;Purwakarta;Purwakarta;Sindangkasih;41112
+8334;Jawa Barat;Kabupaten;Purwakarta;Purwakarta;Tegalmunjul;41116
+8335;Jawa Barat;Kota;Banjar;Purwaharja;Karangpanimbal;46332
+8336;Jawa Barat;Kota;Banjar;Purwaharja;Mekarharja;46334
+8337;Jawa Barat;Kota;Banjar;Purwaharja;Purwaharja;46331
+8338;Jawa Barat;Kota;Banjar;Purwaharja;Raharja;46333
+8339;Jawa Barat;Kabupaten;Ciamis;Purwadadi;Bantardawa;46385
+8340;Jawa Barat;Kabupaten;Subang;Purwadadi;Belendung (Blendung);41261
+8341;Jawa Barat;Kabupaten;Ciamis;Purwadadi;Karangpaningal;46385
+8342;Jawa Barat;Kabupaten;Subang;Purwadadi;Koranji;41261
+8343;Jawa Barat;Kabupaten;Ciamis;Purwadadi;Kutawaringin;46385
+8344;Jawa Barat;Kabupaten;Ciamis;Purwadadi;Padaringan;46385
+8345;Jawa Barat;Kabupaten;Subang;Purwadadi;Pagon;41261
+8346;Jawa Barat;Kabupaten;Subang;Purwadadi;Panyingkiran;41261
+8347;Jawa Barat;Kabupaten;Subang;Purwadadi;Parapatan;41261
+8348;Jawa Barat;Kabupaten;Subang;Purwadadi;Pasirbungur;41261
+8349;Jawa Barat;Kabupaten;Ciamis;Purwadadi;Pasirlawang;46385
+8350;Jawa Barat;Kabupaten;Ciamis;Purwadadi;Purwadadi;46385
+8351;Jawa Barat;Kabupaten;Subang;Purwadadi;Purwadadi Barat;41261
+8352;Jawa Barat;Kabupaten;Subang;Purwadadi;Purwadadi Timur;41261
+8353;Jawa Barat;Kabupaten;Ciamis;Purwadadi;Purwajaya;46385
+8354;Jawa Barat;Kabupaten;Subang;Purwadadi;Rancamahi;41261
+8355;Jawa Barat;Kabupaten;Ciamis;Purwadadi;Sidarahayu;46385
+8356;Jawa Barat;Kabupaten;Ciamis;Purwadadi;Sukamulya;46385
+8357;Jawa Barat;Kabupaten;Subang;Purwadadi;Wanakerta;41261
+8358;Jawa Barat;Kota;Tasikmalaya;Purbaratu;Purbaratu;46196
+8359;Jawa Barat;Kota;Tasikmalaya;Purbaratu;Singkup;46196
+8360;Jawa Barat;Kota;Tasikmalaya;Purbaratu;Sukaasih;46196
+8361;Jawa Barat;Kota;Tasikmalaya;Purbaratu;Sukajaya;46196
+8362;Jawa Barat;Kota;Tasikmalaya;Purbaratu;Sukamenak;46196
+8363;Jawa Barat;Kota;Tasikmalaya;Purbaratu;Sukanagara;46196
+8364;Jawa Barat;Kabupaten;Sukabumi;Purabaya;Cicukang;43187
+8365;Jawa Barat;Kabupaten;Sukabumi;Purabaya;Cimerang;43187
+8366;Jawa Barat;Kabupaten;Sukabumi;Purabaya;Citamiang;43187
+8367;Jawa Barat;Kabupaten;Sukabumi;Purabaya;Margaluyu;43187
+8368;Jawa Barat;Kabupaten;Sukabumi;Purabaya;Neglasari;43187
+8369;Jawa Barat;Kabupaten;Sukabumi;Purabaya;Pagelaran;43187
+8370;Jawa Barat;Kabupaten;Sukabumi;Purabaya;Purabaya;43187
+8371;Jawa Barat;Kabupaten;Purwakarta;Pondoksalam;Bungurjaya;41115
+8372;Jawa Barat;Kabupaten;Purwakarta;Pondoksalam;Galudra;41115
+8373;Jawa Barat;Kabupaten;Purwakarta;Pondoksalam;Gurudug;41115
+8374;Jawa Barat;Kabupaten;Purwakarta;Pondoksalam;Parakansalam;41115
+8375;Jawa Barat;Kabupaten;Purwakarta;Pondoksalam;Pondokbungur;41115
+8376;Jawa Barat;Kabupaten;Purwakarta;Pondoksalam;Salamjaya;41115
+8377;Jawa Barat;Kabupaten;Purwakarta;Pondoksalam;Salammulya;41115
+8378;Jawa Barat;Kabupaten;Purwakarta;Pondoksalam;Salem;41115
+8379;Jawa Barat;Kabupaten;Purwakarta;Pondoksalam;Situ;41115
+8380;Jawa Barat;Kabupaten;Purwakarta;Pondoksalam;Sukajadi;41115
+8381;Jawa Barat;Kabupaten;Purwakarta;Pondoksalam;Tanjung Sari;41115
+8382;Jawa Barat;Kota;Bekasi;Pondok Melati;Jati Rahayu;17414
+8383;Jawa Barat;Kota;Bekasi;Pondok Melati;Jatimelati;17414
+8384;Jawa Barat;Kota;Bekasi;Pondok Melati;Jatimurni;17431
+8385;Jawa Barat;Kota;Bekasi;Pondok Melati;Jatiwarna;17415
+8386;Jawa Barat;Kota;Bekasi;Pondok Gede;Jatibening;17412
+8387;Jawa Barat;Kota;Bekasi;Pondok Gede;Jatibening Baru;17412
+8388;Jawa Barat;Kota;Bekasi;Pondok Gede;Jaticempaka;17411
+8389;Jawa Barat;Kota;Bekasi;Pondok Gede;Jatimakmur;17413
+8390;Jawa Barat;Kota;Bekasi;Pondok Gede;Jatiwaringin;17411
+8391;Jawa Barat;Kabupaten;Cirebon;Plumbon;Bode Lor;45155
+8392;Jawa Barat;Kabupaten;Cirebon;Plumbon;Bodesari;45155
+8393;Jawa Barat;Kabupaten;Cirebon;Plumbon;Cempaka;45155
+8394;Jawa Barat;Kabupaten;Cirebon;Plumbon;Danamulya;45155
+8395;Jawa Barat;Kabupaten;Cirebon;Plumbon;Gombang;45155
+8396;Jawa Barat;Kabupaten;Cirebon;Plumbon;Karangasem;45155
+8397;Jawa Barat;Kabupaten;Cirebon;Plumbon;Karangmulya;45155
+8398;Jawa Barat;Kabupaten;Cirebon;Plumbon;Kebarepan;45155
+8399;Jawa Barat;Kabupaten;Cirebon;Plumbon;Kedungsana;45155
+8400;Jawa Barat;Kabupaten;Cirebon;Plumbon;Lurah;45155
+8401;Jawa Barat;Kabupaten;Cirebon;Plumbon;Marikangen;45155
+8402;Jawa Barat;Kabupaten;Cirebon;Plumbon;Pamijahan;45155
+8403;Jawa Barat;Kabupaten;Cirebon;Plumbon;Pasanggrahan;45155
+8404;Jawa Barat;Kabupaten;Cirebon;Plumbon;Plumbon;45155
+8405;Jawa Barat;Kabupaten;Cirebon;Plumbon;Purbawinangun;45155
+8406;Jawa Barat;Kabupaten;Purwakarta;Plered;Anjun;41162
+8407;Jawa Barat;Kabupaten;Purwakarta;Plered;Babakansari;41162
+8408;Jawa Barat;Kabupaten;Cirebon;Plered;Cangkring;45154
+8409;Jawa Barat;Kabupaten;Purwakarta;Plered;Cibogogirang;41162
+8410;Jawa Barat;Kabupaten;Purwakarta;Plered;Cibogohilir;41162
+8411;Jawa Barat;Kabupaten;Purwakarta;Plered;Citeko;41162
+8412;Jawa Barat;Kabupaten;Purwakarta;Plered;Citeko Kaler;41162
+8413;Jawa Barat;Kabupaten;Cirebon;Plered;Gamel;45154
+8414;Jawa Barat;Kabupaten;Purwakarta;Plered;Gandamekar;41162
+8415;Jawa Barat;Kabupaten;Purwakarta;Plered;Gandasoli;41162
+8416;Jawa Barat;Kabupaten;Cirebon;Plered;Kaliwulu;45154
+8417;Jawa Barat;Kabupaten;Purwakarta;Plered;Linggarsari;41162
+8418;Jawa Barat;Kabupaten;Purwakarta;Plered;Liunggunung;41162
+8419;Jawa Barat;Kabupaten;Purwakarta;Plered;Palinggihan;41162
+8420;Jawa Barat;Kabupaten;Purwakarta;Plered;Pamoyanan;41162
+8421;Jawa Barat;Kabupaten;Cirebon;Plered;Panembahan;45154
+8422;Jawa Barat;Kabupaten;Cirebon;Plered;Pangkalan;45154
+8423;Jawa Barat;Kabupaten;Purwakarta;Plered;Plered;41162
+8424;Jawa Barat;Kabupaten;Purwakarta;Plered;Rawasari;41162
+8425;Jawa Barat;Kabupaten;Cirebon;Plered;Sarabau;45154
+8426;Jawa Barat;Kabupaten;Purwakarta;Plered;Sempur;41162
+8427;Jawa Barat;Kabupaten;Purwakarta;Plered;Sindangsari;41162
+8428;Jawa Barat;Kabupaten;Cirebon;Plered;Tegalsari;45154
+8429;Jawa Barat;Kabupaten;Cirebon;Plered;Trusmi Kulon;45154
+8430;Jawa Barat;Kabupaten;Cirebon;Plered;Trusmi Wetan;45154
+8431;Jawa Barat;Kabupaten;Cirebon;Plered;Wotgali;45154
+8432;Jawa Barat;Kabupaten;Garut;Peundeuy;Pangrumasan;44178
+8433;Jawa Barat;Kabupaten;Garut;Peundeuy;Peundeuy;44178
+8434;Jawa Barat;Kabupaten;Garut;Peundeuy;Purwajaya;44178
+8435;Jawa Barat;Kabupaten;Garut;Peundeuy;Saribakti;44178
+8436;Jawa Barat;Kabupaten;Garut;Peundeuy;Sukanagara;44178
+8437;Jawa Barat;Kabupaten;Garut;Peundeuy;Toblong;44178
+8438;Jawa Barat;Kabupaten;Sukabumi;Pelabuhanratu;Buniwangi;43364
+8439;Jawa Barat;Kabupaten;Sukabumi;Pelabuhanratu;Cibodas;43364
+8440;Jawa Barat;Kabupaten;Sukabumi;Pelabuhanratu;Cikadu;43364
+8441;Jawa Barat;Kabupaten;Sukabumi;Pelabuhanratu;Cimanggu;43364
+8442;Jawa Barat;Kabupaten;Sukabumi;Pelabuhanratu;Citarik;43364
+8443;Jawa Barat;Kabupaten;Sukabumi;Pelabuhanratu;Citepus;43365
+8444;Jawa Barat;Kabupaten;Sukabumi;Pelabuhanratu;Jayanti;43364
+8445;Jawa Barat;Kabupaten;Sukabumi;Pelabuhanratu;Pasirsuren;43364
+8446;Jawa Barat;Kabupaten;Sukabumi;Pelabuhanratu;Pelabuhanratu;43364
+8447;Jawa Barat;Kabupaten;Sukabumi;Pelabuhanratu;Tonjong;43364
+8448;Jawa Barat;Kota;Cirebon;Pekalipan;Jagasatru;45115
+8449;Jawa Barat;Kota;Cirebon;Pekalipan;Pekalangan;45118
+8450;Jawa Barat;Kota;Cirebon;Pekalipan;Pekalipan;45117
+8451;Jawa Barat;Kota;Cirebon;Pekalipan;Pulasaren;45116
+8452;Jawa Barat;Kabupaten;Karawang;Pedes;Dongkal;41353
+8453;Jawa Barat;Kabupaten;Karawang;Pedes;Jatimulya;41353
+8454;Jawa Barat;Kabupaten;Karawang;Pedes;Karangjaya;41353
+8455;Jawa Barat;Kabupaten;Karawang;Pedes;Kedaljaya;41353
+8456;Jawa Barat;Kabupaten;Karawang;Pedes;Kertamulya;41353
+8457;Jawa Barat;Kabupaten;Karawang;Pedes;Kertaraharja;41353
+8458;Jawa Barat;Kabupaten;Karawang;Pedes;Labanjaya;41353
+8459;Jawa Barat;Kabupaten;Karawang;Pedes;Malangsari;41353
+8460;Jawa Barat;Kabupaten;Karawang;Pedes;Payungsari;41353
+8461;Jawa Barat;Kabupaten;Karawang;Pedes;Puspasari;41353
+8462;Jawa Barat;Kabupaten;Karawang;Pedes;Randumulya;41353
+8463;Jawa Barat;Kabupaten;Karawang;Pedes;Sungaibuntu;41353
+8464;Jawa Barat;Kabupaten;Bekasi;Pebayuran;Bantarjaya;17710
+8465;Jawa Barat;Kabupaten;Bekasi;Pebayuran;Bantarsari;17710
+8466;Jawa Barat;Kabupaten;Bekasi;Pebayuran;Karang Harja;17710
+8467;Jawa Barat;Kabupaten;Bekasi;Pebayuran;Karanghaur;17710
+8468;Jawa Barat;Kabupaten;Bekasi;Pebayuran;Karangjaya;17710
+8469;Jawa Barat;Kabupaten;Bekasi;Pebayuran;Karangpatri;17710
+8470;Jawa Barat;Kabupaten;Bekasi;Pebayuran;Karangreja;17710
+8471;Jawa Barat;Kabupaten;Bekasi;Pebayuran;Karangsegar;17710
+8472;Jawa Barat;Kabupaten;Bekasi;Pebayuran;Kertajaya;17710
+8473;Jawa Barat;Kabupaten;Bekasi;Pebayuran;Kertasari;17710
+8474;Jawa Barat;Kabupaten;Bekasi;Pebayuran;Sumberreja;17710
+8475;Jawa Barat;Kabupaten;Bekasi;Pebayuran;Sumbersari;17710
+8476;Jawa Barat;Kabupaten;Bekasi;Pebayuran;Sumberurip;17710
+8477;Jawa Barat;Kabupaten;Indramayu;Patrol;Arjasari;45257
+8478;Jawa Barat;Kabupaten;Indramayu;Patrol;Bugel;45257
+8479;Jawa Barat;Kabupaten;Indramayu;Patrol;Limpas;45257
+8480;Jawa Barat;Kabupaten;Indramayu;Patrol;Mekarsari;45257
+8481;Jawa Barat;Kabupaten;Indramayu;Patrol;Patrol;45257
+8482;Jawa Barat;Kabupaten;Indramayu;Patrol;Patrol Baru;45257
+8483;Jawa Barat;Kabupaten;Indramayu;Patrol;Patrollor;45257
+8484;Jawa Barat;Kabupaten;Indramayu;Patrol;Sukahaji;45257
+8485;Jawa Barat;Kabupaten;Subang;Patokbeusi;Ciberes;41263
+8486;Jawa Barat;Kabupaten;Subang;Patokbeusi;Gempolsari;41263
+8487;Jawa Barat;Kabupaten;Subang;Patokbeusi;Jatiragas Hilir;41263
+8488;Jawa Barat;Kabupaten;Subang;Patokbeusi;Rancaasih;41263
+8489;Jawa Barat;Kabupaten;Subang;Patokbeusi;Rancabango;41263
+8490;Jawa Barat;Kabupaten;Subang;Patokbeusi;Rancajaya;41263
+8491;Jawa Barat;Kabupaten;Subang;Patokbeusi;Rancamulya;41263
+8492;Jawa Barat;Kabupaten;Subang;Patokbeusi;Tambakjati;41263
+8493;Jawa Barat;Kabupaten;Subang;Patokbeusi;Tanjungrasa Kaler;41263
+8494;Jawa Barat;Kabupaten;Subang;Patokbeusi;Tanjungrasa Kidul;41263
+8495;Jawa Barat;Kota;Banjar;Pataruman;Batulawang;46326
+8496;Jawa Barat;Kota;Banjar;Pataruman;Binangun;46316
+8497;Jawa Barat;Kota;Banjar;Pataruman;Hegarsari;46322
+8498;Jawa Barat;Kota;Banjar;Pataruman;Karyamukti;46327
+8499;Jawa Barat;Kota;Banjar;Pataruman;Mulyasari;46335

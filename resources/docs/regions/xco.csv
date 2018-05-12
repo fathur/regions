@@ -1,0 +1,501 @@
+No;Province;City/Kab;City/Kab Name;Kec/subDistrict;Kelurahan/village;Postal Code
+33000;Kalimantan Selatan;Kabupaten;Hulu Sungai Selatan;Padang Batung;Malutu;71281
+33001;Kalimantan Selatan;Kabupaten;Hulu Sungai Selatan;Padang Batung;Mawangi;71281
+33002;Kalimantan Selatan;Kabupaten;Hulu Sungai Selatan;Padang Batung;Padang Batung;71281
+33003;Kalimantan Selatan;Kabupaten;Hulu Sungai Selatan;Padang Batung;Pahampangan;71281
+33004;Kalimantan Selatan;Kabupaten;Hulu Sungai Selatan;Padang Batung;Pandulangan;71281
+33005;Kalimantan Selatan;Kabupaten;Hulu Sungai Selatan;Padang Batung;Tabihi;71281
+33006;Kalimantan Selatan;Kabupaten;Hulu Sungai Selatan;Simpur;Amparaya;71261
+33007;Kalimantan Selatan;Kabupaten;Hulu Sungai Selatan;Simpur;Garunggang;71261
+33008;Kalimantan Selatan;Kabupaten;Hulu Sungai Selatan;Simpur;Kapuh;71261
+33009;Kalimantan Selatan;Kabupaten;Hulu Sungai Selatan;Simpur;Panjampang Bahagia;71261
+33010;Kalimantan Selatan;Kabupaten;Hulu Sungai Selatan;Simpur;Pantai Ulin;71261
+33011;Kalimantan Selatan;Kabupaten;Hulu Sungai Selatan;Simpur;Simpur;71261
+33012;Kalimantan Selatan;Kabupaten;Hulu Sungai Selatan;Simpur;Tebing Tinggi;71261
+33013;Kalimantan Selatan;Kabupaten;Hulu Sungai Selatan;Simpur;Ulin;71261
+33014;Kalimantan Selatan;Kabupaten;Hulu Sungai Selatan;Simpur;Wasah Hilir;71261
+33015;Kalimantan Selatan;Kabupaten;Hulu Sungai Selatan;Simpur;Wasah Hulu;71261
+33016;Kalimantan Selatan;Kabupaten;Hulu Sungai Selatan;Simpur;Wasah Tengah;71261
+33017;Kalimantan Selatan;Kabupaten;Hulu Sungai Selatan;Sungai Raya;Asam;71271
+33018;Kalimantan Selatan;Kabupaten;Hulu Sungai Selatan;Sungai Raya;Baru;71271
+33019;Kalimantan Selatan;Kabupaten;Hulu Sungai Selatan;Sungai Raya;Batang Kulur Kanan;71271
+33020;Kalimantan Selatan;Kabupaten;Hulu Sungai Selatan;Sungai Raya;Batang Kulur Kiri;71271
+33021;Kalimantan Selatan;Kabupaten;Hulu Sungai Selatan;Sungai Raya;Batang Kulur Tengah;71271
+33022;Kalimantan Selatan;Kabupaten;Hulu Sungai Selatan;Sungai Raya;Bumi Barkat;71271
+33023;Kalimantan Selatan;Kabupaten;Hulu Sungai Selatan;Sungai Raya;Hamalau;71271
+33024;Kalimantan Selatan;Kabupaten;Hulu Sungai Selatan;Sungai Raya;Hariti;71271
+33025;Kalimantan Selatan;Kabupaten;Hulu Sungai Selatan;Sungai Raya;Ida Manggala;71271
+33026;Kalimantan Selatan;Kabupaten;Hulu Sungai Selatan;Sungai Raya;Karasikan;71271
+33027;Kalimantan Selatan;Kabupaten;Hulu Sungai Selatan;Sungai Raya;Paring Agung;71271
+33028;Kalimantan Selatan;Kabupaten;Hulu Sungai Selatan;Sungai Raya;Sarang Halang;71271
+33029;Kalimantan Selatan;Kabupaten;Hulu Sungai Selatan;Sungai Raya;Sei/Sungai Kali;71271
+33030;Kalimantan Selatan;Kabupaten;Hulu Sungai Selatan;Sungai Raya;Sei/Sungai Raya Selatan;71271
+33031;Kalimantan Selatan;Kabupaten;Hulu Sungai Selatan;Sungai Raya;Sei/Sungai Raya Utara;71271
+33032;Kalimantan Selatan;Kabupaten;Hulu Sungai Selatan;Sungai Raya;Tamiyang;71271
+33033;Kalimantan Selatan;Kabupaten;Hulu Sungai Selatan;Sungai Raya;Tanah Bangkang;71271
+33034;Kalimantan Selatan;Kabupaten;Hulu Sungai Selatan;Sungai Raya;Telaga Bidadari;71271
+33035;Kalimantan Selatan;Kabupaten;Hulu Sungai Selatan;Telaga Langsat;Ambutun;71292
+33036;Kalimantan Selatan;Kabupaten;Hulu Sungai Selatan;Telaga Langsat;Gumbil;71292
+33037;Kalimantan Selatan;Kabupaten;Hulu Sungai Selatan;Telaga Langsat;Hamak;71292
+33038;Kalimantan Selatan;Kabupaten;Hulu Sungai Selatan;Telaga Langsat;Hamak Timur;71292
+33039;Kalimantan Selatan;Kabupaten;Hulu Sungai Selatan;Telaga Langsat;Hamak Utara;71292
+33040;Kalimantan Selatan;Kabupaten;Hulu Sungai Selatan;Telaga Langsat;Lok Binuang;71292
+33041;Kalimantan Selatan;Kabupaten;Hulu Sungai Selatan;Telaga Langsat;Longawang;71292
+33042;Kalimantan Selatan;Kabupaten;Hulu Sungai Selatan;Telaga Langsat;Mandala;71292
+33043;Kalimantan Selatan;Kabupaten;Hulu Sungai Selatan;Telaga Langsat;Pakuan Timur;71292
+33044;Kalimantan Selatan;Kabupaten;Hulu Sungai Selatan;Telaga Langsat;Pandulangan;71292
+33045;Kalimantan Selatan;Kabupaten;Hulu Sungai Selatan;Telaga Langsat;Telaga Langsat;71292
+33046;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Barabai;Awang Besar;71315
+33047;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Barabai;Ayuang;71315
+33048;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Barabai;Babai;71315
+33049;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Barabai;Bakapas;71315
+33050;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Barabai;Banua Binjai;71315
+33051;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Barabai;Banua Budi;71315
+33052;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Barabai;Banua Jingah;71315
+33053;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Barabai;Barabai Barat;71314
+33054;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Barabai;Barabai Darat;71315
+33055;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Barabai;Barabai Selatan;71311
+33056;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Barabai;Barabai Timur;71312
+33057;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Barabai;Barabai Utara;71313
+33058;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Barabai;Benawa Tengah;71315
+33059;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Barabai;Bukat;71315
+33060;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Barabai;Gambah;71315
+33061;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Barabai;Kayu Bawang;71315
+33062;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Barabai;Mandingin;71315
+33063;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Barabai;Pajukungan;71315
+33064;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batang Alai Selatan;Anduhum;71381
+33065;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batang Alai Selatan;Banua Rantau;71381
+33066;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batang Alai Selatan;Birayang;71381
+33067;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batang Alai Selatan;Birayang Surapati;71381
+33068;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batang Alai Selatan;Birayang Timur;71381
+33069;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batang Alai Selatan;Cukan Lipai;71381
+33070;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batang Alai Selatan;Kapar;71381
+33071;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batang Alai Selatan;Kias;71381
+33072;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batang Alai Selatan;Labuhan;71381
+33073;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batang Alai Selatan;Limbar;71381
+33074;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batang Alai Selatan;Lok Besar;71381
+33075;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batang Alai Selatan;Lunjuk;71381
+33076;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batang Alai Selatan;Mahela;71381
+33077;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batang Alai Selatan;Paya;71381
+33078;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batang Alai Selatan;Rangas;71381
+33079;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batang Alai Selatan;Tanah Habang;71381
+33080;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batang Alai Selatan;Tembuk Bahalang;71381
+33081;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batang Alai Selatan;Wawai;71381
+33082;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batang Alai Selatan;Wawai Gardu;71381
+33083;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batang Alai Timur;Aing Bantai;71382
+33084;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batang Alai Timur;Atiran;71382
+33085;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batang Alai Timur;Batu Perahu;71382
+33086;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batang Alai Timur;Batu Tangga;71382
+33087;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batang Alai Timur;Datar Batung;71382
+33088;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batang Alai Timur;Hinas Kiri;71382
+33089;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batang Alai Timur;Juhu;71382
+33090;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batang Alai Timur;Muara Hungi;71382
+33091;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batang Alai Timur;Nateh;71382
+33092;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batang Alai Timur;Pembakulan;71382
+33093;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batang Alai Timur;Tandilang;71382
+33094;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batang Alai Utara;Awang;71391
+33095;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batang Alai Utara;Awang Baru;71391
+33096;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batang Alai Utara;Dangu;71391
+33097;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batang Alai Utara;Hapingin;71391
+33098;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batang Alai Utara;Haur Gading;71391
+33099;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batang Alai Utara;Ilung;71391
+33100;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batang Alai Utara;Ilung Pasar Lama;71391
+33101;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batang Alai Utara;Ilung Tengah;71391
+33102;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batang Alai Utara;Labunganak;71391
+33103;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batang Alai Utara;Maringgit;71391
+33104;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batang Alai Utara;Muara Rintis;71391
+33105;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batang Alai Utara;Sumanggi;71391
+33106;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batang Alai Utara;Sumanggi Semerang / Seberang;71391
+33107;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batang Alai Utara;Telang;71391
+33108;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batu Benawa;Aluan;71371
+33109;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batu Benawa;Aluan Besar;71371
+33110;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batu Benawa;Aluan Mati;71371
+33111;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batu Benawa;Aluan Sumur;71371
+33112;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batu Benawa;Bakti;71371
+33113;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batu Benawa;Baru;71371
+33114;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batu Benawa;Haliau;71371
+33115;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batu Benawa;Kahakan;71371
+33116;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batu Benawa;Kali Baru;71371
+33117;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batu Benawa;Layuh;71371
+33118;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batu Benawa;Murung A;71371
+33119;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batu Benawa;Pagat;71371
+33120;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batu Benawa;Pantai Batung;71371
+33121;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Batu Benawa;Paya Besar;71371
+33122;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Hantakan;Alat;71372
+33123;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Hantakan;Batu Tunggal;71372
+33124;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Hantakan;Bulayak;71372
+33125;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Hantakan;Datar Ajab;71372
+33126;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Hantakan;Hantakan;71372
+33127;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Hantakan;Haruyan Dayak;71372
+33128;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Hantakan;Hinas Kanan;71372
+33129;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Hantakan;Kindingan;71372
+33130;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Hantakan;Murung B;71372
+33131;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Hantakan;Pasting;71372
+33132;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Hantakan;Patikalain;71372
+33133;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Hantakan;Tilahan;71372
+33134;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Haruyan;Andang;71363
+33135;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Haruyan;Barikin;71363
+33136;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Haruyan;Batu Panggung;71363
+33137;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Haruyan;Hapulang;71363
+33138;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Haruyan;Haruyan;71363
+33139;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Haruyan;Haruyan Seberang;71363
+33140;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Haruyan;Lokbuntar;71363
+33141;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Haruyan;Mangunang;71363
+33142;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Haruyan;Mangunang Seberang;71363
+33143;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Haruyan;Pandanu;71363
+33144;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Haruyan;Pangambau Hilir Luar;71363
+33145;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Haruyan;Panggung;71363
+33146;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Haruyan;Pengambau Hilir Dalam;71363
+33147;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Haruyan;Pengambau Hulu;71363
+33148;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Haruyan;Sei/Sungai Harang;71363
+33149;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Haruyan;Tabat Padang;71363
+33150;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Haruyan;Teluk Mesjid;71363
+33151;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Labuan Amas Selatan;Bangkal;71361
+33152;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Labuan Amas Selatan;Batang Bahalang;71361
+33153;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Labuan Amas Selatan;Benua Kepayang;71361
+33154;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Labuan Amas Selatan;Durian Gantang;71361
+33155;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Labuan Amas Selatan;Guha;71361
+33156;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Labuan Amas Selatan;Jamil;71361
+33157;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Labuan Amas Selatan;Mahang Baru;71361
+33158;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Labuan Amas Selatan;Mundar;71361
+33159;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Labuan Amas Selatan;Murung Taal;71361
+33160;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Labuan Amas Selatan;Panggang Marak;71361
+33161;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Labuan Amas Selatan;Pantai Hambawang Barat;71361
+33162;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Labuan Amas Selatan;Pantai Hambawang Timur;71361
+33163;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Labuan Amas Selatan;Sei/Sungai Jaranih;71361
+33164;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Labuan Amas Selatan;Sei/Sungai Rangas;71361
+33165;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Labuan Amas Selatan;Taal;71361
+33166;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Labuan Amas Selatan;Tabudarat Hilir;71361
+33167;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Labuan Amas Selatan;Tabudarat Hulu;71361
+33168;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Labuan Amas Selatan;Taras Padang;71361
+33169;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Labuan Amas Utara;Banua Kupang;71362
+33170;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Labuan Amas Utara;Binjai Pemangkih;71362
+33171;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Labuan Amas Utara;Binjai Pirua;71362
+33172;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Labuan Amas Utara;Kadundung;71362
+33173;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Labuan Amas Utara;Kasarangan;71362
+33174;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Labuan Amas Utara;Kupang Samhurang;71362
+33175;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Labuan Amas Utara;Mantaas;71362
+33176;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Labuan Amas Utara;Pahalatan;71362
+33177;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Labuan Amas Utara;Parumahan (Perumahan);71362
+33178;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Labuan Amas Utara;Pemangkih;71362
+33179;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Labuan Amas Utara;Pemangkih Seberang;71362
+33180;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Labuan Amas Utara;Ranatu Kaminting (Rantau Keminting);71362
+33181;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Labuan Amas Utara;Rantau Bujur;71362
+33182;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Labuan Amas Utara;Sei/Sungai Buluh;71362
+33183;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Labuan Amas Utara;Tabat;71362
+33184;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Labuan Amas Utara;Tungkup;71362
+33185;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Limpasu;Abung;71391
+33186;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Limpasu;Abung Surapati;71391
+33187;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Limpasu;Hawang;71391
+33188;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Limpasu;Kabang;71391
+33189;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Limpasu;Karatungan;71391
+33190;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Limpasu;Karau;71391
+33191;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Limpasu;Limpasu;71391
+33192;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Limpasu;Pauh;71391
+33193;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Limpasu;Tapuk;71391
+33194;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Pandawan;Banua Asam;71352
+33195;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Pandawan;Banua Batung;71352
+33196;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Pandawan;Banua Hanyar;71352
+33197;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Pandawan;Banua Supanggal;71352
+33198;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Pandawan;Buluan;71352
+33199;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Pandawan;Hilir Banua;71352
+33200;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Pandawan;Hulu Rasau;71352
+33201;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Pandawan;Jaranih;71352
+33202;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Pandawan;Jatuh;71352
+33203;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Pandawan;Kambat Selatan;71352
+33204;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Pandawan;Kambat Utara;71352
+33205;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Pandawan;Kayu Rabah;71352
+33206;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Pandawan;Mahang Matang Landung;71352
+33207;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Pandawan;Mahang Putat;71352
+33208;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Pandawan;Mahang Sei/Sungai Hanyar;71352
+33209;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Pandawan;Masiraan;71352
+33210;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Pandawan;Matang Ginalun;71352
+33211;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Pandawan;Palajau;71352
+33212;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Pandawan;Pandawan;71352
+33213;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Pandawan;Setiap;71352
+33214;Kalimantan Selatan;Kabupaten;Hulu Sungai Tengah;Pandawan;Walatung;71352
+33215;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Selatan;Bajawit;71452
+33216;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Selatan;Banyu Hirang;71452
+33217;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Selatan;Cangkering;71452
+33218;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Selatan;Cempaka;71452
+33219;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Selatan;Harusan Telaga;71452
+33220;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Selatan;Ilir Mesjid;71452
+33221;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Selatan;Jarang Kuantan;71452
+33222;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Selatan;Jumba;71452
+33223;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Selatan;Kayakah;71452
+33224;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Selatan;Keramat;71452
+33225;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Selatan;Kota Raja;71452
+33226;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Selatan;Kutai Kecil;71452
+33227;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Selatan;Mamar;71452
+33228;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Selatan;Murung Panggang;71452
+33229;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Selatan;Murung Sari;71452
+33230;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Selatan;Padang Darat;71452
+33231;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Selatan;Padang Tanggul;71452
+33232;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Selatan;Panyiuran;71452
+33233;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Selatan;Pulau Tambak;71452
+33234;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Selatan;Rukam Hilir;71452
+33235;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Selatan;Rukam Hulu;71452
+33236;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Selatan;Simpang Empat;71452
+33237;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Selatan;Simpang Tiga;71452
+33238;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Selatan;Telaga Hanyar;71452
+33239;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Selatan;Telaga Sari;71452
+33240;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Selatan;Telaga Silaba;71452
+33241;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Selatan;Teluk Baru;71452
+33242;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Selatan;Teluk Paring;71452
+33243;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Selatan;Teluk Sari;71452
+33244;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Selatan;Ujung Murung;71452
+33245;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Tengah;Antasari;71419
+33246;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Tengah;Danau Caramin;71419
+33247;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Tengah;Datu Kuning;71419
+33248;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Tengah;Harus;71419
+33249;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Tengah;Harusan;71419
+33250;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Tengah;Hulu Pasar;71412
+33251;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Tengah;Kandang Halang;71419
+33252;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Tengah;Kebun Sari;71419
+33253;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Tengah;Kembang Kuning;71419
+33254;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Tengah;Kota Raden Hilir;71419
+33255;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Tengah;Kota Raden Hulu;71419
+33256;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Tengah;Mawar Sari;71419
+33257;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Tengah;Muara Tapus;71419
+33258;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Tengah;Murung Sari;71414
+33259;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Tengah;Palampitan Hilir;71419
+33260;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Tengah;Palampitan Hulu;71419
+33261;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Tengah;Paliwara;71418
+33262;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Tengah;Pasar Senin;71419
+33263;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Tengah;Pinang Habang;71419
+33264;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Tengah;Pinang Kara;71419
+33265;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Tengah;Rantawan;71419
+33266;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Tengah;Sei/Sungai Baring;71419
+33267;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Tengah;Sei/Sungai Karias;71419
+33268;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Tengah;Sei/Sungai Malang;71418
+33269;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Tengah;Tambalangan;71413
+33270;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Tengah;Tangga Ulin Hilir;71417
+33271;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Tengah;Tangga Ulin Hulu;71417
+33272;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Tengah;Tapus;71419
+33273;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Tengah;Tigarun;71419
+33274;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Utara;Air Tawar;71471
+33275;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Utara;Cakru;71471
+33276;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Utara;Guntung;71471
+33277;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Utara;Kamayahan;71471
+33278;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Utara;Kuangan;71471
+33279;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Utara;Muara Baruh;71471
+33280;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Utara;Murung Karangan;71471
+33281;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Utara;Padang Basar Hilir;71471
+33282;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Utara;Padang Basar Hulu;71471
+33283;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Utara;Padang Luar;71471
+33284;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Utara;Pakacangan;71471
+33285;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Utara;Pakapuran;71471
+33286;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Utara;Pamintangan;71471
+33287;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Utara;Panangian;71471
+33288;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Utara;Panangkalaan;71471
+33289;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Utara;Panangkalaan Hulu;71471
+33290;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Utara;Pandawan (Pandawanan);71471
+33291;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Utara;Panyaungan;71471
+33292;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Utara;Pimping;71471
+33293;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Utara;Sei/Sungai Turak;71471
+33294;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Utara;Sei/Sungai Turak Dalam;71471
+33295;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Utara;Tabalong Mati;71471
+33296;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Utara;Tabing Lering;71471
+33297;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Utara;Tayur;71471
+33298;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Utara;Telaga Bamban;71471
+33299;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Amuntai Utara;Teluk Daun;71471
+33300;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Babirik;Babirik Hilir;71454
+33301;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Babirik;Babirik Hulu;71454
+33302;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Babirik;Hambuku Baru;71454
+33303;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Babirik;Hambuku Hilir;71454
+33304;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Babirik;Hambuku Lima;71454
+33305;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Babirik;Kalumpang Dalam;71454
+33306;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Babirik;Kalumpang Luar;71454
+33307;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Babirik;Murung Kupang;71454
+33308;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Babirik;Murung Panti Hilir;71454
+33309;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Babirik;Murung Panti Hulu;71454
+33310;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Babirik;Pajukungan Hilir;71454
+33311;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Babirik;Parupukan;71454
+33312;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Babirik;Sungai Dalam;71454
+33313;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Babirik;Sungai Durait Hilir;71454
+33314;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Babirik;Sungai Durait Hulu;71454
+33315;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Babirik;Sungai Durait Tengah;71454
+33316;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Babirik;Sungai Janjam;71454
+33317;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Babirik;Sungai Luang Hulu;71454
+33318;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Babirik;Sungai Nyiur;71454
+33319;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Babirik;Sungai Papuyu;71454
+33320;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Babirik;Teluk Limbung;71454
+33321;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Banjang;Banjang;71416
+33322;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Banjang;Baruh Tabing;71416
+33323;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Banjang;Beringin/Baringin;71416
+33324;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Banjang;Danau Terate/Terati;71416
+33325;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Banjang;Garunggang;71416
+33326;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Banjang;Kalintamui;71416
+33327;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Banjang;Kaludan Besar;71416
+33328;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Banjang;Kaludan Kecil;71416
+33329;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Banjang;Karias Dalam;71416
+33330;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Banjang;Lok Bangkai;71416
+33331;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Banjang;Murung Padang;71416
+33332;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Banjang;Palanjungan Sari;71416
+33333;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Banjang;Pandulangan;71416
+33334;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Banjang;Patarikan;71416
+33335;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Banjang;Pawalutan;71416
+33336;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Banjang;Pulau Damar;71416
+33337;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Banjang;Rantau Bujur;71416
+33338;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Banjang;Sei/Sungai Bahadangan;71416
+33339;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Banjang;Teluk Buluh;71416
+33340;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Banjang;Teluk Sarikat;71416
+33341;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Danau Panggang;Baru;71453
+33342;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Danau Panggang;Bitin;71453
+33343;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Danau Panggang;Danau Panggang;71453
+33344;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Danau Panggang;Darussalam;71453
+33345;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Danau Panggang;Long Kong;71453
+33346;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Danau Panggang;Manarap;71453
+33347;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Danau Panggang;Manarap Hulu;71453
+33348;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Danau Panggang;Palukahan;71453
+33349;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Danau Panggang;Pandamaan;71453
+33350;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Danau Panggang;Pararain;71453
+33351;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Danau Panggang;Rintisan;71453
+33352;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Danau Panggang;Sarang Burung;71453
+33353;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Danau Panggang;Sei/Sungai Namang;71453
+33354;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Danau Panggang;Sei/Sungai Panangah;71453
+33355;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Danau Panggang;Telaga Mas;71453
+33356;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Danau Panggang;Teluk Mesjid;71453
+33357;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Haur Gading;Bayur;71471
+33358;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Haur Gading;Haur Gading;71471
+33359;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Haur Gading;Jingah Bujur;71471
+33360;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Haur Gading;Keramat/Karamat;71471
+33361;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Haur Gading;Loksoga/Lok Suga;71471
+33362;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Haur Gading;Palimbangan;71471
+33363;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Haur Gading;Palimbangan Gusti;71471
+33364;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Haur Gading;Palimbangan Sari;71471
+33365;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Haur Gading;Panawakan;71471
+33366;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Haur Gading;Pihaung;71471
+33367;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Haur Gading;Pulantani/Polantani;71471
+33368;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Haur Gading;Sei/Sungai Binuang;71471
+33369;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Haur Gading;Sei/Sungai Limas;71471
+33370;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Haur Gading;Tambak Sari Panji;71471
+33371;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Haur Gading;Tangkawang;71471
+33372;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Haur Gading;Teluk Haur;71471
+33373;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Haur Gading;Tuhuran;71471
+33374;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Haur Gading;Waringin;71471
+33375;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Paminggir;Ambahai;71453
+33376;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Paminggir;Bararawa;71453
+33377;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Paminggir;Pal Batu;71453
+33378;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Paminggir;Paminggir;71453
+33379;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Paminggir;Paminggir Seberang;71453
+33380;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Paminggir;Sapala;71453
+33381;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Paminggir;Tampakang;71453
+33382;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Pandan;Banyu Tajun Dalam;71455
+33383;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Pandan;Banyu Tajun Hilir;71455
+33384;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Pandan;Banyu Tajun Hulu;71455
+33385;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Pandan;Banyu Tajun Pangkalan;71455
+33386;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Pandan;Hambuku Hulu;71455
+33387;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Pandan;Hambuku Pasar;71455
+33388;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Pandan;Hambuku Raya;71455
+33389;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Pandan;Hambuku Tengah;71455
+33390;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Pandan;Jalan Lurus;71455
+33391;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Pandan;Murung Asam;71455
+33392;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Pandan;Padang Bangkal;71455
+33393;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Pandan;Pandulangan;71455
+33394;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Pandan;Pangkalan Sari;71455
+33395;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Pandan;Pondok Babaris;71455
+33396;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Pandan;Putat Atas /Tatau;71455
+33397;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Pandan;Rantau Karau Hilir;71455
+33398;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Pandan;Rantau Karau Hulu;71455
+33399;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Pandan;Rantau Karau Raya;71455
+33400;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Pandan;Rantau Karau Tengah;71455
+33401;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Pandan;Sei/Sungai Kuini;71455
+33402;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Pandan;Sei/Sungai Pandan Hilir;71455
+33403;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Pandan;Sei/Sungai Pandan Hulu;71455
+33404;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Pandan;Sei/Sungai Pandan Tengah;71455
+33405;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Pandan;Sei/Sungai Pinang;71455
+33406;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Pandan;Sei/Sungai Sandung;71455
+33407;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Pandan;Tambalang;71455
+33408;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Pandan;Tambalang Kecil;71455
+33409;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Pandan;Tambalang Tengah;71455
+33410;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Pandan;Tapus Dalam;71455
+33411;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Pandan;Tatah Laban;71455
+33412;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Pandan;Teluk Betung;71455
+33413;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Pandan;Teluk Mesjid;71455
+33414;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Pandan;Teluk Sinar;71455
+33415;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Tabukan;Banua Hanyar;71455
+33416;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Tabukan;Galagah;71455
+33417;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Tabukan;Galagah Hulu;71455
+33418;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Tabukan;Gampa Raya;71455
+33419;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Tabukan;Hilir Mesjid;71455
+33420;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Tabukan;Nelayan;71455
+33421;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Tabukan;Pasar Sabtu;71455
+33422;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Tabukan;Pematang Benteng;71455
+33423;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Tabukan;Pematang Benteng Hilir;71455
+33424;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Tabukan;Rantau Bujur Darat;71455
+33425;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Tabukan;Rantau Bujur Hilir;71455
+33426;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Tabukan;Rantau Bujur Hulu;71455
+33427;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Tabukan;Rantau Bujur Tengah;71455
+33428;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Tabukan;Sei/Sungai Haji;71455
+33429;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Tabukan;Sei/Sungai Tabukan;71455
+33430;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Tabukan;Tambalang Raya;71455
+33431;Kalimantan Selatan;Kabupaten;Hulu Sungai Utara;Sungai Tabukan;Teluk Cati;71455
+33432;Kalimantan Selatan;Kabupaten;Kotabaru;Hampang;Cantung Kanan;72163
+33433;Kalimantan Selatan;Kabupaten;Kotabaru;Hampang;Cantung Kiri Hulu;72163
+33434;Kalimantan Selatan;Kabupaten;Kotabaru;Hampang;Hampang;72163
+33435;Kalimantan Selatan;Kabupaten;Kotabaru;Hampang;Hulu Sampanahan;72163
+33436;Kalimantan Selatan;Kabupaten;Kotabaru;Hampang;Lalapin;72163
+33437;Kalimantan Selatan;Kabupaten;Kotabaru;Hampang;Limbungan;72163
+33438;Kalimantan Selatan;Kabupaten;Kotabaru;Hampang;Limbur;72163
+33439;Kalimantan Selatan;Kabupaten;Kotabaru;Hampang;Muara Ore;72163
+33440;Kalimantan Selatan;Kabupaten;Kotabaru;Hampang;Peramasan 2X 9 (Sanga/Sembilan);72163
+33441;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Barat;Batang Kulur;72164
+33442;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Barat;Bungkukan;72164
+33443;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Barat;Magalau Hilir;72167
+33444;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Barat;Magalau Hulu;72167
+33445;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Barat;Si Ayuh;72164
+33446;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Barat;Tanjung Sari;72164
+33447;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Hilir;Langadai;72161
+33448;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Hilir;Mandala;72161
+33449;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Hilir;Pelaju Baru;72161
+33450;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Hilir;Pulau Panci;72161
+33451;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Hilir;Sahapi;72161
+33452;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Hilir;Serongga;72161
+33453;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Hilir;Tarjun;72161
+33454;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Hilir;Tegal Rejo;72161
+33455;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Hilir;Telaga Sari;72161
+33456;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Hulu;Bangkalan/Bangkalaan Dayak;72162
+33457;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Hulu;Bangkalan/Bangkalaan Melayu;72162
+33458;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Hulu;Banua Lawas;72162
+33459;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Hulu;Cantung Kiri Hilir;72162
+33460;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Hulu;Karang Liwar;72162
+33461;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Hulu;Karang Payau;72162
+33462;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Hulu;Laburan;72162
+33463;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Hulu;Mangkirana;72162
+33464;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Hulu;Sei/Sungai Kupang;72162
+33465;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Hulu;Sido Mulyo;72162
+33466;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Selatan;Bumi Asih;72161
+33467;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Selatan;Pantai;72161
+33468;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Selatan;Pantai Baru;72161
+33469;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Selatan;Pembelancanan;72161
+33470;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Selatan;Sangking Baru;72161
+33471;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Selatan;Sei/Sungai Kupang Jaya;72161
+33472;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Selatan;Sei/Sungai Nipah;72161
+33473;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Selatan;Suka Maju;72161
+33474;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Selatan;Tanjung Pangga;72161
+33475;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Tengah;Geronggang;72164
+33476;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Tengah;Sang-Sang;72164
+33477;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Tengah;Sebuli;72164
+33478;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Tengah;Sei/Sungai Pinang;72164
+33479;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Tengah;Sei/Sungai Punggawa;72164
+33480;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Tengah;Sembilang;72164
+33481;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Tengah;Senakin;72164
+33482;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Tengah;Senakin Seberang;72164
+33483;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Tengah;Tamiang Bakung;72164
+33484;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Tengah;Tanah Rata;72164
+33485;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Tengah;Tanjung Batu;72164
+33486;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Tengah;Tanjung Selayar;72164
+33487;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Tengah;Tebing Tinggi;72164
+33488;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Utara;Mangga;72165
+33489;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Utara;Pudi;72165
+33490;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Utara;Pudi Seberang;72165
+33491;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Utara;Sei/Sungai Hanyar;72165
+33492;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Utara;Sei/Sungai Seluang;72165
+33493;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Utara;Sulangkit;72165
+33494;Kalimantan Selatan;Kabupaten;Kotabaru;Kelumpang Utara;Wilas;72165
+33495;Kalimantan Selatan;Kabupaten;Kotabaru;Pamukan Barat;Batuah;72169
+33496;Kalimantan Selatan;Kabupaten;Kotabaru;Pamukan Barat;Mangka;72169
+33497;Kalimantan Selatan;Kabupaten;Kotabaru;Pamukan Barat;Marga Jaya;72169
+33498;Kalimantan Selatan;Kabupaten;Kotabaru;Pamukan Barat;Mayang Sari;72169
+33499;Kalimantan Selatan;Kabupaten;Kotabaru;Pamukan Barat;Sengayam;72169
